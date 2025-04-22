@@ -1,0 +1,1 @@
+python start_llama_server.py ../llama.cpp/models/prithivMLmods.Pegasus-Opus-14B-Exp.Q4_K_S.gguf -ngl 99 --port 8080
