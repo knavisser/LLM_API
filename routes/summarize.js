@@ -30,6 +30,7 @@ const router = express.Router();
 
 router.post('/', authMiddleware, async (req, res) => {
   const { text } = req.body;
+  console.log("text", text)
   if (!text) return res.status(400).json({ error: 'Missing text input' });
 
   const prompt = buildPrompt(text);
@@ -42,10 +43,17 @@ router.post('/', authMiddleware, async (req, res) => {
     });
 
     res.json({ summary: response.data.content || response.data });
+    console.log(response.data);
   } catch (err) {
-    console.error(err.message);
-    res.status(500).json({ error: 'LLM call failed' });
+    if (err.response) {
+      console.error('LLM error response:', err.response.data);
+      res.status(500).json({ error: err.response.data });
+    } else {
+      console.error('LLM error:', err.message);
+      res.status(500).json({ error: 'LLM call failed' });
+    }
   }
+  
 });
 
 export default router;

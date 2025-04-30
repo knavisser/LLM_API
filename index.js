@@ -36,4 +36,5 @@ app.use('/health', healthRoute);
 app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
 const PORT = process.env.PORT || 3000;
+console.log(`Checking LLM server on ${process.env.LLM_API_URL}`);
 app.listen(PORT, () => console.log(`LLM API running on port ${PORT}`));

@@ -37,29 +37,33 @@ const LLM_API_URL = process.env.LLM_API_URL || 'http://localhost:8080/completion
 
 
 router.get('/', async (req, res) => {
-  let llmStatus = 'offline';
+  const status = {
+    api: 'ok',
+    llm: 'offline',
+    uptime: process.uptime(),
+    timestamp: Date.now()
+  };
 
   try {
-    const response = await axios.post(LLM_API_URL, {
-      prompt: '',
+    const response = await axios.post(process.env.LLM_API_URL || 'http://127.0.0.1:8080/completion', {
+      prompt: ' ',
       n_predict: 0
     }, {
-      timeout: 1000 // quick check
+      timeout: 1000,
+      headers: {
+        'Content-Type': 'application/json'
+      }
     });
 
     if (response.status === 200) {
-      llmStatus = 'online';
+      status.llm = 'online';
     }
   } catch (err) {
-    llmStatus = 'offline';
+    console.error('LLM error:', err.message);
   }
 
-  res.json({
-    api: 'ok',
-    llm: llmStatus,
-    uptime: process.uptime(),
-    timestamp: Date.now()
-  });
+  res.json(status);
 });
+
 
 export default router;
