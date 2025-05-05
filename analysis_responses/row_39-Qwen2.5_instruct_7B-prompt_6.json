@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-0ff639ab680343aab0dfa706bde43ac8",
+  "object": "text_completion",
+  "created": 1746107611,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Tijdens het huisbezoek bij moeder en Milan werd aangehaald dat Milan aanhoudend zorgen veroorzaakt door zijn gedrag in de klas: hij is snel gefrustreerd, heeft moeite met overgangen en regelmatig wegloopt uit de situatie. Moeder herkent dit gedrag ook thuis, vooral in de ochtendspits, waar Milan 'ontploft' bij kleine tegenvallers. Ze ervaren stress rond op tijd komen en hebben moeite met hiermee om te gaan. Tijdens het gesprek werd psycho-educatie gegeven over prikkelverwerking en het belang van voorspelbaarheid. Samen met moeder is een visueel ochtendplan opgesteld met pictogrammen, bedoeld om structuur te bieden en escalatie te voorkomen. Het is afgesproken dat school intern ondersteuning in de vorm van een gedragsspecialist zal inzetten. Over twee weken zal de auteur opnieuw langskomen om te evalueren hoe het ochtendplan werkt en hoe het op school verloopt.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 544,
+    "total_tokens": 811,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 544,
+    "prompt_ms": 541.695,
+    "prompt_per_token_ms": 0.995763698,
+    "prompt_per_second": 1004.254324558,
+    "predicted_n": 267,
+    "predicted_ms": 4875.259,
+    "predicted_per_token_ms": 18.25939725,
+    "predicted_per_second": 54.766320396
+  }
+}

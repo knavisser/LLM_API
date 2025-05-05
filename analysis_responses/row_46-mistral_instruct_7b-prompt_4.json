@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-4964f0f2d97745ef9b66a30352b67ff7",
+  "object": "text_completion",
+  "created": 1746090590,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nBrian heeft zichzelfs een begeleidingsmoment aan huis gehad, waarbij hij trots was op het feit dat hij boodschappen gedaan had en gekookt had. Hij gaf aan dat het lastig blijft om de structuur vol te houden op dagen dat hij zich \u2018leeg\u2019 voelt. Hij voelde druk over een aanstaande afspraak met zijn broer, met wie hij in het verleden meerdere conflicten heeft gehad. Hij voelde gespannen over de afspraak, maar weet niet goed hoe hij grenzen kan bewaken. Een betalingsherinnering van de zorgverzekeraar werd ontdekt, en het is afgesproken dat hij vrijdag telefonisch contact opneemt om een betalingsregeling te bespreken. Brian heeft een planning op papier bijgehouden, met maximaal drie taken per dag, inclusief \u00e9\u00e9n moment van rust. Deze zal in de volgende week besproken worden, en het zal dan ook ontdekt worden of hij opnieuw heeft kunnen koken.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 728,
+    "total_tokens": 996,
+    "completion_tokens": 268,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 728,
+    "prompt_ms": 1300.957,
+    "prompt_per_token_ms": 1.787029059,
+    "prompt_per_second": 559.587990331,
+    "predicted_n": 268,
+    "predicted_ms": 11708.614,
+    "predicted_per_token_ms": 43.68885969,
+    "predicted_per_second": 22.889130252
+  }
+}

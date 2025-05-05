@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-d019ce0c7d814f9e8ccb13cc10991b82",
+  "object": "text_completion",
+  "created": 1746090003,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nWilhelmina, 65, heeft COPD en voelt zich elke ochtend vermoeid. Ze begint haar dag met een moment van rust en medicatie, waarna ze aan haar ochtendroutine werkt. Ze voelt beter als ze zichzelf zorgvuldig aanhoudt met haar ademhaling. Wilhelmina vindt het prettig om iets te doen, maar niet als er druk op haar wordt gelegd. Ze heeft redelijk stabiel ademhaling tijdens de lunch, maar voelt zich vermoeid. Wilhelmina vindt een rustige omgeving zonder veel prikkels belangrijk om haar ademhaling te ondersteunen. In de middag koos ze voor een ontspannende activiteit, maar moest voldoende pauzes nemen. Wilhelmina vindt een gestructureerde dagindeling, voldoende rustmomenten en een prikkelarme omgeving belangrijk om haar ademhaling te ondersteunen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 611,
+    "total_tokens": 857,
+    "completion_tokens": 246,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 611,
+    "prompt_ms": 1194.363,
+    "prompt_per_token_ms": 1.954768254,
+    "prompt_per_second": 511.569592891,
+    "predicted_n": 246,
+    "predicted_ms": 10749.271,
+    "predicted_per_token_ms": 43.696222073,
+    "predicted_per_second": 22.885273659
+  }
+}

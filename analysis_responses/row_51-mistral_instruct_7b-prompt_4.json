@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-7ce1bbb29b9d43adb0ecaacc57f25bfe",
+  "object": "text_completion",
+  "created": 1746090680,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nHet huisbezoek bij moeder van Noor vond plaats in de keuken. Moeder oogde vermoeid maar toonde zich bereid om open te praten. Moeder vertelde dat de afgelopen week onrustig is verlopen. Noor heeft meerdere keren driftbuien gehad, met name in de ochtenden voor school. Moeder benoemde dat ze op die momenten het gevoel heeft te falen, en soms mee gaat schreeuwen uit machteloosheid. Er is psycho-educatie gegeven over prikkelgevoeligheid en executieve functies bij kinderen met ontwikkelingsproblematiek (bij Noor is ADHD vermoed, er loopt diagnostiek). Besproken dat Noor waarschijnlijk moeite heeft met schakelen en overgangen, vooral bij tijdsdruk. Samen met moeder is een visueel stappenplan voor de ochtend opgesteld, met pictogrammen voor elke handeling. Daarbij is afgesproken dat Noor \u00e9\u00e9n keuze per ochtend krijgt, zodat ze meer regie ervaart zonder overprikkeld te raken. Moeder gaf aan zich eenzaam te voelen in de opvoeding. Haar netwerk is klein; vader van Noor is niet betrokken. Ze voelt zich beoordeeld door anderen en twijfelt aan haar eigen handelen. Hierop is ruimte genomen om erkenning te geven voor haar inzet.\n\nIn de volgende week zal een kort moment met Noor zelf plan worden gepland om haar perspectief te horen. Daarnaast wordt contact gelegd met een oudergroep in de buurt gericht op alleenstaande ouders met jonge kinderen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 805,
+    "total_tokens": 1245,
+    "completion_tokens": 440,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 805,
+    "prompt_ms": 2095.372,
+    "prompt_per_token_ms": 2.602946951,
+    "prompt_per_second": 384.179938704,
+    "predicted_n": 440,
+    "predicted_ms": 18858.351,
+    "predicted_per_token_ms": 42.85988786,
+    "predicted_per_second": 23.331838927
+  }
+}

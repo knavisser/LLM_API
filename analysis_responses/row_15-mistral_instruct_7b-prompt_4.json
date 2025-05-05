@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-8d2bf4f7eb1a48a4b623d637a2f78300",
+  "object": "text_completion",
+  "created": 1746090068,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nAlbert, een persoon met Parkinson, begon de ochtend met frustratie omdat hij merkte dat zijn stijfheid en trillingen meer aanwezig waren dan normaal. Hij had wat extra tijd nodig om op te starten, maar na zijn medicatie en een rustig ontbijt klaarde zijn stemming op. Hij koos ervoor om even naar muziek te luisteren, wat hem hielp zijn gedachten te verzetten en de dag rustig te beginnen. Halverwege de ochtend wilde Albert graag naar buiten. In plaats van een wandeling koos hij ervoor om op een bankje in de tuin te zitten. Hij genoot van het geluid van de wind en de vogels om zich heen, wat hem zichtbaar kalmeerde. De middag verliep in een rustig tempo. Albert werkte mee aan het sorteren van wat persoonlijke spullen, een taak die hem focus en voldoening gaf. Hoewel hij snel moe werd, gaf hij aan tevreden te zijn met wat hij had kunnen doen. Aan het einde van de dag benoemde hij dat hij zich prettig voelde bij de balans tussen activiteit en rust. Hij waardeert een flexibele aanpak waarin ruimte is om zich aan te passen aan zijn energieniveau.\n\nAlbert's dag begon met frustratie, maar hij klaarde zijn stemming op door muziek te luisteren. Hij koos ervoor om op een bankje in de tuin te zitten, wat hem kalmde. De middag verliep in een rustig tempo en Albert werkte mee aan een taak die hem focus en voldoening gaf. Aan het einde van de dag benoemde hij dat hij zich prettig voelde bij de balans tussen activiteit en rust. Hij waardeert een flexibele aanpak waarin ruimte is om zich aan te passen aan zijn energieniveau.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 569,
+    "total_tokens": 1058,
+    "completion_tokens": 489,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 569,
+    "prompt_ms": 2260.106,
+    "prompt_per_token_ms": 3.972067481,
+    "prompt_per_second": 251.758059194,
+    "predicted_n": 489,
+    "predicted_ms": 20340.958,
+    "predicted_per_token_ms": 41.597050246,
+    "predicted_per_second": 24.040166168
+  }
+}

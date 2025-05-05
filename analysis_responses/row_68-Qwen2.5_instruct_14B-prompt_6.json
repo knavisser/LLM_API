@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-6863e86e09ed41e7aec247669c8d8988",
+  "object": "text_completion",
+  "created": 1746109115,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Daan, 11 jaar, presenteerde zich stiller dan normaal met klachten over hoofdpijn en slecht slapen. Hij piekerde over ruzies thuis en voelde zich verantwoordelijk voor het welzijn van het gezin. Zijn moeder erkende dat ze zich soms machteloos en schuldig voelt wanneer ze haar geduld verliest. Een 'stoplichtkaart' werd ingevoerd om spanningssignalen te signaleren: rood (overspoeld), oranje (hulp nodig) en groen (alles goed). Daan tekende wat hem boos maakt en sprak over onduidelijke regels thuis. De sessie eindigde met een ademhalingsoefening waardoor hij zich rustiger voelde. Ze besloten de kaart de komende week te gebruiken en te evalueren.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 812,
+    "total_tokens": 1019,
+    "completion_tokens": 207,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 812,
+    "prompt_ms": 748.795,
+    "prompt_per_token_ms": 0.92216184,
+    "prompt_per_second": 1084.408350866,
+    "predicted_n": 207,
+    "predicted_ms": 6739.159,
+    "predicted_per_token_ms": 32.556322347,
+    "predicted_per_second": 30.716000086
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-84af0af067b64922a8599149dec46250",
+  "object": "text_completion",
+  "created": 1746109132,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Brian had een huisbezoek ontvangen op vrijdag 25 april om 09:30. Hij vertelde dat hij sinds het laatste gesprek zijn ochtenden rustiger probeert te starten door een vaste routine te volgen: opstaan, douchen, thee zetten en een half uur muziek luisteren. Hij beschreef dit als 'mijn ankerpuntje'. Brian voelde zich ongemakkelijk toen zijn buurvrouw hem aangaf om samen te koken, omdat hij zich snel verplicht voelt om sociaal te zijn, hoewel hij daar niet altijd ruimte voor heeft. Hij was opgelucht dat hij niet per se hoefde toe te zeggen. Samen hebben ze zijn post doorgenomen; de meeste brieven waren reclame, maar er was ook een brief van de woningbouw over de jaarlijkse afrekening servicekosten. Brian schrok ervan, maar na het lezen van de brief bleek alles in orde te zijn. Hij merkte op dat hij zich deze week meer in balans voelde dan vorige week, omdat hij minder aan het vluchten was. Afgesproken dat hij voor volgende week een weekoverzicht bijhoudt met drie dingen per dag die hij doet of probeert te doen, en dat ze dat dan samen bekijken. Het volgende huisbezoek is gepland voor volgende vrijdag.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 863,
+    "total_tokens": 1199,
+    "completion_tokens": 336,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 863,
+    "prompt_ms": 1242.971,
+    "prompt_per_token_ms": 1.440291001,
+    "prompt_per_second": 694.304136488,
+    "predicted_n": 336,
+    "predicted_ms": 11186.74,
+    "predicted_per_token_ms": 33.293869666,
+    "predicted_per_second": 30.0355594
+  }
+}

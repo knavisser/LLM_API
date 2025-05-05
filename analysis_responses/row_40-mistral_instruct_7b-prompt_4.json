@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-0e286d6f3a234ee194dcfe2e4e856d67",
+  "object": "text_completion",
+  "created": 1746090488,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nJordi, een 25-jarige man, werd thuis in zijn woonkamer bezocht door een huisbezoeker. In de vorige gesprek had hij zich rustiger voelt. Hij had een structuur kunnen aanhouden door dagelijks op hetzelfde tijdstip op te staan, een wandeling te beginnen en een huishoudelijke taak op te pakken. Hij was trots op dit en vond het helpt om zijn gedachten te ordenen. Onder meer contact met schuldeisers bracht hem veel spanning. Hij had brieven ontvangen van twee instanties, maar deze niet geopend. Tijdens het gesprek uitte hij zich gefrustreerd en onzeker over hoe hiermee om te gaan. De huisbezoeker en Jordi hebben samen de enveloppen geopend, de inhoud besproken en \u00e9\u00e9n instantie direct gemaild om een betalingsregeling te bespreken. Jordi voelde zich overrompeld door het onverwachts aankomen van zijn ouders op zondag. De huisbezoeker en Jordi hebben besproken hoe hij zijn grenzen kan aangeven in dergelijke situaties. Afgesproken is dat Jordi een eenvoudige planning op papier bijhoudt met vaste dagonderdelen en dat hij per dag \u00e9\u00e9n administratieve taak oppakt. In de volgende week zal er een kennismakingsafspraak worden gemaakt met schuldhulpverlening via het wijkteam.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 645,
+    "total_tokens": 1025,
+    "completion_tokens": 380,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 645,
+    "prompt_ms": 1815.803,
+    "prompt_per_token_ms": 2.815198233,
+    "prompt_per_second": 355.214772548,
+    "predicted_n": 380,
+    "predicted_ms": 16342.226,
+    "predicted_per_token_ms": 43.005857217,
+    "predicted_per_second": 23.25264661
+  }
+}

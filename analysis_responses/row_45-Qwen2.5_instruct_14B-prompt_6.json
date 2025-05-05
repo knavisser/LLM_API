@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-6ae577b1800e476f97685ffc99ba0deb",
+  "object": "text_completion",
+  "created": 1746108911,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Huisbezoek bij het gezin van Jesse. Ouders vertellen dat hij thuis rustig en aanhankelijk is, maar de laatste weken sneller boos wordt, vooral bij het afbreken van activiteiten zoals tabletgebruik. Ouders voelen zich soms machteloos. Psycho-educatie over emotieregulatie, voorspelbaarheid en duidelijke grenzen. Beloningssysteem opgesteld: Jesse krijgt een sticker voor elke situatie waarin hij goed stopt met een activiteit zonder boos worden; vijf stickers leiden tot een beloning. Vader pland wekelijks 1-op-1 momenten met Jesse. Volgende afspraak over twee weken.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 656,
+    "total_tokens": 828,
+    "completion_tokens": 172,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 656,
+    "prompt_ms": 637.276,
+    "prompt_per_token_ms": 0.971457617,
+    "prompt_per_second": 1029.380986805,
+    "predicted_n": 172,
+    "predicted_ms": 5735.486,
+    "predicted_per_token_ms": 33.34584749,
+    "predicted_per_second": 29.988741486
+  }
+}

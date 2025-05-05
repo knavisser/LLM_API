@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-72e0a8c45d8b4aec9b8be752fcb03c76",
+  "object": "text_completion",
+  "created": 1746107550,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kira had een productieve dag met enkele momenten van vermoeidheid. Bij binnenkomst was ze opgewekt en begon ze zelfstandig aan haar opdracht voor maatschappijleer, waarbij ze gestructureerd werkte en om hulp vroeg bij enkele onderdelen. Tijdens de pauze genoot Kira van haar tijd met vrienden, waarin ze grapjes maakte en ontspannen leek. We hielpen haar om comfortabel te blijven zitten, wat ze waardeerde. Hoewel ze zich iets vermoeid voelde na de ochtend, wilde ze graag bij haar vrienden blijven. In de middag werkte Kira aan een presentatie voor Engels, waarbij ze veel inzet en creativiteit toonde. Ze liet haar werk zien en bleef positief, hoewel ze spierpijn had tegen het einde van de middag. Na overleg namen we extra tijd voor een korte rustpauze, waarna ze haar laatste taken kon afronden. Kira verliet het lokaal tevreden, met een glimlach en een bedankje. Ondanks lichte vermoeidheid bleef ze betrokken en rondde ze haar taken succesvol af.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 615,
+    "total_tokens": 916,
+    "completion_tokens": 301,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 615,
+    "prompt_ms": 563.451,
+    "prompt_per_token_ms": 0.91617999,
+    "prompt_per_second": 1091.488583575,
+    "predicted_n": 301,
+    "predicted_ms": 5071.056,
+    "predicted_per_token_ms": 16.847362946,
+    "predicted_per_second": 59.356470399
+  }
+}

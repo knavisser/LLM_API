@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-ed2a81839136496f94b19f55ca9df73d",
+  "object": "text_completion",
+  "created": 1746107616,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jordi gaf aan dat hij zich sinds het laatste gesprek rustiger voelt. Hij heeft structuur kunnen aanhouden door dagelijks op hetzelfde tijdstip op te staan, zijn dag te starten met een wandeling en vervolgens een huishoudelijke taak op te pakken. Hij is daar zichtbaar trots op en benoemt dat het hem helpt zijn gedachten te ordenen. Tegelijkertijd ervaart hij nog veel spanning rondom contact met zijn schuldeisers. Hij heeft brieven ontvangen van twee instanties, maar deze niet geopend. Tijdens ons gesprek uitte hij zich gefrustreerd en onzeker over hoe hiermee om te gaan. We hebben samen de enveloppen geopend, de inhoud besproken en \u00e9\u00e9n instantie direct gemaild om een betalingsregeling te bespreken. Verder gaf Jordi aan het lastig te vinden dat zijn ouders onverwachts langskwamen afgelopen zondag. Hij voelde zich overrompeld en trok zich daarna de rest van de dag terug. We hebben besproken hoe hij zijn grenzen kan aangeven in dergelijke situaties. Afgesproken dat Jordi een eenvoudige planning op papier bijhoudt met vaste dagonderdelen en dat hij per dag \u00e9\u00e9n administratieve taak oppakt. Volgende week bekijken we of het lukt om een kennismakingsafspraak te maken met schuldhulpverlening via het wijkteam.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 664,
+    "total_tokens": 1027,
+    "completion_tokens": 363,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 664,
+    "prompt_ms": 675.433,
+    "prompt_per_token_ms": 1.017218218,
+    "prompt_per_second": 983.073231003,
+    "predicted_n": 363,
+    "predicted_ms": 6078.896,
+    "predicted_per_token_ms": 16.746270164,
+    "predicted_per_second": 59.714789634
+  }
+}

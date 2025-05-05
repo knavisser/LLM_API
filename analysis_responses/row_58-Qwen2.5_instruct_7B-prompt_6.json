@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-768c88c905bb4b05b08255441447c6e8",
+  "object": "text_completion",
+  "created": 1746107732,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mevrouw Jansen, 83 jaar, werd bezoek gebracht rond 09:15 voor wondzorg aan het rechteronderbeen, waarvan de decubitusgraad twee minder rood aan de randen is en geen tekenen van vocht of ontsteking vertoont. Het verband werd volgens protocol verwisseld. Mevrouw heeft geprobeerd wat eiwitrijker te eten, zoals eerder besproken, met specifieke noot over yoghurt en eieren. Dit ondersteunt de wondgenezing. Mevrouw is licht uitgegleden in de douche vorige week, hoewel ze niet is gevallen, waardoor ze sindsdien angstig is geworden over het zelfstandig douchen. Ze twijfelt nog, maar is serieus over het idee om hulp te accepteren bij het douchen, hoewel ze zich daar ook bezwaard over voelt. Samen besproken we een proefweek met twee extra momenten ADL-hulp, specifiek gericht op het douchen, om te evalueren hoe dat bevalt. De evaluatie zal plaatsvinden bij het volgende bezoek. Mevrouw vond dit een prettige oplossing.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 629,
+    "total_tokens": 924,
+    "completion_tokens": 295,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 629,
+    "prompt_ms": 580.121,
+    "prompt_per_token_ms": 0.922291192,
+    "prompt_per_second": 1084.256262061,
+    "predicted_n": 295,
+    "predicted_ms": 5221.09,
+    "predicted_per_token_ms": 17.698611647,
+    "predicted_per_second": 56.501607014
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-92dc33d9d98f4b95ae7970b98fcd15f2",
+  "object": "text_completion",
+  "created": 1746090701,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nKlinische abstractie:\n\nDeze klinische abstractie beschrijft een ambulante bezoek bij Jan De Vries in zijn thuis. Deze had alvast koffie aangezet en kaarsen aan het huis. Deze zaken werden niet veel aandacht besteed. De belangrijkste onderwerp van de ontmoeting was de post die zich had opgestapeld. Jan was hier behoorlijk gespannen en keek de hele tijd weg toen de post overhaald werd. De brieven werden samen geopend en gesorteerd op urgentie en minder urgentente zaken. Ook betaalherinneringen waren tussen zaken aanwezig. De kat van Jan was behoorlijk onrustig toen hiermee bezig was. Deze onrustigheid leidde tot een conflict, waarbij de kat in de gang werd gezet.\n\nVanwege de moeite met financi\u00eble zaken, werden afspraken gemaakt over bepaalde betalingsregelingen. Deze afspraken zijn te vinden in het dossier. Jan werd aangespoord om zelf het eerste telefoontje te doen naar de energieleverancier. Na veel moeite lukte dit, met de nodige ondersteuning. Hiermee is een stap gezet richting het zelfstandigheid doel.\n\nBij het afsluiten van de ontmoeting werd kort stilgestaan bij spanningen rondom familiebezoek dit weekend. Jan kon goed zijn gevoelens benoemen en heeft geoefd met formuleren en aangeven van grenzen. Een stappenplan is achtergelaten om dit verder uit te werken.\n\nEen volgende afspraak is gemaakt voor maandag 15 april om 10.00 uur.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 695,
+    "total_tokens": 1143,
+    "completion_tokens": 448,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 695,
+    "prompt_ms": 2114.548,
+    "prompt_per_token_ms": 3.042514547,
+    "prompt_per_second": 328.675503271,
+    "predicted_n": 448,
+    "predicted_ms": 19030.928,
+    "predicted_per_token_ms": 42.479751099,
+    "predicted_per_second": 23.540627572
+  }
+}

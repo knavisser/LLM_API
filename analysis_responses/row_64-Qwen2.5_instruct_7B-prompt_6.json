@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-1805ee92afea4b949123d245d9bd8e0f",
+  "object": "text_completion",
+  "created": 1746107765,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jordi, 33 jaar, deed zelf de deur open en maakte een alerte indruk. In de keuken hebben we gesproken over zijn pogingen zich meer in de openbaarheid te begeven, waaronder een bezoek aan de bibliotheek waar hij een uurtje met een boek heeft doorgebracht. Hij ervaride dit als prettig, hoewel hij zich snel ongemakkelijk voelde. Hij vond het spannend, maar was achteraf trots op zijn poging. Jordi voelt zich de laatste tijd snel vermoeid, vooral aan het einde van de dag, wat hij attribueert aan zijn veel piekeren. We hebben gesproken over manieren om zijn hoofd rustiger te krijgen voor het slapengaan, waaronder een eenvoudige ademhalingsoefening die hij kan uitproberen. Hij heeft ook een spiekbriefje gemaakt voor het bellen naar de huisarts, wat hem meer vertrouwen gaf. Hij wilde deze week proberen om de huisarts te bellen. We hebben een nieuwe afspraak gemaakt voor donderdag volgende week om te kijken hoe het is gegaan met het bibliotheekbezoek, de ademhalingsoefeningen en het bellen naar de huisarts.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 768,
+    "total_tokens": 1075,
+    "completion_tokens": 307,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 768,
+    "prompt_ms": 616.4,
+    "prompt_per_token_ms": 0.802604078,
+    "prompt_per_second": 1245.94432972,
+    "predicted_n": 307,
+    "predicted_ms": 5547.599,
+    "predicted_per_token_ms": 18.07035631,
+    "predicted_per_second": 55.339251913
+  }
+}

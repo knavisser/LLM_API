@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-cb1569bca0254e9abc8aeb8862ae27b3",
+  "object": "text_completion",
+  "created": 1746107771,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Meneer Van Rooijen, 20 april, zaterdag, 10:15 uur. Reguliere medicatiecontrole en ADL-ondersteuning. Hij deed de deur open en maakte een heldere indruk. Bij het medicatiemoment twijfelde hij of hij zijn ochtendmedicatie al had ingenomen. Na controle bleek het doosje open te liggen, maar de tabletten onaangeroerd. Hij had de medicatie niet ingenomen omdat hij de tijden lastig vindt, wat hem frustratie oplevert. Hij zei: \"Dan voel ik me zo'n sukkel.\" Hij benoemde ook dat hij zich de afgelopen dagen moe voelt, slaapt licht en vroeg wakker wordt, wat hem verdriet doet omdat zijn dochter deze week niet langs kon komen. Tijdens een rustige wandeling in de tuin vertelde hij over vroeger, wat hem zichtbaar plezier gaf. Aan het eind van het bezoek heb ik in zijn agenda genoteerd wanneer hij welke medicijnen moet nemen en op welke momenten ik weer langskom. Volgende week neem ik een voorbeeld-weekplanning mee en we bespreken dan of hij baat heeft bij een doorverwijzing naar de POH-GGZ.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 732,
+    "total_tokens": 1044,
+    "completion_tokens": 312,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 732,
+    "prompt_ms": 585.615,
+    "prompt_per_token_ms": 0.800020317,
+    "prompt_per_second": 1249.968255633,
+    "predicted_n": 312,
+    "predicted_ms": 5270.534,
+    "predicted_per_token_ms": 16.892736692,
+    "predicted_per_second": 59.197039429
+  }
+}

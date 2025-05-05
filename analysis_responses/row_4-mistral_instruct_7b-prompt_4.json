@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-b569dc7a0e5944c28559340c803e6658",
+  "object": "text_completion",
+  "created": 1746089886,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nNoah had een goede dag met veel vrolijke momenten. Hij was enthousiast bij zijn binnenkomst en liep direct naar de speelhoek. Noah speelde met de bouwblokken en maakte een \u201ctoren voor mama,\u201d zoals hij het zelf noemde. Hij toonde veel concentratie en trots op zijn bouwwerk. Tijdens de kringactiviteit zat Noah rustig en deed hij actief mee. Hij herhaalde een paar woorden uit het sinterklaasliedje dat we zongen en klapte op het ritme. Bij het buitenspelen rende hij energisch rond en speelde hij vooral samen met Mila. Ze deden alsof ze \"pieten\" waren die pakjes moesten bezorgen, wat tot veel gelach leidde. Noah at zijn lunch goed op, behalve een deel van zijn fruit. Hij gaf aan dat hij \"geen zin\" had in zijn banaan. In de middag was hij iets rustiger en koos hij voor een knutselactiviteit. Hij schilderde met veel enthousiasme een paard voor Sinterklaas. Aan het eind van de dag was Noah wat vermoeid, maar bleef hij vriendelijk en meewerkend. Hij zwaaide breed lachend gedag en zei: \u201cTot morgen!\u201d\n\nIn deze klinische abstractie wordt beschreven hoe Noah een goede dag had met veel vrolijke momenten. Hij was enthousiast bij zijn binnenkomst en liep direct naar de speelhoek. Noah speelde met de bouwblokken en maakte een \u201ctoren voor mama,\u201d zoals hij het zelf noemde. Hij toonde veel concentratie en trots op zijn bouwwerk. Tijdens de kringactiviteit zat Noah rustig en deed hij actief mee. Hij herhaalde een paar woorden uit het sinterklaasliedje dat we zongen en klapte op het ritme. Bij het buitenspelen rende hij energisch",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 605,
+    "total_tokens": 1117,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 605,
+    "prompt_ms": 2367.199,
+    "prompt_per_token_ms": 3.912725803,
+    "prompt_per_second": 255.576304162,
+    "predicted_n": 512,
+    "predicted_ms": 21304.792,
+    "predicted_per_token_ms": 41.610921873,
+    "predicted_per_second": 24.032152017
+  }
+}

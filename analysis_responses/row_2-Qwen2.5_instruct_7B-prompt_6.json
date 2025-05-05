@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-813123384abb4836ade98280f8db9e3b",
+  "object": "text_completion",
+  "created": 1746107413,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mila had moeite bijhouden met de uitleg in de klas, vooral bij complexe instructies. Ze gebruikte tekeningen om haar gedachten en idee\u00ebn te uiten, waardoor ze duidelijk kon communiceren. Bij een rekenspel had ze vooral baat bij visuele ondersteuning en herhaling, wat haar meer zelfvertrouwen gaf. Aan het einde van de dag sprak de auteur met Mila's leerkracht over hoe ze Mila beter kunnen ondersteunen door meer visuele en praktische opdrachten in te zetten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 467,
+    "total_tokens": 611,
+    "completion_tokens": 144,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 467,
+    "prompt_ms": 278.812,
+    "prompt_per_token_ms": 0.597028712,
+    "prompt_per_second": 1674.961321129,
+    "predicted_n": 144,
+    "predicted_ms": 2509.312,
+    "predicted_per_token_ms": 17.425775528,
+    "predicted_per_second": 57.386255114
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-72c1a0f9d6d445b48aced523e3dbdcc6",
+  "object": "text_completion",
+  "created": 1746107454,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Cora begon de dag rustig en gaf aan zichzelf een beetje vermoeid te voelen, wat ze omschreef als een gebruikelijke start door haar progressieve neurologische ziekte. Na een lichte ochtendroutine, waarbij ze ondersteuning kreeg om zich aan te kleden, voelde ze zich iets meer op haar gemak. In de ochtend werkte ze mee aan een rustige activiteit, zoals het vouwen van wasgoed, wat haar zichtbaar plezier gaf. Ze gaf aan dat het fijn was om bezig te zijn, maar dat ze snel moe werd. Tijdens de lunch benoemde Cora dat ze zich stabiel voelde, al merkte ze op dat ze wat moeite had met fijne motoriek, waardoor ze extra tijd nodig had. Ze gaf aan het prettig te vinden dat er geen haast was en dat ze alles in haar eigen tempo mocht doen. In de middag koos ze voor een ontspannende activiteit, zoals een rustige wandeling in de tuin, waarbij ze met ondersteuning goed uit de voeten kon. Ze gaf aan dat de frisse lucht haar goed deed. Aan het eind van de dag voelde Cora zich vermoeid maar tevreden over hoe de dag was verlopen. Tot slot viel op dat Cora baat heeft bij een rustige aanpak, duidelijke structuur en ondersteuning op momenten waarop haar energie en motoriek het zwaarst worden belast.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 629,
+    "total_tokens": 989,
+    "completion_tokens": 360,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 629,
+    "prompt_ms": 667.368,
+    "prompt_per_token_ms": 1.060999141,
+    "prompt_per_second": 942.507831852,
+    "predicted_n": 360,
+    "predicted_ms": 6006.316,
+    "predicted_per_token_ms": 16.684211493,
+    "predicted_per_second": 59.936905046
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-ef55a6a830414628ab646d407f65292e",
+  "object": "text_completion",
+  "created": 1746107544,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Tessa had een rustige en zelfstandige dag. Ze kwam vriendelijk binnen en begon direct met haar Engelsopdracht, waar ze geconcentreerd aan werkte en goede aantekeningen maakte. Haar planning verliep soepel en ze leverde haar werk op tijd in. Tijdens de pauze at Tessa haar eigen meegebrachte lunch, zorgvuldig afgestemd op haar allergie\u00ebn. Ze gaf aan dat alles prima ging en ze nergens last van had. Ze bracht de rest van de pauze door met haar vriendinnen, waarmee ze gezellig kletste. In de middag werkte Tessa in een groepje aan een project voor aardrijkskunde. Ze nam het initiatief om taken te verdelen en bleef rustig en gefocust, zelfs toen het wat chaotisch werd in de klas. Ze deelde haar idee\u00ebn duidelijk en werd door haar groepsleden gewaardeerd om haar inzet. Tessa gaf aan dat ze zich aan het eind van de dag goed voelde en geen problemen had ondervonden. Ze ging met een glimlach naar huis. Algemeen: Tessa was zelfstandig en betrokken. Ze lette goed op haar dieet, werkte geconcentreerd en toonde initiatief in groepswerk.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 589,
+    "total_tokens": 908,
+    "completion_tokens": 319,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 589,
+    "prompt_ms": 593.523,
+    "prompt_per_token_ms": 1.007678351,
+    "prompt_per_second": 992.380156937,
+    "predicted_n": 319,
+    "predicted_ms": 5341.703,
+    "predicted_per_token_ms": 16.745150276,
+    "predicted_per_second": 59.71878326
+  }
+}

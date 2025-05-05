@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-f5b17d08e97447a5ab92cdd90dfb8319",
+  "object": "text_completion",
+  "created": 1746090133,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nHennie's ochtend begon met lichte onrust, wat vaker voorkomt bij haar dementie. Ze stelde meerdere vragen over de dag en leek moeite te hebben met ori\u00ebntatie. Na haar ontbijt, waarbij ze wat ondersteuning nodig had, werd ze samen met de begeleiding ge\u00efntroduceerd aan een natuurdocumentaire. De beelden trokken haar aandacht en hielpen haar te kalmeren. Halverwege de dag kreeg Hennie een lichte lunch. Ze had wat aanmoediging nodig om door te eten, maar benoemde tussendoor dat ze het lekker vond. In de middag koos ze voor een wandeling in de tuin. Hoewel ze begeleiding nodig had om zich veilig te voelen, genoot ze zichtbaar van de frisse lucht en de geluiden van buiten. Tegen het einde van de dag was Hennie wat meer teruggetrokken, maar met een rustig gesprek en vertrouwde activiteiten bleef ze ontspannen. Haar dag liet zien dat gestructureerde ondersteuning en rustige, vertrouwde prikkels haar welzijn bevorderen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 838,
+    "completion_tokens": 310,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 528,
+    "prompt_ms": 1483.777,
+    "prompt_per_token_ms": 2.810184522,
+    "prompt_per_second": 355.84851889,
+    "predicted_n": 310,
+    "predicted_ms": 13353.997,
+    "predicted_per_token_ms": 43.077409191,
+    "predicted_per_second": 23.214023749
+  }
+}

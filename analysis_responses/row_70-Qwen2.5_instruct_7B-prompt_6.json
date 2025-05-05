@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-2745f51086254667b3d4b4e0854f984f",
+  "object": "text_completion",
+  "created": 1746107803,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Brian vanochtend, vrijdag 25 april, had een rustiger begin van de dag door een vaste volgorde te volgen: opstaan, douchen, kop thee zetten, en dan eerst een half uur muziek luisteren voordat hij aan taken begon. Hij vond dit helpen om zijn dag minder chaotisch te starten. Brian was opgelucht dat hij zijn buurvrouw niet per se hoefde toe te zeggen om samen te koken, hoewel hij dit aanzag als heel aardig. We bespraken het verschil tussen beleefd bedanken en je grenzen bewaken. Hij had zijn post netjes op een stapeltje gelegd, maar nog niets geopend. Samen zijn we door de post heengegaan, waarbij de meeste brieven reclame waren, maar er ook een brief van de woningbouw over de jaarlijkse afrekening servicekosten zat. Na het lezen van de brief bleek alles mee te vallen. Brian voelde zich deze week meer in balans dan vorige week, en zei: 'Het gaat niet ineens goed, maar ik ben iets minder aan het vluchten.' Afgesproken dat hij voor volgende week een weekoverzicht bijhoudt met drie dingen per dag die hij doet of probeert te doen, en dat we dat dan samen bekijken. Ik kom volgende week vrijdag terug.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 863,
+    "total_tokens": 1199,
+    "completion_tokens": 336,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 863,
+    "prompt_ms": 630.036,
+    "prompt_per_token_ms": 0.73005316,
+    "prompt_per_second": 1369.763264589,
+    "predicted_n": 336,
+    "predicted_ms": 5670.323,
+    "predicted_per_token_ms": 16.875960997,
+    "predicted_per_second": 59.255884756
+  }
+}

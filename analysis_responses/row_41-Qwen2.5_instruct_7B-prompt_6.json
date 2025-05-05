@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-762c3e3554b842579a5c3a2321892f35",
+  "object": "text_completion",
+  "created": 1746107623,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Meneer Van Rooijen, 78 jaar, was bij binnenkomst alert en in een rustige stemming. De wond aan het linkeronderbeen toont lichte verbetering, met minder roodheid en drogere randen. Het wondgebied jeukt, maar pijnlijk is het niet. Meneer voelt zich de laatste dagen somber en mist sociale contacten, waardoor hij zich \"vergeten\" voelt. In overleg afgesproken dat de welzijnsmedewerker van het buurtcentrum ingelicht wordt over passende alternatieven. Bijkomend, gisteren waren er twee medicatiemomenten vergeten. Meneer wil een medicijndoos met dagdelen gebruiken voor meer structuur. Een weekmodel is meegenomen en samen ingesteld. Bij het volgende bezoek zal worden ge\u00ebvalueerd hoe het met de medicatiestructuur gaat en of er contact is gelegd met een nieuwe sociale activiteit.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 654,
+    "total_tokens": 884,
+    "completion_tokens": 230,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 654,
+    "prompt_ms": 436.521,
+    "prompt_per_token_ms": 0.667462874,
+    "prompt_per_second": 1498.210670749,
+    "predicted_n": 230,
+    "predicted_ms": 3928.686,
+    "predicted_per_token_ms": 17.081245547,
+    "predicted_per_second": 58.543740107
+  }
+}

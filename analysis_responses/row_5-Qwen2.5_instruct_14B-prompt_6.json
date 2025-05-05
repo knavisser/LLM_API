@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-ba89330a2e634d3baeae8bba64b98f3c",
+  "object": "text_completion",
+  "created": 1746108570,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Lucas arriveerde verlegen, maar werd rustiger na een knuffel van zijn vader. Hij speelde met zijn favoriete auto's en bouwde later samen met Sam een racetrack. Tijdens de kringactiviteit kon hij niet stilzitten, maar zong hij enthousiast mee. Buitenspelen was zijn favoriete activiteit; hij rende, speelde tikkertje en klom in de glijbaan. Hij at zijn boterham op en met aansporing ook zijn appel. Hij koos voor de knutseltafel en maakte een pietje dat hij trots aan iedereen toonde. Aan het einde van de dag was hij moe, maar bleef hij opgewekt en enthousiast. Hij vertrok met een vrolijke groet.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 631,
+    "total_tokens": 822,
+    "completion_tokens": 191,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 631,
+    "prompt_ms": 700.502,
+    "prompt_per_token_ms": 1.110145898,
+    "prompt_per_second": 900.782502109,
+    "predicted_n": 191,
+    "predicted_ms": 6304.519,
+    "predicted_per_token_ms": 33.007950558,
+    "predicted_per_second": 30.295731274
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-687d36b74b2e42a9b898ff2e77746681",
+  "object": "text_completion",
+  "created": 1746090326,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nOlivia begon de dag met veel aanwezigheid tijdens het ontbijt, maar maakte spottende opmerkingen naar een medebewoner, wat zichtbaar ongemak veroorzaakte. Na een rustige interventie werd ze aangesproken op haar gedrag. Ze reageerde aanvankelijk ontwijkend en zei dat het \"maar een grapje\" was, maar stopte vervolgens met de opmerkingen. Olivia had moeite met kritiek van anderen en reageerde kortaf, maar herstelde zich snel en bleef betrokken. In de middag ontstond opnieuw spanning toen Olivia opzettelijk een medebewoner imiteerde. Na een individueel gesprek gaf ze aan zich soms \"verveeld\" te voelen en daarom uit te dagen. Er is afgesproken om haar energie te kanaliseren in een taak waarbij ze verantwoordelijkheid krijgt. Bijzonderheden: Olivia zoekt grenzen op en toont dominant gedrag. Vervolgstappen richten zich op bewustwording van haar impact op anderen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 548,
+    "total_tokens": 831,
+    "completion_tokens": 283,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 548,
+    "prompt_ms": 1357.478,
+    "prompt_per_token_ms": 2.477148937,
+    "prompt_per_second": 403.689897373,
+    "predicted_n": 283,
+    "predicted_ms": 12217.299,
+    "predicted_per_token_ms": 43.170666273,
+    "predicted_per_second": 23.163876917
+  }
+}

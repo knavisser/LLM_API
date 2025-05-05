@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-e5ac6d5cc88d428ab89aeedbe0a214be",
+  "object": "text_completion",
+  "created": 1746108845,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Fatima arriveerde op tijd en vertoonde zichtbare enthousiasme voor de dag. Ze meldde zich goed gevoelsmatig en vermeldde een aangename wandeling met haar zus de vorige dag. Ze koos voor het atelier werk met textiel, waarbij ze zelfstandig werkte aan een lapjesproject en slechts hulp nodig had bij het instellen van de naaimachine. Ze toonde trots op haar werk aan andere deelnemers en nam zelfs de initiatief om materiaal op te ruimen. Tijdens de lunch werd ze even overstuur door een ongelukkige storing, maar herstelde snel na een kort gesprek met de begeleiding. Er is afgesproken om volgende week te bespreken of ze een vaste plek in het atelier kan krijgen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 542,
+    "total_tokens": 740,
+    "completion_tokens": 198,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 542,
+    "prompt_ms": 749.457,
+    "prompt_per_token_ms": 1.382761732,
+    "prompt_per_second": 723.190392823,
+    "predicted_n": 198,
+    "predicted_ms": 6745.112,
+    "predicted_per_token_ms": 34.066220847,
+    "predicted_per_second": 29.354591591
+  }
+}

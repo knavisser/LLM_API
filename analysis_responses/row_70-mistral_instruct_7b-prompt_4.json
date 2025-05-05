@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-6c16b1011ec9498999a2d4fb60b028b5",
+  "object": "text_completion",
+  "created": 1746091013,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nBrian van vanochtend werd thuis bezocht op vrijdag 25 april om 09:30. Deze klinische abstractie beschrijft de belangrijkste elementen van het huisbezoek.\n\nBrian vertelde dat hij sinds het laatste gesprek heeft geprobeerd om zijn ochtenden rustiger te beginnen. Hij heeft een vaste volgorde aangehouden: opstaan, douchen, kop thee zetten, en dan een half uur muziek luisteren voordat hij aan taken begint. Brian noemde dit zijn 'mijn ankerpuntje'.\n\nBrian vertelde ook over zijn contact met zijn buurvrouw. Ze had hem eerder deze week aangeboden om samen te koken. Brian gaf aan dat hij dit 'heel aardig' vond, maar ook dat het hem ongemakkelijk maakte. Hij gaf aan dat hij zich snel verplicht voelt om sociaal te zijn, terwijl hij daar niet altijd ruimte voor heeft.\n\nDuring the conversation, they discussed the difference between feeling grateful and setting boundaries. Brian was relieved to know that he did not have to say yes to everything.\n\nThey also went through Brian's administration. Brian had his post neatly stacked, but had not opened any of it. Together, they went through the mail, and it was discovered that there was a bill from the housing association for the annual maintenance cost. Brian was shocked and feared that he had made a mistake. They read the bill together, and it was found that everything was in order.\n\nAt the end of the conversation, Brian stated that he felt more in balance this week than the previous week. He said, \"It's not going to be good all of a sudden, but I'm a little less anxious.\" This was an important observation.\n\nIt was agreed that Brian would keep a weekly overview of the three things he does or tries to do each day, and that this would be reviewed during the next visit. The next visit is scheduled for Friday.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 862,
+    "total_tokens": 1334,
+    "completion_tokens": 472,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 862,
+    "prompt_ms": 2235.835,
+    "prompt_per_token_ms": 2.593776245,
+    "prompt_per_second": 385.538267607,
+    "predicted_n": 472,
+    "predicted_ms": 20122.516,
+    "predicted_per_token_ms": 42.63244938,
+    "predicted_per_second": 23.456311203
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-51debc2c1fd04525b0b67c11104d1d84",
+  "object": "text_completion",
+  "created": 1746090362,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nEsther, 55 jaar oud, heeft zich op de ochtend wakker gewakkerd met pijnklachten die erger waren dan normaal. Ze had slecht geslapen door de pijn. In de ochtendactiviteit, gericht op lichte beweging, probeerde ze mee te doen, maar moest halverwege stoppen vanwege de klachten. Ze uitte frustratie over haar beperkte mogelijkheden en gaf aan dat ze zich hierdoor soms nutteloos voelt. Er is geprobeerd haar te motiveren door haar inspanning te waarderen en de focus te leggen op wat w\u00e9l haalbaar is. In de middag koos ze voor een rustige activiteit, lezen in een comfortabele stoel. Deze leek haar enigszins te helpen ontspannen, hoewel ze aangaf dat de pijn op de achtergrond bleef.\n\nAan de hand van de observaties van de pati\u00ebnt, is geconstateerd dat Esther pijnklachten heeft die erger zijn dan normaal. Deze klachten maken het niet mogelijk voor haar om normaal te slapen en om de ochtendactiviteit te voltooien. Deze klachten maken haar ook frustratie voelen en geven haar het gevoel dat ze nutteloos is. Deze klachten hebben een impact op haar emotionele toestand.\n\nOm de klachten van Esther te verlichten, is geprobeerd haar te motiveren door haar inspanning te waarderen en de focus te leggen op wat w\u00e9l haalbaar is. Deze actie was niet succesvol, omdat de klachten van Esther niet verlichten.\n\nOm de klachten van Esther te verlichten, is geprobeerd haar een rustige activiteit te laten doen, lezen in een comfortabele stoel. Deze actie was succesvol, omdat het Esther helpt ontspannen.\n\nOm de klachten van Esther te verlichten, is geconstateerd dat ze behoefte aan zowel fysieke ondersteuning als erken",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 524,
+    "total_tokens": 1036,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 524,
+    "prompt_ms": 2415.725,
+    "prompt_per_token_ms": 4.6101627,
+    "prompt_per_second": 216.912084233,
+    "predicted_n": 512,
+    "predicted_ms": 21741.527,
+    "predicted_per_token_ms": 42.463920498,
+    "predicted_per_second": 23.549403547
+  }
+}

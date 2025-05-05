@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-d8bdce3b8ab44a2e913b6a1a075f16b3",
+  "object": "text_completion",
+  "created": 1746107407,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "De moeder van Asmae heeft opvoedondersteuning ontvangen om de situatie te verbeteren en een positieve omgeving te cre\u00ebren voor Asmae. De moeder heeft geleerd van de gesprekken met de opvoedondersteuner en het contact met Ineke, wat haar handvatten heeft gegeven voor de opvoeding van Asmae. De schoolresultaten van Asmae zijn besproken en de moeder heeft de mogelijkheid gekregen om deze samen met de opvoedondersteuner te doornemen. Asmae's werk wordt soms te snel afgehandeld, wat de kwaliteit be\u00efnvloedt. De studieruimte is verplaatst naar een rustiger kamer en dagritmekaarten zijn ge\u00efntroduceerd om Asmae's dagelijkse activiteiten te structureren. Asmae geniet van school, boksen en activiteiten met haar familie. De dagritmekaarten zijn weer terug in haar routine en helpen haar om beter te functioneren. De opvoedondersteuning heeft bijgedragen aan een positieve ontwikkeling en het is aan te raden om de voortgang regelmatig te evalueren. De moeder waardeert de ondersteuning en de samenwerking met de opvoedondersteuner en Ineke is belangrijk geweest in dit proces.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1405,
+    "total_tokens": 1730,
+    "completion_tokens": 325,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 1405,
+    "prompt_ms": 645.63,
+    "prompt_per_token_ms": 0.459522794,
+    "prompt_per_second": 2176.170613632,
+    "predicted_n": 325,
+    "predicted_ms": 5810.666,
+    "predicted_per_token_ms": 17.878971467,
+    "predicted_per_second": 55.931629057
+  }
+}

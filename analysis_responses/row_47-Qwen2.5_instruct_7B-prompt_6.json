@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-5b54f0fe9be0430a8aafd0ef353282f6",
+  "object": "text_completion",
+  "created": 1746107656,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mevrouw Brouwer, thuis bij haar, werd vandaag om 10:00 uur voor geplande wondzorg en controle van de ochtendmedicatie bezocht. De afspraak vond plaats in de woonkamer. Mevrouw zat al aangekleed in haar stoel bij het raam, met het raam op een kier voor frisse lucht. Ze oogde alert en was opgewekt. De wond aan het linker onderbeen (status na ulcus cruris) toont lichte verbetering; de rand is droger geworden en de huid rondom is minder ge\u00efrriteerd. Tijdens de verzorging gaf mevrouw aan dat de plek nog jeukt, maar niet meer pijnlijk is. Er zijn geen tekenen van infectie. Het verband is volgens protocol verwisseld en de wond is gefotografeerd voor dossieropbouw. De medicatie-inname is grotendeels goed verlopen deze week; mevrouw gaf aan dat ze \u00e9\u00e9n dosis vergeten is, maar dit direct de volgende ochtend heeft gemeld bij haar dochter, die dagelijks belt om dit te controleren. De samenwerking tussen cli\u00ebnt en dochter rondom medicatie lijkt goed te verlopen. Tijdens het gesprek benoemde mevrouw dat ze zich de afgelopen dagen rustiger voelt dan in voorgaande weken; ze zei: \"Het is wel stil, maar ik voel me niet zo alleen.\" Ze vertelde dat ze op dinsdag bezoek heeft gehad van haar nichtje en dit als prettig ervoer. Ook heeft ze twee middagen achter elkaar een kruiswoordpuzzel kunnen afmaken, wat ze als klein succesje benoemde. We hebben besproken dat ze graag weer een keer naar buiten wil, al is het maar even een stukje met de rollator; ze gaf aan dat ze hier tegenop ziet vanwege een eerdere val, maar dat ze ook merkt dat het binnenzitten haar stijf maakt. Afgesproken dat haar dochter en ik contact hebben over de mogelijkheid voor een begeleid wandelmoment volgende week.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 795,
+    "total_tokens": 1314,
+    "completion_tokens": 519,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 795,
+    "prompt_ms": 996.439,
+    "prompt_per_token_ms": 1.253382695,
+    "prompt_per_second": 797.840918142,
+    "predicted_n": 519,
+    "predicted_ms": 8967.953,
+    "predicted_per_token_ms": 17.27929322,
+    "predicted_per_second": 57.872737459
+  }
+}

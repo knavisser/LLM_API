@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-86f2bc9413ef4138b465621aa0bc0987",
+  "object": "text_completion",
+  "created": 1746090989,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nKlinische abstractie:\n\nIn dit huisbezoek bij het gezin van Jesse, een zevenjarige jongen, werd een aantal belangrijke elementen ge\u00efntroduceerd. De moeder vertelde dat Jesse zich vaak overspoeld voelt, en dat hij zich hiervoor terugtrekt naar zijn kamer. Ze gaf aan dat het de afgelopen dagen vrij intens was, en dat hij maandag een driftbui had gehad. De moeder gaf aan dat ze hem uiteindelijk op zijn kamer had gezet, maar zich daar achteraf niet prettig bij voelde. Ze zei: \u201cIk voel me dan alsof ik faal.\u201d\n\nFloor gaf uitleg over het verschil tussen begrenzen en afwijzen, en benoemde dat Jesse waarschijnlijk moeite heeft met het overzien van overgangen, zeker na een drukke schooldag. De moeder gaf aan dat ze vaak zelf ook gespannen is, en dan sneller reageert dan ze zou willen.\n\nBij het bespreken van een overgangsritueel werd de moeder ge\u00efnteresseerd. Ze stond hier open voor.\n\nFloor en de moeder bespraken ook dat Jesse de laatste tijd vaker buikpijn meldt voor school. De huisarts heeft geen medische oorzaak gevonden.\n\nEr is een nieuwe afspraak gepland voor over anderhalve week, dit keer met vader erbij.\n\nIn de afgelopen tijd heeft de school zich ook ge\u00efnteresseerd in de situatie van Jesse.\n\nIn dit huisbezoek werd geen nieuwe informatie toegevoegd, en trek geen conclusies die niet letterlijk in de rapportage staan.\n\nDe belangrijkste elementen die in de tekst benoemd worden zijn:\n\n* observaties: Jesse zit tijdens het begin van het gesprek aan tafel te tekenen, maar trok zich na een kwartier terug naar zijn kamer. Moeder",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 843,
+    "total_tokens": 1355,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 843,
+    "prompt_ms": 2426.51,
+    "prompt_per_token_ms": 2.878422104,
+    "prompt_per_second": 347.412562858,
+    "predicted_n": 512,
+    "predicted_ms": 21838.589,
+    "predicted_per_token_ms": 42.653493164,
+    "predicted_per_second": 23.444738656
+  }
+}

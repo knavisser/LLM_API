@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-db8793d428ed4e54be54674dd8e020f3",
+  "object": "text_completion",
+  "created": 1746090878,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nKlinische abstractie:\n\nJordi, een 33-jarige man die ambulante ondersteuning ontving, werd thuis bezocht door een huisbezoeker. Bij het begin van de bezoek was Jordi zelfs van mening dat het de afgelopen week beter ging en dat hij rustiger voelde dan eerder. Dat kwam volgens hem doordat hij geprobeerd had meer structuur aan te brengen in zijn dag. Hij maakte elke ochtend rond half negen op, maakte een korte wandeling en deed daarna iets in huis. Deze ritme helpt hem om zijn hoofd rustiger te krijgen. Hij was ook trots op dit. Wel kwam er nog wat spanning naar boven toen over zijn post werd gesproken. Hij had twee ongeopende enveloppen van instanties met schulden liggen op de salontafel. Toen hierover gevraagd werd, zei hij dat hij deze niet had geopend omdat hij bang was voor wat erin zou staan. Dat gaf hem duidelijk stress. Hij uitte zich ook boos en gefrustreerd, maar kon uiteindelijk samen met de huisbezoeker deze brieven openen. We hebben meteen \u00e9\u00e9n van de instanties een mail gestuurd met een verzoek tot een betalingsregeling. Jordi's ouders waren onverwachts op de stoep gestaan. Hij schrok daarvan en voelde zich overrompeld. Hij vertelde dat hij daarna de hele dag zich heeft teruggetrokken op zijn kamer. We hebben het erover gehad hoe hij in zulke situaties zijn grenzen kan aangeven, bijvoorbeeld door aan te geven dat hij behoefte heeft aan rust of liever een andere keer afspreekt. Tot slot hebben we afgesproken dat hij vanaf vandaag een simpele dagplanning op papier bijhoudt, met vaste onderdelen zoals opstaan, wandelen, en \u00e9\u00e9n taakje. We zullen volgende week samen kijken of",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 810,
+    "total_tokens": 1322,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 810,
+    "prompt_ms": 2413.677,
+    "prompt_per_token_ms": 2.979847561,
+    "prompt_per_second": 335.587636492,
+    "predicted_n": 512,
+    "predicted_ms": 21723.089,
+    "predicted_per_token_ms": 42.427907651,
+    "predicted_per_second": 23.569392302
+  }
+}

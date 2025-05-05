@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-b122ce2fadae4d0885a058312e24414f",
+  "object": "text_completion",
+  "created": 1746107666,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Bij het geplande individueel begeleidingsgesprek met Kimberly in haar studio bleek dat ze behoefte had aan rust om dingen op een rijtje te zetten. Bij binnenkomst oogde ze gespannen maar open. Kimberly vertelde dat ze zaterdag bij haar moeder is geweest, wat ze als dubbel ervoer: ze vond het fijn om tijd met haar moeder door te brengen, maar voelde zich tegelijkertijd gedwongen om te aanpassen. Ze merkte dat ze zich altijd als niet goed genoeg voelt en dat ze zich constant moet presteren. Deze opmerking raakte haar zichtbaar en leidde tot een moment van stilte. We hebben verkend hoe haar overtuigingen rondom eigenwaarde invloed hebben op haar sociale relaties. Kimberly herkende dat ze zich vaak afvraagt wat anderen van haar vinden en dat ze snel aan zichzelf twijfelt als ze geen bevestiging krijgt. Dit leidt regelmatig tot terugtrekgedrag, maar soms ook tot impulsieve appjes of ruzie-achtige reacties. Ze gaf aan afgelopen week meerdere keren afgewezen te hebben gevoeld door medebewoner L., die volgens haar opeens kortaf deed. We hebben dit geanalyseerd aan de hand van haar triggers en gekeken welke andere verklaringen er mogelijk zijn. Kimberly kon uiteindelijk benoemen dat ze geneigd is snel conclusies te trekken vanuit angst. Positief was dat Kimberly haar dagschema de afgelopen week grotendeels heeft aangehouden. Ze stond op reguliere tijden op, at driemaal daags en heeft drie keer deelgenomen aan de gezamenlijke lunchmomenten. Ze stond op het punt om deze lijn te blijven houden en een lijstje te maken met situaties waarin ze automatisch negatieve gedachten heeft over zichzelf, om daar volgende week op te reflecteren.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 821,
+    "total_tokens": 1300,
+    "completion_tokens": 479,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 821,
+    "prompt_ms": 925.126,
+    "prompt_per_token_ms": 1.126827712,
+    "prompt_per_second": 887.447113437,
+    "predicted_n": 479,
+    "predicted_ms": 8326.13,
+    "predicted_per_token_ms": 17.382317246,
+    "predicted_per_second": 57.529728967
+  }
+}

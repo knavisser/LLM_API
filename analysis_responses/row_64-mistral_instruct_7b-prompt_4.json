@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-90839134ce9b4349ac172abcc4f51e3a",
+  "object": "text_completion",
+  "created": 1746090902,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nKlinische abstractie:\n\nDeze klinische abstractie is gebaseerd op een mondeling verslag van een bezoek aan een klant, Jordi, 33 jaar oud, op vrijdag 19 april. De bezoeker, een vriend, is in de middag bij Jordi aangekomen en is in de keuken gezeten. Jordi vertelt over zijn pogingen om zich meer onder de mensen te begeven, zoals eerder besproken. Hij heeft zich op dinsdag een uurtje gezeten in de bibliotheek met een boek, wat hij vond prettig. Hij voelt zich de laatste tijd snel vermoeid, vooral aan het einde van de dag. De bezoeker en Jordi hebben samen gekeken naar manieren om Jordi's hoofd rustiger te krijgen voor het slapengaan. De bezoeker heeft Jordi een eenvoudige ademhalingsoefening uitgelegd die Jordi in de avond kan proberen, en Jordi wil dit komende week gaan uitproberen. Daarnaast hebben ze een nieuwe afspraak gemaakt voor volgende week donderdag om te kijken hoe het is gegaan met het bibliotheekbezoek, de ademhalingsoefeningen en of Jordi heeft kunnen bellen naar de huisarts.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 772,
+    "total_tokens": 1111,
+    "completion_tokens": 339,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 772,
+    "prompt_ms": 1593.572,
+    "prompt_per_token_ms": 2.064211844,
+    "prompt_per_second": 484.446401578,
+    "predicted_n": 339,
+    "predicted_ms": 14342.144,
+    "predicted_per_token_ms": 42.307209125,
+    "predicted_per_second": 23.636633583
+  }
+}

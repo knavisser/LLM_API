@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-092b69e47d9947668066b0db8cbbc83b",
+  "object": "text_completion",
+  "created": 1746107726,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Meneer D. doet zijn best, maar het blijft wiebelen. De eerste drie dagen van de week gingen goed, met op tijd opstaan, ontbijten en structuur houden. Hij heeft zelfs zelf gekookt, drie keer! Hij vond dit zelf wel waardevols. Donderdag en vrijdag waren echter minder succesvol; hij lag voornamelijk in bed, keek Netflix en voelde zich 'waardeloos'. Hij had geen contact gezocht met zijn broer of vrienden, hoewel dit afgesproken was. Tijdens het gesprek trok hij zich iets terug, keek hij naar de grond en was hij minder spraakzaam dan normaal. We bespraken dat het mogelijk te veel is, te snel. Hij zei dat hij als er drie dingen op zijn dag staan, hij dichtklapt. Daarom gaan we nu maximaal twee dingen per dag plannen, en woensdag is zijn broer-dag, waarop hij zich zal committen. Verder hebben we afgesproken dat ik nog twee keer per week blijf komen, zolang het niet stabieler is. Hij vond dit zelf ook prettig.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 623,
+    "total_tokens": 907,
+    "completion_tokens": 284,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 623,
+    "prompt_ms": 560.914,
+    "prompt_per_token_ms": 0.900343831,
+    "prompt_per_second": 1110.686790912,
+    "predicted_n": 284,
+    "predicted_ms": 5048.228,
+    "predicted_per_token_ms": 17.775450206,
+    "predicted_per_second": 56.257365546
+  }
+}

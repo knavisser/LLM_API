@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-860cfbb368a04e09a0cb55a811d21415",
+  "object": "text_completion",
+  "created": 1746107719,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "El Yousfi had een begeleidingsmoment van 14:00 tot 15:00 uur. Hij bood direct een bakje gewassen druiven aan. Een notitieboekje, pen en een kan met water stonden klaar op de eettafel. Hij vertelde dat hij 40 minuten te vroeg was voor zijn eerste dag als vrijwilliger in de kringloopwinkel, wat hij zelf niet als negatief ervaren. Hij had boeken gesorteerd en veel spullen opgeruimd. Hij voelde zich soms onzeker en vond sommige vragen van klanten zwaar, waardoor hij licht overprikkeld raakte, maar herpakte zich telkens. Hij weet niet hoe zijn collega van de winkel over hem denkt, maar dat laat hem koud. De kringloopwinkel gaf positieve feedback. Hij heeft het reflectieformulier ingevuld waarin hij aangaf dat hij lastig vond \"in het moment blijven\". Copingstrategie\u00ebn werden besproken, waaronder ademoefeningen en interne zelfspraak. Het schuldhulpverlening traject werd voorbereid, waarbij het papierwerk beter opgeborgen moet worden. Hij heeft moeite met telefoneren vanwege auditieve gevoeligheid en ongemakkelijkheid met stiltes aan de telefoon. Voor de volgende afspraak wordt gespreksvoorbereiding aangeboden. Hij overweegt kickboksen, maar wil dit niet te fysiek vinden. De stemming was overwegend positief. Er zijn geen wijzigingen in medicatie en geen specifieke benoemingswaarde bijzonderheden. \n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 849,
+    "total_tokens": 1255,
+    "completion_tokens": 406,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 849,
+    "prompt_ms": 769.096,
+    "prompt_per_token_ms": 0.905884337,
+    "prompt_per_second": 1103.893685875,
+    "predicted_n": 406,
+    "predicted_ms": 6921.862,
+    "predicted_per_token_ms": 17.048921726,
+    "predicted_per_second": 58.654735828
+  }
+}

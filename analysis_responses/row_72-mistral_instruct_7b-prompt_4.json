@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-2503b8b74beb4316a6ea20328cdd5d1d",
+  "object": "text_completion",
+  "created": 1746091060,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKimberly, een 25-jarige vrouw die zichzelf beschrijft als introvert en introvergent, had een begeleidingsmoment op zondagochtend 27 april. Deze begeleiding vond plaats op haar verzoek en bij haar kamer binnen. Kimberly had eerder aangegeven dat ze \u2018wat dingen kwijt wilde die in haar hoofd zaten\u2019. Ze zat al klaar met een notitieboekje op tafel en vertelde dat ze zich de afgelopen week over had gedwongen om zichzelf te proberen te openen, maar dat ze zich vaak buiten de groep voelt staan. Ze vertelde dat ze dinsdag tijdens de lunch het gevoel had dat niemand naar haar luisterde, terwijl ze zich wel had proberen open te stellen. Dat maakte haar verdrietig, en ze gaf aan dat ze zich de rest van de dag teruggetrokken had. Kimberly en ik hebben samen bekeken hoe ze die ervaring heeft ge\u00efnterpreteerd, en of het klopte met wat er feitelijk gebeurde. Kimberly kon uiteindelijk benoemen dat ze op dat moment erg gevoelig was voor bevestiging, en dat de stilte aan tafel voor haar aanvoelde als afwijzing, maar dat dat mogelijk niet zo bedoeld was.\n\nDuring the conversation, Kimberly expressed her desire to go for a walk after the session, instead of isolating herself in her room. This is an important step in her pattern. Kimberly also mentioned that she had worked on a painting the previous day, which she found relaxing. She wanted to make this a regular activity and asked if it was possible to reserve a specific day for it. I noted this internally to discuss with the team.\n\nWe also discussed Kimberly's recent outburst of anger two weeks ago, which she was still dealing with. She felt ashamed but also unsure of how to heal from it with the guidance. We practiced naming emotions and Kimberly expressed her desire for a brief feedback session with the team, where she could indicate that she is working",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 997,
+    "total_tokens": 1509,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 997,
+    "prompt_ms": 2426.074,
+    "prompt_per_token_ms": 2.433373648,
+    "prompt_per_second": 410.952095543,
+    "predicted_n": 512,
+    "predicted_ms": 21834.662,
+    "predicted_per_token_ms": 42.645823723,
+    "predicted_per_second": 23.448954967
+  }
+}

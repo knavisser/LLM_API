@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-05c20d7c453543baa5c9fdb8232a3415",
+  "object": "text_completion",
+  "created": 1746107419,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Noah had een goede dag met veel vrolijke momenten. Bij binnenkomst zwaaide hij enthousiast naar de andere kinderen en ging direct naar de speelhoek waar hij een tijdje met de bouwblokken speelde. Hij maakte een \u201ctoren voor mama\u201d en toonde veel concentratie en trots op zijn bouwwerk. Tijdens de kringactiviteit zat hij rustig en deed hij actief mee, herhaalde hij een paar woorden uit het sinterklaasliedje en klapte op het ritme. Bij het buitenspelen rende hij energiek rond en speelde hij vooral samen met Mila, waardoor veel gelach ontstond. Noah at zijn lunch goed op, behalve een deel van zijn fruit, waar hij geen zin in had. In de middag was hij iets rustiger en koos hij voor een knutselactiviteit, waarbij hij een paard voor Sinterklaas schilderde met veel enthousiasme. Aan het eind van de dag was hij wat vermoeid, maar bleef hij vriendelijk en meewerkend. Hij zwaaide breed lachend gedag en zei: \u201cTot morgen!\u201d Algemeen: Noah was vrolijk en actief, met een paar momenten van focus en samenwerking.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 623,
+    "total_tokens": 932,
+    "completion_tokens": 309,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 623,
+    "prompt_ms": 586.326,
+    "prompt_per_token_ms": 0.941133805,
+    "prompt_per_second": 1062.548167293,
+    "predicted_n": 309,
+    "predicted_ms": 5276.937,
+    "predicted_per_token_ms": 17.077466817,
+    "predicted_per_second": 58.556694078
+  }
+}

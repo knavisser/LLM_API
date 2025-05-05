@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-72c4b555d2de4e15bb912eee422778d6",
+  "object": "text_completion",
+  "created": 1746089877,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nIn deze klinische abstractie wordt beschreven hoe Sem, een kind met een communicatiedisabiliteit, zich gedraagt tijdens een les. Het kind is bijzonder zelfstandig en zocht actief naar oplossingen als hij ergens tegenaan loopt. Zijn communicatievermogen is verbeterd door het gebruik van een tolk en visueel lesmateriaal. Sem is goed ge\u00efntegreerd in zijn klas, waar zijn klasgenoten gebruiken eenvoudige gebaren om met hem te praten. Aan het einde van de dag sprak de docent met de ouders van Sem, die aangaf dat Sem een voorbeeld is van hoe aanpassingen in de leeromgeving kunnen leiden tot gelijke kansen voor ieder kind.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 442,
+    "total_tokens": 641,
+    "completion_tokens": 199,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 442,
+    "prompt_ms": 920.446,
+    "prompt_per_token_ms": 2.082456075,
+    "prompt_per_second": 480.202205413,
+    "predicted_n": 199,
+    "predicted_ms": 8284.01,
+    "predicted_per_token_ms": 41.628192298,
+    "predicted_per_second": 24.022181719
+  }
+}

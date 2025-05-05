@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-b183a00904b245c3a1c82b5790442ceb",
+  "object": "text_completion",
+  "created": 1746107532,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Anna had vandaag een fijne en actieve dag. Ze kwam vrolijk binnen en begroette de groep met een grote glimlach. Tijdens de taalactiviteit werkte ze zelfstandig en gebruikte ze haar gebarentaalwoordenboek om nieuwe woorden op te zoeken. Ze toonde veel inzet en voltooide haar opdracht netjes. Bij de pauze zocht Anna gezellig haar vriendinnen op. Ze communiceerde vlot in gebarentaal en deed enthousiast mee met het spel op het schoolplein. Haar enthousiasme werkte aanstekelijk, en ze leek echt te genieten van de interactie met anderen. In de middag werkte Anna aan een knutselopdracht. Ze was creatief en zorgde ervoor dat haar werkstuk zorgvuldig werd afgewerkt. Ze vroeg om hulp met enkele instructies en gebruikte daarbij zowel gebaren als geschreven briefjes, wat prima verliep. Anna bleef de hele dag goed in haar ritme en leek zichtbaar tevreden met wat ze gedaan had. Aan het einde van de dag zwaaide ze vrolijk gedag naar iedereen. Algemeen: Anna had een positieve en productieve dag. Ze communiceerde duidelijk, werkte geconcentreerd en genoot van de samenwerking met haar klasgenoten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 606,
+    "total_tokens": 942,
+    "completion_tokens": 336,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 606,
+    "prompt_ms": 632.881,
+    "prompt_per_token_ms": 1.0443582,
+    "prompt_per_second": 957.525875726,
+    "predicted_n": 336,
+    "predicted_ms": 5695.93,
+    "predicted_per_token_ms": 16.952171496,
+    "predicted_per_second": 58.989492894
+  }
+}

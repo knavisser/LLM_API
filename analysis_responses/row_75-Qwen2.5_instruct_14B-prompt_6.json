@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-5e93f96e513c4ce69a944380b14a42aa",
+  "object": "text_completion",
+  "created": 1746109181,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Moeder en Noor (14:30) - Moeder: schoolweek redelijk, zondag uitbarsting bij supermarkt, tablet afpakken, Noor kamer, 1 uur roepen; moeder: spanning aan het weekend, snel toegeven om escalatie te voorkomen, korte termijn rust, langere termijn voorspelbaarheid en grenzen ondermijnt. Noor: \"niet altijd boos, soms alles stom\", moeilijkheden bij plotselinge veranderingen, plannen aangepast. Oefening weerkaart (zon-wolk-regen-bliksem): Noor koos 'regen met een beetje zon'. Noor: koekjes bakken met moeder, geen geschreeuw, moeder: ontroerd, rustige momenten zeldzaam maar waardevol. Moeder: inschrijven voor oudertraining via CJG, twijfelend, andere ouders spreken mogelijk fijn. Schoolbezoek plannen met intern begeleider, gedrag thuis en op school vergelijken. Volgende afspraak over twee weken, huisbezoek.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 938,
+    "total_tokens": 1205,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 938,
+    "prompt_ms": 961.761,
+    "prompt_per_token_ms": 1.025332062,
+    "prompt_per_second": 975.293796605,
+    "predicted_n": 267,
+    "predicted_ms": 8655.853,
+    "predicted_per_token_ms": 32.41892611,
+    "predicted_per_second": 30.846179068
+  }
+}

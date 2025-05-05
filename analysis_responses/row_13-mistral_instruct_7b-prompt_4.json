@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-803a2b55970543db9d1bc3e6cd2c5448",
+  "object": "text_completion",
+  "created": 1746090039,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nJannie, 26, werd op 27-02-2023 opgenomen in het ziekenhuis met een longontsteking. Ze gaf aan zich erg vermoeid te voelen en had oppervlakkige ademhaling. Na haar ochtendmedicatie voelde ze zich iets comfortabeler. Ze nam een licht ontbijt en gaf aan dat dit haar goed deed. In de ochtend koos ze voor volledige rust, waarbij ze een boek luisterde. Ze gaf aan dat ze weinig energie had en behoefde had aan een kalme omgeving. Tijdens de lunch voelde ze zich iets beter, maar haar eetlust was nog beperkt. Ze dronk voldoende en benoemde dat ze zich ondanks de vermoeidheid prettig voelde door de rustige aanpak. In de middag deed Jannie een ademhalingsoefening, wat haar hielp om zich wat beter te ontspannen. Ze gaf aan dat ze het fijn vond om iets actifs te doen zonder zich te forceren. Daarna koos ze opnieuw voor rust en gaf aan daar veel behoefte aan te hebben. Aan het eind van de dag voelde ze zich nog steeds vermoeid maar tevreden over de ondersteuning die ze kreeg. Jannie is gebaat in een rustige, prikkelarme omgeving met voldoende momenten van rust en lichte begeleiding bij activiteiten die haar ademhaling ondersteunen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 607,
+    "total_tokens": 1003,
+    "completion_tokens": 396,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 607,
+    "prompt_ms": 1863.504,
+    "prompt_per_token_ms": 3.070023818,
+    "prompt_per_second": 325.730371916,
+    "predicted_n": 396,
+    "predicted_ms": 16771.54,
+    "predicted_per_token_ms": 42.352374033,
+    "predicted_per_second": 23.611427289
+  }
+}

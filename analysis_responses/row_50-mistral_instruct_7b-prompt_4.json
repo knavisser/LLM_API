@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-947260c902fe4556884000bb446e9d49",
+  "object": "text_completion",
+  "created": 1746090664,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nSixth session with Sophie took place in the practice room. She arrived on time, made eye contact, and looked slightly anxious, but stated at the beginning that she had practiced breathing exercises before the session. She reported that she had been using them regularly in stressful situations at work. We started by reviewing a specific situation that she had prepared. Sophie described how she noticed during a team meeting that she wanted to give her opinion on a work process, but was afraid to do so. She mentioned thoughts such as: \u201cWhat if I say something stupid?\u201d and \u201cThey\u2019ll think I don\u2019t understand it.\u201d We worked through this moment together using a G-schema, where we recorded her thoughts, feelings, and behavior. Sophie was able to clearly identify that her behavior was driven by fear of rejection and failure anxiety. Interestingly, she noted that a colleague had said something similar, and received positive reactions. This helped her to relativize. In the second half of the session, we worked on a short imaginative exposure exercise, where Sophie imagined how it would feel to speak up during the meeting. She reported that it was scary, but that it also \u201cgave a kind of relief\u201d to imagine the situation in her head. We also discussed her tendency to fill her free time with \u2018productive\u2019 activities. She recognized that she felt guilty when she did not do anything \u2018productive\u2019. Together, we explored the difference between active relaxation and functional avoidance. Agreed that Sophie would plant one moment this week where she did not need to \u2018perform\u2019, for example, an hour of reading without a goal. Next time we will evaluate this task and repeat the exposure technique.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 805,
+    "total_tokens": 1152,
+    "completion_tokens": 347,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 805,
+    "prompt_ms": 1670.901,
+    "prompt_per_token_ms": 2.075652928,
+    "prompt_per_second": 481.776113178,
+    "predicted_n": 347,
+    "predicted_ms": 15038.105,
+    "predicted_per_token_ms": 43.337479723,
+    "predicted_per_second": 23.074715152
+  }
+}

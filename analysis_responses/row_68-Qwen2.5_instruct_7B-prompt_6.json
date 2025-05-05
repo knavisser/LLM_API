@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-dde85164fe344d21adbc97f10fcef019",
+  "object": "text_completion",
+  "created": 1746107789,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Daan, elf jaar, en zijn moeder hadden sessie vijf in de spelkamer van de praktijk. Daan was iets stiller dan normaal en had hoofdpijn, waarschijnlijk veroorzaakt door slecht slapen. Hij vertelde dat hij veel piekerde over 'het gedoe thuis' en voelde zich verantwoordelijk voor de ruzies tussen zijn ouders. Moeder was geschokt door deze uitspraak en gaf aan dat ze zich schuldig voelt over hoe ze soms reageert. Ze voelt zich soms machteloos en haar geduld verliest, vooral als Daan druk is na school. Samen hebben ze een 'stoplichtkaart' ge\u00efntroduceerd: rood betekent 'ik voel me overspoeld', oranje is 'ik heb hulp nodig' en groen is 'het gaat goed'. Daan mag deze kaart inzetten als hij signalen van spanning voelt. Moeder gaat proberen op de kleur te reageren met passende ondersteuning of ruimte. Daan wilde een creatieve oefening doen en koos een werkblad om tekenen wat hem boos maakt. Dit leidde tot een gesprek over onduidelijke regels thuis. Ze sloten af met een korte ademhalingsoefening, waarna Daan zei dat zijn hoofd rustiger was. Afgesproken dat ze de kaart komende week gaan gebruiken en evalueren hoe dat gaat.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 812,
+    "total_tokens": 1166,
+    "completion_tokens": 354,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 812,
+    "prompt_ms": 672.892,
+    "prompt_per_token_ms": 0.828684786,
+    "prompt_per_second": 1206.731458423,
+    "predicted_n": 354,
+    "predicted_ms": 6056.028,
+    "predicted_per_token_ms": 17.107424898,
+    "predicted_per_second": 58.454151106
+  }
+}

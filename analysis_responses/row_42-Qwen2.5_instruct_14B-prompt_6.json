@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-e5d2d6508ca54307bf3df33c2007f190",
+  "object": "text_completion",
+  "created": 1746108885,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Anne, op eigen initiatief, had een begeleidingsgesprek in de gezamenlijke huiskamer. Ze vertelde dat ze zich sinds het weekend lichter voelt. Ze maakte afgelopen zondag een korte wandeling in de buurt met medebewoonster J., ervoer dit als spannend maar achteraf prettig. Haar angst om anderen tegen te komen werd overwonnen door J.'s rustige houding. Sinds vorige week slaapt ze beter omdat ze 's avonds minder op haar telefoon kijkt. De ochtenden blijven lastig, vooral het opstarten voor 09:00. Afgesproken dat ze probeert om dagelijks om 08:30 op te staan met hulp van een wake-up light. Ze is bereid om volgende vrijdag deel te nemen aan een groepsactiviteit (filmavond) als ze zich op die dag goed voelt.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 654,
+    "total_tokens": 887,
+    "completion_tokens": 233,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 654,
+    "prompt_ms": 835.218,
+    "prompt_per_token_ms": 1.277091124,
+    "prompt_per_second": 783.029480984,
+    "predicted_n": 233,
+    "predicted_ms": 7516.958,
+    "predicted_per_token_ms": 32.261623845,
+    "predicted_per_second": 30.996579862
+  }
+}

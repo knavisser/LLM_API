@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-5ecd6fb39b2e4a388cef2fa23f6de68b",
+  "object": "text_completion",
+  "created": 1746108557,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Tijdens de les toonde Sem een vloeiende communicatie via gebarentaal met de hulp van een tolk en visueel lesmateriaal. Hij is zeer zelfstandig en zoekt actief naar oplossingen, zoals het gebruik van een tablet voor schrijven en extra aantekeningen. Tijdens de pauze was hij goed ge\u00efntegreerd in zijn klas, waar zijn klasgenoten eenvoudige gebaren gebruikten om met hem te communiceren. Hij voelde zich duidelijk op zijn gemak. Aan het einde van de dag sprak de docent met mij over Sem, die als voorbeeld stond voor gelijke kansen in de leeromgeving door aanpassingen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 472,
+    "total_tokens": 644,
+    "completion_tokens": 172,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 472,
+    "prompt_ms": 656.088,
+    "prompt_per_token_ms": 1.390017039,
+    "prompt_per_second": 719.415641801,
+    "predicted_n": 172,
+    "predicted_ms": 5904.792,
+    "predicted_per_token_ms": 34.330188258,
+    "predicted_per_second": 29.128881919
+  }
+}

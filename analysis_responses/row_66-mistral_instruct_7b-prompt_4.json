@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-8df6a6da86064a13adbe9dd106eda163",
+  "object": "text_completion",
+  "created": 1746090934,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nAnne, 24 jaar, had een gesprek met de behandelaar in de tuin van de woonvorm. Het was zonnig en Anne vertelde dat ze sinds gisteren weer begonnen is met tekenen, wat ze maandenlang niet gedaan heeft. Ze had papier en potloden meegenomen en liet trots zien wat ze had gemaakt \u2014 abstracte vormen met felle kleuren. Anne vertelde dat ze zich erdoor kon uiten zonder te hoeven praten, en dat dat haar rust gaf.\n\nDuring the conversation, Anne mentioned her eating habits. She stated that she had been eating more frequently with the group in the communal room in the past few days, although she found it still somewhat nerve-wracking. She mentioned that it was difficult for her when people asked unexpected questions. However, she acknowledged that it helped her to be with others on a regular basis.\n\nAnne expressed concern about the upcoming evaluation with her therapist and parents next week. She was anxious about what others might expect of her, especially since she felt that she could not meet those expectations. The therapist reassured Anne that they could prepare the agenda together and that her input was valued. They agreed to meet again on Tuesday to continue preparing for the evaluation. Anne also committed to trying to eat at least one meal per day with the group.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 674,
+    "total_tokens": 977,
+    "completion_tokens": 303,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 674,
+    "prompt_ms": 1452.563,
+    "prompt_per_token_ms": 2.15513777,
+    "prompt_per_second": 464.007458888,
+    "predicted_n": 303,
+    "predicted_ms": 13073.066,
+    "predicted_per_token_ms": 43.145431386,
+    "predicted_per_second": 23.177424999
+  }
+}

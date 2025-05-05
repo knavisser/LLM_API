@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-d1305a8f512d47e9b27b72392f6af00d",
+  "object": "text_completion",
+  "created": 1746107827,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jamal was op koptelefoon bij zijn binnenkomst en ging direct naar de houtafdeling. Hij was rustig, maakte oogcontact en zei dat hij het karretje wilde afmaken. Hij werkte zelfstandig en vroeg geen hulp, behalve bij het vervangen van een accuboormachine. Hij volgde de veiligheidsafspraken goed. Hij leek plezier te hebben en maakte grapjes met mededeelnemer Kevin. Rond half twaalf kwam zijn begeleidende ambulant ondersteuner om een formulier te overhandigen, waardoor Jamal schrok en tijdelijk terugtrok in de chillruimte. Na ongeveer tien minuten kwam hij terug en stelde voor om toekomstige bezoeken eerst te melden. Na de lunch sprak Jamal over zijn thuisactiviteiten, waarbij hij vertelde dat hij een puzzel van duizend stukjes maakte met zijn broer, wat hij fijn vond vanwege de stilte. Hij liet zelfs een foto zien. Aan het eind van de dag bleef hij iets langer bij de werktafel, alsof hij zijn werk wilde afmaken voordat de vakantie begint. Hij vond het idee om donderdag in de kleine werkruimte te werken, zonder groep, prettig. Afgesproken om dit in te plannen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 904,
+    "total_tokens": 1245,
+    "completion_tokens": 341,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 904,
+    "prompt_ms": 668.521,
+    "prompt_per_token_ms": 0.739514274,
+    "prompt_per_second": 1352.23894294,
+    "predicted_n": 341,
+    "predicted_ms": 6016.688,
+    "predicted_per_token_ms": 17.644246722,
+    "predicted_per_second": 56.675698076
+  }
+}

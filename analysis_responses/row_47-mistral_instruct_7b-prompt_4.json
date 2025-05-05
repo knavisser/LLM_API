@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-41f7687ed64a4e2985acb9af8b1d1832",
+  "object": "text_completion",
+  "created": 1746090602,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nVandaag heeft mevrouw Brouwer thuis bij haar woonkamer een wondzorg en medicatiecontrole gehad. De wond aan het linker onderbeen toont opnieuw lichte verbetering en de medicatie-inname is grotendeels goed verlopen deze week. Mevrouw gaf aan dat ze \u00e9\u00e9n keer een dosis vergeten is, maar dit direct de volgende ochtend heeft gemeld bij haar dochter. De samenwerking tussen cli\u00ebnt en dochter rondom medicatie lijkt goed te verlopen. Mevrouw voelde zich de afgelopen dagen rustiger dan in voorgaande weken en vertelde dat ze op dinsdag bezoek heeft gehad van haar nichtje en dit als prettig ervoer. Ook heeft ze twee middagen achter elkaar een kruiswoordpuzzel kunnen afmaken, wat ze als klein succesje benoemde. Het is besproken dat mevrouw de volgende week een begeleid wandelmoment krijgt.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 794,
+    "total_tokens": 1055,
+    "completion_tokens": 261,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 794,
+    "prompt_ms": 1221.215,
+    "prompt_per_token_ms": 1.538054529,
+    "prompt_per_second": 650.172007128,
+    "predicted_n": 261,
+    "predicted_ms": 10990.938,
+    "predicted_per_token_ms": 42.110872269,
+    "predicted_per_second": 23.746836532
+  }
+}

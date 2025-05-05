@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-b14ff395f3164dc7b5988851271a28c5",
+  "object": "text_completion",
+  "created": 1746107485,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Albert begon de ochtend met frustratie door de stijfheid en trillingen van zijn Parkinson, maar na medicatie en een rustig ontbijt werd zijn stemming verbeterd. Hij luisterde naar muziek om zijn gedachten te verzetten. Halverwege de ochtend wilde hij naar buiten gaan en zette hij zich neer op een bankje in de tuin waar hij zich kalmeerde door het geluid van de wind en vogels. De middag verliep rustig met het sorteren van persoonlijke spullen, wat hem focus en voldoening gaf. Hoewel hij moe werd, was hij tevreden met wat hij had kunnen doen. Aan het einde van de dag voelde hij zich prettig bij de balans tussen activiteit en rust, waarbij hij waardeert dat er ruimte is om aan te passen aan zijn energieniveau.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 598,
+    "total_tokens": 811,
+    "completion_tokens": 213,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 598,
+    "prompt_ms": 447.588,
+    "prompt_per_token_ms": 0.748474343,
+    "prompt_per_second": 1336.05114145,
+    "predicted_n": 213,
+    "predicted_ms": 4028.289,
+    "predicted_per_token_ms": 18.91215452,
+    "predicted_per_second": 52.876048519
+  }
+}

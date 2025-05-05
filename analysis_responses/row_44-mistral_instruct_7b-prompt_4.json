@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-20f2ee41a64d43ef8935c3bb3f433be4",
+  "object": "text_completion",
+  "created": 1746090558,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nIn deze vierde sessie met Daan en zijn moeder in de praktijkruimte werd duidelijk dat Daan veel plezier had beleefd aan een voetbaltoernooi op school. Hij benoemde dat hij daar \u201cvoor het eerst in lange tijd\u201d niet uit de groep stapte bij drukte. Deze positieve ervaring werd benoemd door zowel Daan als moeder. Daarna kwam het onderwerp huiswerk aan bod. Moeder gaf aan dat er nog veel strijd is rondom het maken ervan. Daan zei dat hij het gevoel heeft dat \u201chet toch nooit goed genoeg is\u201d, waarop moeder schrok en aangaf dat dit niet haar bedoeling is. Het moment raakte beiden zichtbaar. Hierop hebben we een gezamenlijke oefening gedaan over helpende gedachten. We bespraken hoe Daan succeservaringen kan opbouwen met kleine taken. Afgesproken dat hij komende week werkt met een visueel schema waarin hij na elk taakje een sticker mag plakken. Als hij vijf stickers verzamelt, verdient hij schermtijd. Aan het eind vroeg Daan zelf of hij volgende keer een oefening mag doen met rollenspel, om \u201cbeter te leren rustig blijven als mama boos is.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 612,
+    "total_tokens": 967,
+    "completion_tokens": 355,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 612,
+    "prompt_ms": 1696.103,
+    "prompt_per_token_ms": 2.771410911,
+    "prompt_per_second": 360.827041585,
+    "predicted_n": 355,
+    "predicted_ms": 15264.931,
+    "predicted_per_token_ms": 42.999806471,
+    "predicted_per_second": 23.255918621
+  }
+}

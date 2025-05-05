@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-c54630e733b740d28737fbda609e510e",
+  "object": "text_completion",
+  "created": 1746090755,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nDe ochtendzorg bij meneer van den Berg is uitgevoerd tussen 08:15 en 08:45. Zijn vrouw heeft hem geopend. Meneer is wakker in bed aangetroffen en oogde alert. Bij het beoordelen van de huidtoestand zijn er geen tekenen van decubitus of huidirritatie. De ADL-ondersteuning is geboden bij het wassen van het bovenlichaam. De perineale zone is intact en wordt zelfstandig verzorgd. Meneer heeft voor het eerst zelf z\u2019n compressiekousen zelfstandig aangetrokken, een mooie stap in zijn zelfredzaamheid. Verder heeft hij zijn ochtendmedicatie zonder problemen ingenomen: simvastatine, metformine en amlodipine. De vervolgafspraak met de POH-somatiek voor controle van bloeddruk en glucosewaarden staat gepland voor donderdag \u2013 herinnering hiervoor aangetekend in het zorgdossier. De weekplanning is doorgedaan: meneer wil vrijdag mogelijk naar de markt met zijn dochter, overleg met mantelzorg volgt. Geen bijzonderheden verder.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 588,
+    "total_tokens": 907,
+    "completion_tokens": 319,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 588,
+    "prompt_ms": 1482.762,
+    "prompt_per_token_ms": 2.521703924,
+    "prompt_per_second": 396.557260471,
+    "predicted_n": 319,
+    "predicted_ms": 13344.857,
+    "predicted_per_token_ms": 41.833408051,
+    "predicted_per_second": 23.904339775
+  }
+}

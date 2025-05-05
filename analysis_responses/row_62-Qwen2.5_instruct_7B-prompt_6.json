@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-8e201e2faaec4d5caadce4810e5d3f80",
+  "object": "text_completion",
+  "created": 1746107751,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Milan, acht jaar oud, heeft aanhoudende gedragsproblemen zoals snel gefrustreerd raken, weglopen uit de klas en moeite met overgangen. Zijn moeder herkent dit gedrag ook thuis, vooral in de ochtend, waar hij dan bij het minste of geringste boos wordt of zich terugtrekt. Ze voelt zich machteloos en weet niet hoe ze moet reageren. Tijdens het gesprek werd uitgelegd hoe prikkelverwerking werkt bij kinderen zoals Milan en de belangrijkheid van voorspelbaarheid. Een visueel ochtendplan met pictogrammen werd samengesteld, inclusief opstaan, aankleden, ontbijten, tandenpoetsen, jas aan, enzovoort. Dit plan helpt Milan om te zien wat er komt en biedt een basis voor samenwerking. School gaat een gedragsspecialist inzetten om Milan beter te begeleiden. Er is afgesproken dat de arts over twee weken opnieuw langs zal komen om te controleren hoe het ochtendplan werkt en of er al effect is, zowel thuis als op school.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 604,
+    "total_tokens": 887,
+    "completion_tokens": 283,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 604,
+    "prompt_ms": 530.824,
+    "prompt_per_token_ms": 0.878846882,
+    "prompt_per_second": 1137.854636865,
+    "predicted_n": 283,
+    "predicted_ms": 4777.412,
+    "predicted_per_token_ms": 16.881313257,
+    "predicted_per_second": 59.237097541
+  }
+}

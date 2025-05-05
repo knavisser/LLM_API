@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-e9db59ff83824213a4477a3e5c62b5f1",
+  "object": "text_completion",
+  "created": 1746108617,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Wilhelmina begon de dag met een benauwd gevoel, veroorzaakt door haar COPD. Na medicatie en rust voelde ze zich beter en ging ze aan haar ochtendroutine. Ze werkte mee aan lichte activiteiten zoals het sorteren van post, waarbij ze haar tempo zorgvuldig aanhield om haar ademhaling stabiel te houden. Tijdens de lunch merkte ze dat haar ademhaling redelijk stabiel was, hoewel ze zich vermoeid voelde. Ze vond het prettig om in een rustige omgeving te zijn zonder veel prikkels. In de middag koos ze voor een korte wandeling binnenshuis, waarbij ze voldoende pauzes nam. Aan het einde van de dag voelde ze zich vermoeid maar tevreden en had ze behoefte aan een rustige avond. Wilhelmina baat heeft bij een gestructureerde dagindeling, voldoende rustmomenten en een prikkelarme omgeving om haar ademhaling te ondersteunen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 640,
+    "total_tokens": 902,
+    "completion_tokens": 262,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 640,
+    "prompt_ms": 971.753,
+    "prompt_per_token_ms": 1.518364325,
+    "prompt_per_second": 658.603461255,
+    "predicted_n": 262,
+    "predicted_ms": 8745.779,
+    "predicted_per_token_ms": 33.380834019,
+    "predicted_per_second": 29.957310217
+  }
+}

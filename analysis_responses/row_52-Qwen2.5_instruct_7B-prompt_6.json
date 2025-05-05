@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a950143a2ed9410587c08303cc388abe",
+  "object": "text_completion",
+  "created": 1746107698,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jan De Vries, een netjes huis, koffie en kaarsen. De gesprekshoofdstukken waren de post en financi\u00eble zorgen. Jan was gespannen over de post en de kat werd in de gang geplaatst, wat Jan niet goedkeurde. Post werd gesorteerd op urgentie. Er werden afspraken gemaakt over betalingsregelingen, met een telefoontje naar de energieleverancier door Jan zelf. Spanningen rondom familiebezoek werden besproken, waarbij Jan zijn gevoelens benoemde en grenzen oefende. Een stappenplan werd achtergelaten. De volgende afspraak is voor maandag 15 april om 10:00 uur.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 688,
+    "total_tokens": 867,
+    "completion_tokens": 179,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 688,
+    "prompt_ms": 360.21,
+    "prompt_per_token_ms": 0.523560581,
+    "prompt_per_second": 1909.998645115,
+    "predicted_n": 179,
+    "predicted_ms": 3241.887,
+    "predicted_per_token_ms": 18.111101209,
+    "predicted_per_second": 55.214754114
+  }
+}

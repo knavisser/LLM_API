@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-fdfed36e163c44f49174cea3c01ac9a3",
+  "object": "text_completion",
+  "created": 1746108732,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Johanna begon haar ochtend opgewekt en enthousiast, maar ook onrustig. Ze werkte aan een puzzel en genoot ervan, hoewel ze soms werd herinnerd om niet te snel te gaan. Rond lunchtijd bleef ze energiek, maar vond het moeilijk om haar tempo te matigen. Na een korte wandeling in de tuin koos ze voor een rustiger bezigheid, zoals luisteren naar muziek, waardoor ze wat meer in balans kwam. Tegen de avond voelde ze zich tevreden en blij met de dagelijkse afwisseling. Een strakke dagstructuur en hulp bij het doseren van haar energie zijn cruciaal voor haar welzijn.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 539,
+    "total_tokens": 722,
+    "completion_tokens": 183,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 539,
+    "prompt_ms": 699.221,
+    "prompt_per_token_ms": 1.297256854,
+    "prompt_per_second": 770.857365038,
+    "predicted_n": 183,
+    "predicted_ms": 6292.993,
+    "predicted_per_token_ms": 34.387939875,
+    "predicted_per_second": 29.079962441
+  }
+}

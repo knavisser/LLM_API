@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-8b875e172ef044e98fb39754b2a546c9",
+  "object": "text_completion",
+  "created": 1746108861,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Huisbezoek gebracht bij moeder en Milan. School meldt zich zorgen aan over Milans gedrag: snel gefrustreerd, moeite met overgangen en regelmatig weglopen. Moeder bevestigt deken, met name in de ochtend. Stress ervaren rond op tijd komen, Milan 'ontploft' bij kleine tegenvallers. Psycho-educatie gegeven over prikkelverwerking en voorspelbaarheid. Visueel ochtendplan met pictogrammen opgesteld om structuur te bieden en escalatie te voorkomen. School gaat gedragsspecialist inzetten voor ondersteuning. Over twee weken terugkomen voor evaluatie van het ochtendplan en schoolverloop.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 544,
+    "total_tokens": 721,
+    "completion_tokens": 177,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 544,
+    "prompt_ms": 637.739,
+    "prompt_per_token_ms": 1.172314584,
+    "prompt_per_second": 853.013357874,
+    "predicted_n": 177,
+    "predicted_ms": 5739.652,
+    "predicted_per_token_ms": 32.427413585,
+    "predicted_per_second": 30.838105462
+  }
+}

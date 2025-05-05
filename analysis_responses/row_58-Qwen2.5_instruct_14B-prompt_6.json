@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a443a3c54a7c4775a4a7de5b127ce742",
+  "object": "text_completion",
+  "created": 1746109029,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mevrouw Jansen, 83 jaar, ontvangt wondzorg aan haar rechteronderbeen met een decubitusgraad twee. De wond toont verbetering: minder rode randen en geen tekenen van vocht of ontsteking. Het verband is vervangen volgens protocol. Mevrouw heeft geprobeerd meer eiwitrijke voeding te consumeren, zoals yoghurt en eieren, als ondersteuning voor de wondgenezing. Ze meldt een lichte val in de douche vorige week, waardoor ze nu angstig is over zelfstandig douchen. Ze overweegt hulp te accepteren bij het douchen, hoewel ze zich hierbij ongemakkelijk voelt. Er is besloten tot een proefperiode van twee extra ADL-hulpbezoeken gericht op het douchen, te evalueren tijdens het volgende bezoek.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 629,
+    "total_tokens": 845,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 629,
+    "prompt_ms": 816.171,
+    "prompt_per_token_ms": 1.297569654,
+    "prompt_per_second": 770.67153733,
+    "predicted_n": 216,
+    "predicted_ms": 7345.542,
+    "predicted_per_token_ms": 34.007138014,
+    "predicted_per_second": 29.405591249
+  }
+}

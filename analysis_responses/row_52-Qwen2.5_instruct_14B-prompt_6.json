@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-bc1ff33b2c8347c4824e027c56c0a1a5",
+  "object": "text_completion",
+  "created": 1746108973,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jan De Vries had een ambulante afspraak van 10:00 tot 11:00 uur thuis. Het huis was netjes en er brandden kaarsen. Jan was gespannen over de opgestapelde post en keek weg toen erover werd gesproken. Samen sorteerden ze de brieven op urgentie, waaronder betaalherinneringen. Jans kat was onrustig. Jan wilde de kat niet in de gang zetten. Ze maakten afspraken over betalingsregelingen en Jan deed met ondersteuning een telefoontje naar de energieleverancier. Er werden spanningen besproken rondom familiebezoek. Jan oefende met grenzen stellen en kreeg een stappenplan achtergelaten. Volgende afspraak is op maandag 15 april om 10:00 uur.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 688,
+    "total_tokens": 894,
+    "completion_tokens": 206,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 688,
+    "prompt_ms": 783.324,
+    "prompt_per_token_ms": 1.138552815,
+    "prompt_per_second": 878.307959421,
+    "predicted_n": 206,
+    "predicted_ms": 7049.919,
+    "predicted_per_token_ms": 34.222907927,
+    "predicted_per_second": 29.22019374
+  }
+}

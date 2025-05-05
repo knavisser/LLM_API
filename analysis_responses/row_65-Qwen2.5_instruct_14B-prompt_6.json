@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-ca85b429e8994efbaba24861286fe303",
+  "object": "text_completion",
+  "created": 1746109088,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Meneer Van Rooijen opende de deur en maakte een heldere indruk. Tijdens het medicatiemoment bleek dat hij zijn ochtendmedicatie nog niet had ingenomen, wat hij aan zijn verwarring met de tijden toedwoordt. Dit veroorzaakt frustratie bij hem. Hij voelt zich de afgelopen dagen moe en slaapt licht, waardoor hij vroeg wakker wordt, wat hem opbreekt vooral als hij een lange dag heeft. Hij is verdrietig omdat zijn dochter deze week niet langs kan komen. Samen maakten ze een rustige wandeling in de tuin, wat hem plezier gaf. In zijn agenda werd aangegeven wanneer hij welke medicijnen moet nemen en wanneer er weer een bezoek is gepland. Volgende week brengt de bezoeker een voorbeeld-weekplanning mee en zal er worden besproken of er een doorverwijzing naar de POH-GGZ nodig is.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 732,
+    "total_tokens": 969,
+    "completion_tokens": 237,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 732,
+    "prompt_ms": 897.377,
+    "prompt_per_token_ms": 1.225925502,
+    "prompt_per_second": 815.710252142,
+    "predicted_n": 237,
+    "predicted_ms": 8076.397,
+    "predicted_per_token_ms": 34.077625335,
+    "predicted_per_second": 29.344767723
+  }
+}

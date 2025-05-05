@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-bb1cb6c6d3d04db48f53fea00326fa55",
+  "object": "text_completion",
+  "created": 1746107596,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kevin toonde vandaag verhoogde spanning bij het opstarten van de dag. Hij kwam pas rond 11:00 uit zijn kamer en gaf aan slecht geslapen te hebben vanwege piekergedachten over zijn afspraak bij de tandarts morgen. Hij was bang voor de verdoving en voor pijn. Na een ontspanningsoefening leek hij hierna minder gespannen. Tijdens het middagoverleg heeft hij actief meegedacht over de planning van de gezamenlijke lunchmomenten, wat positief werd ontvangen door medebewoners. Hij vond het fijn dat hij invloed op de planning kon uitoefenen. In overleg is besloten dat de auteur morgen meegaat naar de tandartsafspraak ter ondersteuning, wat Kevin hierdoor minder gespannen maakte.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 491,
+    "total_tokens": 694,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 491,
+    "prompt_ms": 400.373,
+    "prompt_per_token_ms": 0.81542422,
+    "prompt_per_second": 1226.355528324,
+    "predicted_n": 203,
+    "predicted_ms": 3603.36,
+    "predicted_per_token_ms": 17.750540038,
+    "predicted_per_second": 56.336314155
+  }
+}

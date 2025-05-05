@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-aad13ae2f91e4d92ab276ddf2afaffe1",
+  "object": "text_completion",
+  "created": 1746108563,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Noah had een vrolijke dag. Hij zwaaide enthousiast bij binnenkomst en speelde met bouwblokken, waarbij hij een \"toren voor mama\" maakte. Tijdens de kringactiviteit herhaalde hij woorden uit een sinterklaasliedje en klapte mee. Buiten speelde hij met Mila als pieten die pakjes bezorgden. Hij at zijn lunch, maar wilde geen banaan. In de middag schilderde hij een paard voor Sinterklaas. Aan het einde van de dag was hij vermoeid, maar bleef vriendelijk en meewerkend. Hij zwaaide lachend gedag en zei: \"Tot morgen!\"\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 623,
+    "total_tokens": 799,
+    "completion_tokens": 176,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 623,
+    "prompt_ms": 648.75,
+    "prompt_per_token_ms": 1.041331873,
+    "prompt_per_second": 960.30864514,
+    "predicted_n": 176,
+    "predicted_ms": 5838.748,
+    "predicted_per_token_ms": 33.174703473,
+    "predicted_per_second": 30.143449535
+  }
+}

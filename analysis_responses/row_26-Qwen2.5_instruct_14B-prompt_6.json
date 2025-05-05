@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-bbe68a5193454a8ab0ec7f005c8b21df",
+  "object": "text_completion",
+  "created": 1746108760,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Tessa arriveerde vriendelijk en ging direct aan de slag met haar Engelsopdracht waarbij ze geconcentreerd werkte en goede aantekeningen maakte. Tijdens de pauze at ze haar allergiebestendige lunch en genoot van gezellige gesprekken met vriendinnen. In de middag werkte ze in een groep aan een aardrijkskunde-project, waarbij ze taken verdeelde en haar idee\u00ebn duidelijk deelde. Ze bleef rustig en gefocust, ook in chaotische situaties. Tessa voelde zich aan het einde van de dag goed en vertrok met een glimlach.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 589,
+    "total_tokens": 748,
+    "completion_tokens": 159,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 589,
+    "prompt_ms": 618.434,
+    "prompt_per_token_ms": 1.049973119,
+    "prompt_per_second": 952.405335146,
+    "predicted_n": 159,
+    "predicted_ms": 5565.908,
+    "predicted_per_token_ms": 35.005707561,
+    "predicted_per_second": 28.566770098
+  }
+}

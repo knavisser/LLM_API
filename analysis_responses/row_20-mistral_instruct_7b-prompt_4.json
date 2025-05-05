@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a7cdd1a27de14e039755fa5e3401151e",
+  "object": "text_completion",
+  "created": 1746090147,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nTheo's dag begon onrustig en hij stelde herhaaldelijk vragen over de dag en de planning. Hij voelde zich onzeker en onrustig. Na een rustig ontbijt en duidelijke uitleg over de dag leek hij wat meer op zijn gemak. Hij hielp met een eenvoudige taak, zoals het sorteren van kaarten. Deze taak gaf hem een gevoel van betrokkenheid en leek hem af te leiden van zijn verwarring.\n\nDuring lunch, Theo continued to ask questions about his surroundings, but with patience and repetition, he remained calm. He ate slowly and needed help at times to keep eating. In the afternoon, Theo looked at old family photos, which brought recognition and pleasure. He told stories from the past, which seemed to energize him.\n\nAt the end of the day, Theo was tired but appeared satisfied and calm. It was clear that familiar activities and a calm guide helped him.\n\nTheo's day began with anxiety and confusion. He repeatedly asked questions about the day and the plan. After a restful breakfast and clear explanations, he felt more comfortable. He helped with a simple task, sorting cards, which gave him a sense of involvement and helped him focus.\n\nDuring lunch, Theo continued to ask questions about his surroundings, but with patience and repetition, he remained calm. He ate slowly and needed help at times to keep eating. In the afternoon, Theo looked at old family photos, which brought recognition and pleasure. He told stories from the past, which seemed to energize him.\n\nAt the end of the day, Theo was tired but appeared satisfied and calm. It was clear that familiar activities and a calm guide helped him.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 495,
+    "total_tokens": 885,
+    "completion_tokens": 390,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 495,
+    "prompt_ms": 1803.37,
+    "prompt_per_token_ms": 3.643171089,
+    "prompt_per_second": 274.48614836,
+    "predicted_n": 390,
+    "predicted_ms": 16230.327,
+    "predicted_per_token_ms": 41.616223592,
+    "predicted_per_second": 24.029090429
+  }
+}

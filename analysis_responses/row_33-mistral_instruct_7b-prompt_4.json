@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-52ebc8f0851d405989698d11d8df22ef",
+  "object": "text_completion",
+  "created": 1746090386,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKim begon de dag vermoeid en gaf aan dat ze een slechte nacht had gehad. Ze was tijdens het ontbijt stil en weinig betrokken. Ze vertelde dat ze vaak ligt te piekeren en moeilijk tot rust komt, zelfs als ze zich fysiek moe voelt. In de ochtend deed Kim mee aan een rustige activiteit, maar gaf na korte tijd aan dat haar concentratie tekortschoot. Na overleg besloot ze een wandeling te maken om haar hoofd leeg te maken. Dit leek haar goed te doen; ze kwam wat meer ontspannen terug, al bleef haar energie laag. In de middag koos Kim voor een creatieve activiteit, waarbij ze aangaf het fijn te vinden om haar gedachten even te verzetten. Ze gaf echter ook aan dat ze zich zorgen maakt over het aankomende slapen en bang is weer een slechte nacht te hebben. Bijzonderheden: Kim heeft baat bij ondersteuning in het cre\u00ebren van een slaaproutine en het leren omgaan met piekergedachten.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 517,
+    "total_tokens": 807,
+    "completion_tokens": 290,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 517,
+    "prompt_ms": 1379.211,
+    "prompt_per_token_ms": 2.667719483,
+    "prompt_per_second": 374.852006112,
+    "predicted_n": 290,
+    "predicted_ms": 12412.899,
+    "predicted_per_token_ms": 42.803099155,
+    "predicted_per_second": 23.362794277
+  }
+}

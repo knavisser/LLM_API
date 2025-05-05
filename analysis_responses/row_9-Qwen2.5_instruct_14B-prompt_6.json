@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-193b72db66ea47a8987ea5762e9c511c",
+  "object": "text_completion",
+  "created": 1746108600,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Aafke had een rustige nacht en voelde zich onzeker over haar incontinentieproblemen. Na een ochtendroutine met ondersteuning met hulpmiddelen, voelde ze zich meer op haar gemak. Ze hielp met lichte huishoudelijke taken, waardoor ze zich afgeleid en betrokken voelde. Tijdens de lunch was ze comfortabel en blij met de discrete ondersteuning. Ze benadrukte het belang van een vaste structuur. In de middag koos ze voor een rustige activiteit als puzzel maken, wat haar ontspande. Ze merkte op dat ze zich de hele dag goed had gevoeld. Aan het einde van de dag was ze tevreden, maar ook wat vermoeid. Ze baat bij een dagindeling met duidelijke structuur en discrete, proactieve zorg.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 616,
+    "total_tokens": 824,
+    "completion_tokens": 208,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 616,
+    "prompt_ms": 772.994,
+    "prompt_per_token_ms": 1.254859876,
+    "prompt_per_second": 796.90172494,
+    "predicted_n": 208,
+    "predicted_ms": 6956.943,
+    "predicted_per_token_ms": 33.446842088,
+    "predicted_per_second": 29.898188814
+  }
+}

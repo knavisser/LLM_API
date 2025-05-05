@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-d395ec6175ef48588c6e6d6cd971833e",
+  "object": "text_completion",
+  "created": 1746090166,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nTruus kreeg de diagnose COPD, wat haar benauwdheid verklaren. Ze voelde zich langzaam aan het begin van de dag, maar voelde zich iets comfortabeler na een moment van rust en haar ochtendmedicatie. Ze startte haar ochtend met een kopje thee en luisterde naar rustige muziek. Ze waardeerde het rustige tempo en de ruimte om op haar gemak te eten. In de middag koos ze ervoor om een korte wandeling in huis te maken, waarbij ze rustig kon bewegen met begeleiding. Ze voelde zich moe aan het einde van de dag, maar gaf aan dat de rustige indeling van de dag haar hielp om zich prettig te voelen. Truus heeft baat bij een kalme omgeving en activiteiten die haar ademhaling niet te veel belasten.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 507,
+    "total_tokens": 725,
+    "completion_tokens": 218,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 507,
+    "prompt_ms": 1073.337,
+    "prompt_per_token_ms": 2.117035328,
+    "prompt_per_second": 472.358673879,
+    "predicted_n": 218,
+    "predicted_ms": 9660.032,
+    "predicted_per_token_ms": 44.312074316,
+    "predicted_per_second": 22.567212559
+  }
+}

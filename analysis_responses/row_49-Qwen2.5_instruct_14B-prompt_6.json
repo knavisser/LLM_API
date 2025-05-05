@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-9048e3b163174e69a414bb6c1c6f16aa",
+  "object": "text_completion",
+  "created": 1746108946,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jamal arriveerde om 09:20 en begroette de anderen met een knikje. Hij vertelde dat zijn broer was langs geweest en dat ze een legpuzzel hebben gedaan. Hij klonk tevreden en vond het fijn dat het niet te druk was thuis. Hij werkte aan zijn houten treinbaan zonder hulp, maar vroeg om de boormachine. Hij reageerde scherp toen Erik een plank van zijn werktafel pakte, voelde zich \"aangevallen\" en ging even naar de aparte werkruimte. Nadat Erik excuses had aangeboden, keerde Jamal terug naar de groep. Tijdens de lunch hielp hij met opruimen. Hij merkte op dat hij rustig had gewerkt en wilde zijn project afmaken voordat de meivakantie begint. Afgesproken om hem komende week tijd te geven in de rustige werkruimte.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 792,
+    "total_tokens": 1024,
+    "completion_tokens": 232,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 792,
+    "prompt_ms": 849.481,
+    "prompt_per_token_ms": 1.072576883,
+    "prompt_per_second": 932.334097422,
+    "predicted_n": 232,
+    "predicted_ms": 7645.328,
+    "predicted_per_token_ms": 32.954000091,
+    "predicted_per_second": 30.34532977
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-3d8ffcc12cfc407080da81e6630c344b",
+  "object": "text_completion",
+  "created": 1746090438,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nFatima was vandaag op tijd aanwezig en had zichtbaar zin in de dag. Ze gaf aan zich goed te voelen en noemde dat ze gisteren een fijne wandeling met haar zus had gemaakt. Fatima koos ervoor om in het atelier te werken met textiel, een activiteit waarbij ze zich goed kan concentreren. Gedurende de ochtend werkte ze zelfstandig aan haar lapjesproject en vroeg alleen om hulp bij het instellen van de naaimachine. Ze liet trots haar voortgang zien aan mededeelnemers en toonde initiatief door zelf materialen op te ruimen na afloop. Tijdens de lunch raakte ze even overstuur omdat iemand haar per ongeluk onderbrak. Na een kort individueel gesprekje met de begeleiding herpakte ze zich snel en sloot ze opnieuw aan bij de groep. Afgesproken dat we volgende week bekijken of ze een vaste plek in het atelier kan krijgen, zodat ze zich stiller voelt in haar werkomgeving.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 795,
+    "completion_tokens": 280,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 515,
+    "prompt_ms": 1345.935,
+    "prompt_per_token_ms": 2.613465763,
+    "prompt_per_second": 382.633671434,
+    "predicted_n": 280,
+    "predicted_ms": 12113.414,
+    "predicted_per_token_ms": 43.262192181,
+    "predicted_per_second": 23.114871198
+  }
+}

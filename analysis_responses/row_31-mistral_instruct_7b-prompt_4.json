@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-f9f8093124e645f880c819ba309c1278",
+  "object": "text_completion",
+  "created": 1746090339,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nTom's dag begon met een stil en teruggetrokken houding. Hij at weinig tijdens het ontbijt en voelde zich moe. Tom vertelde dat hij slecht had geslapen vanwege piekergedachten over school en zijn toekomst. In de ochtendactiviteit werkte Tom in zijn eigen tempo, maar liet zich gefrustreerd voelen toen iets niet lukte. Met wat aanmoediging lukte het hem door te gaan, en toonde hij trots op het resultaat, hoewel hij dit zelf bagatelliseerde. In de middag deed Tom mee aan een ontspanningsoefening. Hij gaf aan dat het hem wat rust had gebracht, maar dat hij moeite heeft om die rust vast te houden.\n\nTom toont tekenen van overbelasting en blijft negatief over zichzelf praten. Extra aandacht nodig voor stressmanagement en positieve bevestiging.\n\nDeze klinische abstractie beschrijft de observaties die gemaakt zijn over Tom's gedrag en klachten. Tom begon de dag stil en teruggetrokken, at weinig tijdens het ontbijt en voelde zich moe. Hij vertelde dat hij slecht had geslapen vanwege piekergedachten over school en zijn toekomst. In de ochtendactiviteit werkte Tom in zijn eigen tempo, maar liet zich gefrustreerd voelen toen iets niet lukte. Met wat aanmoediging lukte het hem door te gaan, en toonde hij trots op het resultaat, hoewel hij dit zelf bagatelliseerde. In de middag deed Tom mee aan een ontspanningsoefening. Hij gaf aan dat het hem wat rust had gebracht, maar dat hij moeite heeft om die rust vast te houden.\n\nTom toont tekenen van overbelasting en blijft negatief over zichzelf praten. Extra aandacht nodig voor stressmanagement en positieve bevestiging.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 496,
+    "total_tokens": 990,
+    "completion_tokens": 494,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 496,
+    "prompt_ms": 2287.345,
+    "prompt_per_token_ms": 4.611583439,
+    "prompt_per_second": 216.845257884,
+    "predicted_n": 494,
+    "predicted_ms": 20586.108,
+    "predicted_per_token_ms": 41.672284352,
+    "predicted_per_second": 23.996764649
+  }
+}

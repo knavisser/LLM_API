@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-2b1c1d6a8afa4ad5ac034cc1df6b953e",
+  "object": "text_completion",
+  "created": 1746109060,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Achtjarige Milan vertoont aanhoudende signalen van frustratie en moeilijkheden met overgangen, zowel thuis als op school. Moeder herkent zijn agressieve en teruggetrokken gedrag vooral in de ochtenduren. Tijdens een gesprek werd moeder ge\u00efnformeerd over prikkelverwerking en de noodzaak van voorspelbaarheid. Samen maakten ze een visueel ochtendplan met pictogrammen om Milan te helpen begrijpen wat er komt. School heeft een gedragsspecialist ingezet om Milan te begeleiden. Er is afgesproken dat er over twee weken een volgende bezoek zal plaatsvinden om de effectiviteit van het ochtendplan te evalueren.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 604,
+    "total_tokens": 792,
+    "completion_tokens": 188,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 604,
+    "prompt_ms": 704.398,
+    "prompt_per_token_ms": 1.166221717,
+    "prompt_per_second": 857.469883996,
+    "predicted_n": 188,
+    "predicted_ms": 6339.581,
+    "predicted_per_token_ms": 33.721176868,
+    "predicted_per_second": 29.654955517
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-ab1d8300d736493b9084c809989533c6",
+  "object": "text_completion",
+  "created": 1746108963,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Moeder van Noor, die op school was, werd bezocht. Moeder zag er vermoeid uit maar was bereid te communiceren. De afgelopen week was onrustig met meerdere driftbuien van Noor, vooral 's ochtends voor school. Deze begonnen met kleine frustraties en leidden tot schreeuwen en gooien van spullen. Moeder voelde zich machteloos en soms schreeuwde zij mee. Psycho-educatie werd gegeven over prikkelgevoeligheid en executieve functies bij kinderen met ADHD (diagnostiek loopt). Een visueel stappenplan voor de ochtend met pictogrammen werd opgesteld, inclusief \u00e9\u00e9n keuze per ochtend voor Noor. Moeder voelde zich eenzaam in de opvoeding, met een klein netwerk en zonder vaders steun. Ze twijfelde aan haar handelen en voelde zich beoordeeld door anderen. Erkenning werd gegeven voor haar inspanningen. Afgesproken om volgende week kort met Noor te spreken en contact op te nemen met een oudergroep voor alleenstaande ouders met jonge kinderen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 820,
+    "total_tokens": 1099,
+    "completion_tokens": 279,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 820,
+    "prompt_ms": 1054.806,
+    "prompt_per_token_ms": 1.286349355,
+    "prompt_per_second": 777.393789899,
+    "predicted_n": 279,
+    "predicted_ms": 9493.258,
+    "predicted_per_token_ms": 34.026015189,
+    "predicted_per_second": 29.389277423
+  }
+}

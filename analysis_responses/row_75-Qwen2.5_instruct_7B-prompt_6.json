@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-d6cd180e1c6446459435c5e5985d2e82",
+  "object": "text_completion",
+  "created": 1746107839,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Moeder vertelde dat de schoolweek redelijk verlopen is, maar dat Noor een heftige uitbarsting had thuis afgelopen zondag. Ze wilde niet mee naar de supermarkt en begon te gillen toen haar tablet werd afgepakt. Moeder heeft haar apart gezet in haar kamer, waar Noor ongeveer een uur boos bleef roepen. Moeder gaf aan dat deze momenten haar veel energie kosten en dat ze dan snel geneigd is om dingen toe te geven om escalatie te voorkomen. We bespraken dat dit op de korte termijn rust lijkt te geven, maar op lange termijn de voorspelbaarheid en grenzen ondermijnt. Noor zei dat ze \"niet altijd boos wil zijn, maar soms voelt het gewoon alsof alles stom is\" en dat het moeilijk is als dingen opeens veranderen, zoals plannen die worden aangepast. We deden een korte oefening met een weerkaart (zon \u2013 wolk \u2013 regen \u2013 bliksem) waarin Noor 'regen met een beetje zon' koos. Noor vertelde dat ze het leuk vond om vorige week samen met haar moeder koekjes te bakken, wat een rustig moment was. Moeder wilde inschrijven voor een oudertraining via het CJG en we bespraken samen dat ik een schoolbezoek ga regelen om met de intern begeleider te spreken over Noors gedrag in de klas. Volgende afspraak is over twee weken, weer aan huis.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 938,
+    "total_tokens": 1315,
+    "completion_tokens": 377,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 938,
+    "prompt_ms": 746.309,
+    "prompt_per_token_ms": 0.795638943,
+    "prompt_per_second": 1256.851502063,
+    "predicted_n": 377,
+    "predicted_ms": 6716.784,
+    "predicted_per_token_ms": 17.816403058,
+    "predicted_per_second": 56.128052153
+  }
+}

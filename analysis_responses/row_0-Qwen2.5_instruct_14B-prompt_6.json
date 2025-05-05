@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-e8e7033c260244e49df410680bd5dd8e",
+  "object": "text_completion",
+  "created": 1746108520,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "David arriveerde stil en ging direct aan zijn wiskundeopdracht werken. Hij vroeg om hulp bij enkele sommen en nam daarna de opdracht zelfstandig verder aan. Tijdens de pauze at hij zijn eigen lunch, waarbij hij zijn notenallergie nauwlettend in de gaten hield. Hij zat alleen, maar reageerde vriendelijk toen een klasgenoot bij hem kwam zitten. Tijdens een groepsactiviteit over geschiedenis had hij in eerste instantie moeite om mee te doen, maar deelde later interessante inzichten die door zijn groepsleden werden gewaardeerd. Hij voelde zich zichtbaar goed na hun waardering. Aan het einde van de dag merkte hij aan dat hij zich een beetje moe voelde, maar verder in orde was. Hij verliet het lokaal met een beleefde groet.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 611,
+    "total_tokens": 833,
+    "completion_tokens": 222,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 611,
+    "prompt_ms": 837.511,
+    "prompt_per_token_ms": 1.370722104,
+    "prompt_per_second": 729.542477595,
+    "predicted_n": 222,
+    "predicted_ms": 7537.601,
+    "predicted_per_token_ms": 33.953156987,
+    "predicted_per_second": 29.452342249
+  }
+}

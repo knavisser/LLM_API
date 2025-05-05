@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a54f574965fc475db79b3d886ac3adfc",
+  "object": "text_completion",
+  "created": 1746090868,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nMother of Milan, an eight-year-old child, reported ongoing concerns about her son's behavior at school. The child becomes easily frustrated, runs away from class, and has difficulty with transitions, such as from break to lesson. Mother recognizes this behavior, especially in the evenings. She describes that he becomes angry or withdraws when the least provoked. She feels powerless and unsure of how to react. During the conversation, the author explained how sensory processing works in children like Milan and the importance of predictability. They then created a visual morning routine plan with pictograms, which will help Milan understand what is expected of him and provide a shared point of reference for both home and school. The mother also reported that school will be hiring a behavior specialist to better support Milan. The author agreed to follow up in two weeks to assess the effectiveness of the morning routine plan and any changes in behavior at both home and school.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 592,
+    "total_tokens": 795,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 592,
+    "prompt_ms": 1006.36,
+    "prompt_per_token_ms": 1.699931638,
+    "prompt_per_second": 588.258949858,
+    "predicted_n": 203,
+    "predicted_ms": 9057.236,
+    "predicted_per_token_ms": 44.616924953,
+    "predicted_per_second": 22.413019298
+  }
+}

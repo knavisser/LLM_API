@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-36f3260065344fc8adca5b360576f646",
+  "object": "text_completion",
+  "created": 1746090232,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nSam had vandaag een energierijke en vrolijke dag. Hij was enthousiast bij zijn vrienden bij binnenkomst en werkte samen met een klasgenoot aan een \"robot\". Sam legde geduldig uit wat zijn idee\u00ebn waren. Tijdens de ochtendpauze koos Sam bewust voor een lactosevrije yoghurt, waar hij duidelijk van genoot. Hij speelde daarna buiten een potje voetbal en was zeer actief. Sam zorgde ervoor dat iedereen betrokken bleef, wat fijn was om te zien. In de middag deed Sam mee aan een creatieve opdracht waarbij de kinderen een poster mochten maken. Hij was erg geconcentreerd en bedacht een origineel ontwerp. Sam vroeg af en toe om feedback en werkte rustig door. Aan het einde van de dag gaf Sam aan dat hij zich goed voelde. Hij keek tevreden terug op wat hij had gedaan en vertelde enthousiast over zijn poster. Algemeen: Sam was vrolijk en betrokken. Hij lette goed op zijn voedingskeuzes en had een actieve en creatieve dag zonder problemen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 532,
+    "total_tokens": 839,
+    "completion_tokens": 307,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 532,
+    "prompt_ms": 1456.521,
+    "prompt_per_token_ms": 2.737820552,
+    "prompt_per_second": 365.254033665,
+    "predicted_n": 307,
+    "predicted_ms": 13108.685,
+    "predicted_per_token_ms": 42.699299029,
+    "predicted_per_second": 23.419588207
+  }
+}

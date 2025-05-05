@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-886af78802eb484180a188578f9be680",
+  "object": "text_completion",
+  "created": 1746107442,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Diana begon de dag onrustig en had moeite om haar gedachten te ordenen. Ze leek afgeleid en voelde zich niet helemaal op haar gemak. Na een rustig ontbijt en een kort gesprek waarin de dag werd besproken, leek ze wat kalmer. In de ochtend werkte Diana mee aan een eenvoudige activiteit, hoewel ze af en toe begeleiding nodig had om zich te concentreren. Ze vond het prettig om een taak te hebben. Tijdens de lunch vertelde ze dat ze zich stabieler voelde, maar nog steeds enige spanning ervaarde. Ze had moeite met het onderscheiden van wat echt is en wat niet, maar waardeerde de duidelijke uitleg en rustige omgeving. In de middag kozen we voor een creatieve activiteit waarmee ze zich meer ontspande. Ze vond het fijn om even afleiding te hebben van haar gedachten. Aan het eind van de dag was Diana zichtbaar vermoeid, maar ze was tevreden over hoe de dag verlopen was. Diana heeft baat bij een gestructureerde dagindeling, een rustige omgeving en begeleiding om haar spanning te verminderen en focus te behouden.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 622,
+    "total_tokens": 931,
+    "completion_tokens": 309,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 622,
+    "prompt_ms": 590.276,
+    "prompt_per_token_ms": 0.948996866,
+    "prompt_per_second": 1053.744259829,
+    "predicted_n": 309,
+    "predicted_ms": 5312.484,
+    "predicted_per_token_ms": 17.192506327,
+    "predicted_per_second": 58.164876078
+  }
+}

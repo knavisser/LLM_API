@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-c5092c2a3eb1402389a241ee4d0536fb",
+  "object": "text_completion",
+  "created": 1746107784,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Rico was vandaag op tijd, kwart voor negen, en kwam met goede energie. Hij vertelde dat hij zich wel goed in zijn vel voelde, maar moe was van het weekend door logeren bij zijn broer, wat druk was in zijn hoofd. We raadpleegden een rustige ochtend met schilderen in het atelier, waar hij zelf een leeg doek kiest en een schilderij begon met veel blauw en geel, wat hij 'een beetje zee-achtig' noemde. Hij werkte zelfstandig en met focus, zonder veel te praten. Tegen elf uur werd hij ongeruster, liep hij heen en weer en vroeg naar zijn telefoon, waarmee we vaststelden dat het losse alarm was. Tijdens de lunch vertelde hij trots over zijn schilderij, wat hem goed deed. Aan het eind van de dag vroeg hij of hij volgende week op woensdag mag komen in plaats van donderdag, omdat zijn broer jarig is. We kortsluiten dit met de co\u00f6rdinator. Afgesproken dat hij donderdag komt en zijn schilderij afmikt. Al met al een stabiele en positieve dag.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 809,
+    "total_tokens": 1104,
+    "completion_tokens": 295,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 809,
+    "prompt_ms": 558.238,
+    "prompt_per_token_ms": 0.690034794,
+    "prompt_per_second": 1449.202283827,
+    "predicted_n": 295,
+    "predicted_ms": 5024.143,
+    "predicted_per_token_ms": 17.030994367,
+    "predicted_per_second": 58.716477644
+  }
+}

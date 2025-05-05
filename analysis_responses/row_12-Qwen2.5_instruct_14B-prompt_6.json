@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-d511c631c4384a8a8003a5db1a60f007",
+  "object": "text_completion",
+  "created": 1746108626,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Gerda begon de dag verward en vroeg telkens naar haar locatie en toekomstige plannen. Na een rustige ochtendroutine, inclusief het kiezen van kleding en het wassen van haar gezicht met hulp, werd ze rustiger. Tijdens het ontbijt dronk ze thee en had een licht gesprek, hoewel ze soms werd herinnerd aan het eten. Gerda werkte mee aan het vouwen van wasgoed, vond dit leuk en volgde goed aanwijzingen. Tijdens de lunch voelde ze zich prettig, maar vroeg nogmaals naar de namen van de mensen om haar heen. Ze opende zich toen er over vroeger werd gesproken en deelde enkele herinneringen. In de middag luisterde ze naar rustige muziek, waardoor ze ontspande en af en toe neuriede en glimlachte. Aan het eind van de dag voelde ze zich vermoeid en lichtelijk in de war over de dag, maar bleef kalm met extra geruststelling. Gerda baat bij duidelijke structuur, herhaling en rustgevende activiteiten.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 633,
+    "total_tokens": 924,
+    "completion_tokens": 291,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 633,
+    "prompt_ms": 1072.61,
+    "prompt_per_token_ms": 1.694486755,
+    "prompt_per_second": 590.149198255,
+    "predicted_n": 291,
+    "predicted_ms": 9653.491,
+    "predicted_per_token_ms": 33.173508742,
+    "predicted_per_second": 30.14453514
+  }
+}

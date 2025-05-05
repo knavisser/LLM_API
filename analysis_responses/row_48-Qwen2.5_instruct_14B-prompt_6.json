@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-bb9358831f104eddb92dccd1fc34b83f",
+  "object": "text_completion",
+  "created": 1746108936,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kimberly had een gepland individueel begeleidingsgesprek in haar studio. Ze zag er gespannen uit maar was open. Ze vertelde dat ze zaterdag bij haar moeder was geweest, wat als dubbel ervaren werd: fijn, maar ook moeilijk vanwege constante aanpassing. Ze voelde zich altijd als presteren om goed genoeg te zijn. Dit leidde tot een stilte. Ze erkende dat haar overtuigingen over eigenwaarde invloeden op haar sociale relaties hebben. Ze twijfelt vaak aan zichzelf zonder bevestiging en reageert dan teruggetrokken of impulsief. Ze voelde zich afgewezen door medebewoner L. die volgens haar opeens kortaf deed. Ze concludeerde dat ze snel uit angst conclusies trekt. Ze hield haar dagschema de afgelopen week grotendeels aan: opregelmatige tijden, drie maaltijden per dag en deelname aan gezamenlijke lunchmomenten. Ze wil deze lijn houden en een lijst maken van situaties met negatieve gedachten over zichzelf voor volgende week.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 821,
+    "total_tokens": 1101,
+    "completion_tokens": 280,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 821,
+    "prompt_ms": 1006.296,
+    "prompt_per_token_ms": 1.225695889,
+    "prompt_per_second": 815.863061231,
+    "predicted_n": 280,
+    "predicted_ms": 9056.667,
+    "predicted_per_token_ms": 32.345239009,
+    "predicted_per_second": 30.916451096
+  }
+}

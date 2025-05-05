@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-deedd2bc028c4394ac0a2fc6f7e2bb7d",
+  "object": "text_completion",
+  "created": 1746107743,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Fatima was vandaag op tijd en klaar voor het atelier. Ze vertelde dat ze gisteren wandelde met haar zus, wat haar fijn vond. Ze koos ervoor om te werken met textiel in het atelier, een hobby die ze al enkele weken volgt. Ze werkte zelfstandig, behalve voor een korte vraag over de naaimachine. Haar werk werd met trots getoond aan de groep. Tijdens de lunch werd ze onbedoeld onderbroken, wat haar wat gespannen maakte. Na een rustig gesprekje met haar werd ze weer gerustgesteld en wilde ze terugkeren naar de lunchgroep. Het wordt besproken dat ze volgende week een vaste werkplek in het atelier kan krijgen om onzekerheid te verminderen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 612,
+    "total_tokens": 811,
+    "completion_tokens": 199,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 612,
+    "prompt_ms": 393.724,
+    "prompt_per_token_ms": 0.643339461,
+    "prompt_per_second": 1554.38933979,
+    "predicted_n": 199,
+    "predicted_ms": 3543.514,
+    "predicted_per_token_ms": 17.806601764,
+    "predicted_per_second": 56.158946735
+  }
+}

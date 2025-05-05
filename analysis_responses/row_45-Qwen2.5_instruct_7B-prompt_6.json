@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-8d8b823f95b94a4eb3e7a54c8abd289f",
+  "object": "text_completion",
+  "created": 1746107644,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jesse, een jonge kind, heeft regelmatige conflicten met klasgenoten op school. Tijdens het huisbezoek spraken we met beide ouders, die aangeven dat Jesse thuis vaak rustig, introvert en aanhankelijk is. Moeder merkt op dat Jesse de laatste weken sneller boos wordt, vooral bij het afbreken van activiteiten zoals tabletgebruik. Ouders zoeken naar mogelijke oorzaken en voelen zich soms machteloos, onzeker of Jesse bewust grenzen opzoekt of overweldigd raakt. Psycho-educatie werd gegeven over emotieregulatie bij jonge kinderen, met nadruk op voorspelbaarheid en duidelijke grenzen. Een beloningssysteem werd opgesteld waarbij Jesse een sticker verdient voor elke situatie waarin hij goed stopt met een activiteit zonder boos worden. Bij vijf stickers volgt een zelfgekozen beloning. Ook besproken dat vader wekelijks een kort 1-op-1 moment met Jesse gaat inplannen, bijvoorbeeld samen iets bakken of een spelletje doen, om hun band te versterken en Jesse positief te benaderen los van correctie. De volgende afspraak is over twee weken, opnieuw aan huis.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 656,
+    "total_tokens": 966,
+    "completion_tokens": 310,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 656,
+    "prompt_ms": 605.515,
+    "prompt_per_token_ms": 0.9230408,
+    "prompt_per_second": 1083.375729462,
+    "predicted_n": 310,
+    "predicted_ms": 5449.633,
+    "predicted_per_token_ms": 17.579460913,
+    "predicted_per_second": 56.884565741
+  }
+}

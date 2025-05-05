@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-33db8f7f33d34a9da5a0785c948fd592",
+  "object": "text_completion",
+  "created": 1746108766,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kira arriveerde opgewekt en begon zelfstandig aan haar opdracht voor maatschappijleer. Ze vroeg gericht om hulp bij specifieke onderdelen. Tijdens de pauze genoot ze van haar tijd met vrienden, maakte grapjes en leek ontspannen. Ze werd geholpen om comfortabel te blijven zitten en merkte aan het einde van de ochtend op dat ze zich wat vermoeid voelde, maar wilde bij haar vrienden blijven. In de middag werkte ze aan een presentatie voor Engels, toonde veel inzet en creativiteit en bleef positief. Tegen het einde van de middag merkte ze op dat ze wat meer spierpijn had. Na een korte rustpauze rondde ze haar taken succesvol af. Kira verliet het lokaal tevreden met een glimlach en een bedankje.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 615,
+    "total_tokens": 836,
+    "completion_tokens": 221,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 615,
+    "prompt_ms": 817.755,
+    "prompt_per_token_ms": 1.329682242,
+    "prompt_per_second": 752.059378329,
+    "predicted_n": 221,
+    "predicted_ms": 7359.791,
+    "predicted_per_token_ms": 33.302222658,
+    "predicted_per_second": 30.028025765
+  }
+}

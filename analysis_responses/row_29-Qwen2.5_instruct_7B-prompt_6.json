@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-4dcff3476462487b826a9a30854e968a",
+  "object": "text_completion",
+  "created": 1746107561,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kevin begon de dag onrustig en toonde weinig interesse in de geplande activiteiten. Tijdens het ontbijt reageerde hij ge\u00efrriteerd op een opmerking van een medebewoner, wat leidde tot een kort conflict. Deze situatie werd rustig opgelost door hem even apart te nemen en de-escalerend te praten. In de ochtend werd geprobeerd Kevin te betrekken bij sportieve activiteiten, maar hij staakte dit nadat hij zich oneerlijk behandeld voelde, wat hij verbaal uitsprak op een boze toon. Hij bleef echter fysiek rustig. Na een kort gesprek gaf Kevin aan dat hij zich \"te veel prikkels\" voelde en hij werd begeleid naar een rustige plek. In de middag werkte Kevin zelfstandig aan een taak en was zichtbaar meer ontspannen. Geen verdere incidenten opgemerkt. Kevin blijft snel escaleren bij spanningen, maar met een rustige benadering lijkt hij makkelijker te kalmeren.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 540,
+    "total_tokens": 804,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 540,
+    "prompt_ms": 537.759,
+    "prompt_per_token_ms": 0.995849592,
+    "prompt_per_second": 1004.167705967,
+    "predicted_n": 264,
+    "predicted_ms": 4839.829,
+    "predicted_per_token_ms": 18.332685666,
+    "predicted_per_second": 54.547381559
+  }
+}

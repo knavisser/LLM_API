@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-fb4d91be4df34cd1b5b3caf22a7be9a6",
+  "object": "text_completion",
+  "created": 1746107480,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Peter begon de dag moeizaam en gaf aan zich zwaar en somber te voelen. Na een rustig ontbijt en een kort gesprek voelde hij zich iets meer op zijn gemak. In de ochtend werkte hij mee aan een eenvoudige taak, zoals het vouwen van wasgoed. Hij bleef stil, maar gaf later aan dat het fijn was om iets om handen te hebben. Tijdens de lunch benoemde Peter dat zijn stemming onveranderd bleef, maar hij waardeerde de rustige sfeer en de ruimte om op zijn eigen tempo te eten. In de middag koos hij voor een korte wandeling, waarbij hij aangaf dat het buiten hem goed deed, ondanks dat hij zich moe voelde. Hij liep rustig en maakte af en toe een korte opmerking over zijn omgeving. Aan het eind van de dag was hij vermoeid maar tevreden dat hij iets had ondernomen. Tot slot viel op dat Peter baat heeft bij een kalme, gestructureerde aanpak en activiteiten die hem afleiden van zijn sombere gedachten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 560,
+    "total_tokens": 838,
+    "completion_tokens": 278,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 560,
+    "prompt_ms": 522.24,
+    "prompt_per_token_ms": 0.932571377,
+    "prompt_per_second": 1072.303980783,
+    "predicted_n": 278,
+    "predicted_ms": 4700.16,
+    "predicted_per_token_ms": 16.907049426,
+    "predicted_per_second": 59.146925924
+  }
+}

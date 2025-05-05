@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-324218f0a9e64fba9c975f308bfbd05d",
+  "object": "text_completion",
+  "created": 1746107757,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jordi, 33 jaar, gaf aan dat hij de afgelopen week beter voelde en dat hij zich rustiger voelde dan vorige keer. Hij had geprobeerd meer structuur in zijn dag te brengen door elke ochtend om half negen op te staan, een korte wandeling te maken en vervolgens iets in huis te doen, zoals stofzuigen of de afwas. Hij was trots op dit ritme en het effect dat het had op zijn geestelijke welzijn. Toch bleek er spanning toen het gesprek over zijn post ging. Jordi had twee enveloppen met schulden nog ongeopend liggen op de salontafel, omdat hij bang was voor wat erin zou staan. Dit gaf hem stress. Na een gesprek met mij, kon hij samen met mij de brieven openen. We hebben meteen een verzoek gestuurd aan een instantie voor een betalingsregeling. Jordi vertelde dat zijn ouders onverwachts op zondag op de stoep stonden, waardoor hij zich overrompeld voelde en de hele dag zich opgesloten in zijn kamer heeft teruggetrokken. We hebben besproken hoe hij in zulke situaties zijn grenzen kan aangeven, zoals door aan te geven dat hij behoefte heeft aan rust of liever een andere keer afspreekt. We hebben afgesproken dat hij vanaf vandaag een simpele dagplanning op papier bijhoudt, met vaste onderdelen zoals opstaan, wandelen, en \u00e9\u00e9n taakje. Verder hebben we besproken dat we volgende week samen gaan kijken of hij via het wijkteam een kennismakingsgesprek kan krijgen bij schuldhulpverlening.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 812,
+    "total_tokens": 1232,
+    "completion_tokens": 420,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 812,
+    "prompt_ms": 820.858,
+    "prompt_per_token_ms": 1.010909251,
+    "prompt_per_second": 989.208476631,
+    "predicted_n": 420,
+    "predicted_ms": 7387.725,
+    "predicted_per_token_ms": 17.589820964,
+    "predicted_per_second": 56.851061875
+  }
+}

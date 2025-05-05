@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a9cc03bb9d3d447e819f27e975d196eb",
+  "object": "text_completion",
+  "created": 1746107738,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kevin had moeite slapend te blijven vanwege de afspraak bij de tandarts morgen. Hij piekterde erover, vooral over de verdoving en de verwachte pijn. Zijn ademhaling was hoog en hij zat in zichzelf gekeerd. Een ademhalingsoefening die ze eerder hadden geoefend, hielp hem om rustiger te worden. Daarna at hij ook weer. Tijdens het middagmoment besprak hij de invulling van de lunchmomenten, waarbij hij actief meedeed en een suggestie stelde om het vaste tijdstip iets te verschuiven. Dit werd positief ontvangen door de groep. Hij merkte dat hij zich gezien voelde, wat hem goed deed. Met hem besproken dat ik morgen mee kan gaan naar de tandarts, waardoor hij opgelucht reageerde en zich minder alleen voelde. Deze afspraak is nu afgesproken.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 574,
+    "total_tokens": 802,
+    "completion_tokens": 228,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 574,
+    "prompt_ms": 487.94,
+    "prompt_per_token_ms": 0.850069523,
+    "prompt_per_second": 1176.374370697,
+    "predicted_n": 228,
+    "predicted_ms": 4391.459,
+    "predicted_per_token_ms": 19.260785768,
+    "predicted_per_second": 51.918961773
+  }
+}

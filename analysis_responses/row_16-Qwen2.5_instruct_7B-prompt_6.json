@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-eb43eb2629ff4791bbbdcee45ccc7ce5",
+  "object": "text_completion",
+  "created": 1746107490,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Dewi startte haar dag langzaam vanwege vermoeidheid veroorzaakt door nierfalen. Na haar ochtendmedicatie en een glas water voelde ze zich iets beter. Ze besloot in haar stoel te blijven zitten en naar muziek te luisteren, wat haar hielp om haar gedachten te ordenen. In de loop van de ochtend voelde ze zich fit genoeg om een lichte taak uit te voeren, zoals het vouwen van wasgoed, hoewel ze regelmatig pauzeren moest. Tijdens de lunch koos ze voor een lichte maaltijd en gaf aan dat haar energie beperkt was, maar dat ze tevreden was met de rustige opbouw van haar ochtend. In de middag besloot ze een korte wandeling te maken, begeleid om zich zeker te voelen. Ze genoot van de frisse lucht, maar gaf aan dat haar energie snel afnam. Na de wandeling rustte ze op de bank, waar ze zichtbaar ontspannen was. Aan het einde van de dag gaf ze aan dat ze zich moe voelde, maar blij was dat ze toch iets had kunnen ondernemen. Ze waardeert een dagritme met flexibiliteit en voldoende rustmomenten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 651,
+    "total_tokens": 970,
+    "completion_tokens": 319,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 651,
+    "prompt_ms": 637.147,
+    "prompt_per_token_ms": 0.978720683,
+    "prompt_per_second": 1021.741971762,
+    "predicted_n": 319,
+    "predicted_ms": 5734.324,
+    "predicted_per_token_ms": 17.975938806,
+    "predicted_per_second": 55.629917903
+  }
+}

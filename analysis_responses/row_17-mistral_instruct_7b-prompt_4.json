@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-1b825f736ecf41c68e9c3a387b5e719c",
+  "object": "text_completion",
+  "created": 1746090114,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nHenk, 55 jaar oud, heeft een CVA opgeleden en moet daardoor fijne motoriek en co\u00f6rdinatie hebben. Hij heeft daardoor een moeilijkere ochtendroutine, waarbij hij ondersteuning nodigt. Hij koos ervoor om een fotoalbum te bekijken, wat hem veel plezier gaf en hem zichtbaar hulp bood om zijn stemming te verbeteren. In de middag deed hij een lichte activiteit, waarbij hij met aanmoediging gefocust bleef. Hoewel hij af en toe gefrustreerd raakte door zijn beperkingen, gaf hij aan het fijn te vinden om bezig te zijn. Tot slot valt op dat Henk baat heeft bij een gestructureerde dag met lichte begeleiding, waarbij hij de ruimte krijgt om activiteiten in zijn eigen tempo te doen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 608,
+    "total_tokens": 833,
+    "completion_tokens": 225,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 608,
+    "prompt_ms": 1082.869,
+    "prompt_per_token_ms": 1.781034979,
+    "prompt_per_second": 561.471285841,
+    "predicted_n": 225,
+    "predicted_ms": 9745.823,
+    "predicted_per_token_ms": 43.314770699,
+    "predicted_per_second": 23.08681274
+  }
+}

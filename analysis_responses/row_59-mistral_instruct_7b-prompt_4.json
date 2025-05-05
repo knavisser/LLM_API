@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-7f8d9fb34f66459f9a10468de423b8aa",
+  "object": "text_completion",
+  "created": 1746090821,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKevin is een man die zich op woensdag rond elf uur vanochtend ontmoette. Hij had niet geslapen vannacht vanwege een afspraak bij de tandarts morgen. Hij klagt over de verdoving en het pijn dat hij zal ervaren. Zijn ademhaling was hoog en hij zat wat in zichzelf gekeerd op de bank. Om zijn klachten te lichten, werd een ademhalingsoefening uitgevoerd. Daarna heeft hij weer wat gegeten. Overleg over de invulling van de lunchmomenten vond plaats. Kevin deed actief mee en stelde voor om het vaste tijdstip iets te verschuiven. Deze voorstel werd positief opgepakt door de groep. Kevin gaf aan dat hij zich gezien voelde en dat deed hem zichtbaar goed. Tot slot werd besproken dat de tandarts morgen bezoeken zal gaan. Kevin reageerde opgelucht en zei dat hij zich dan minder alleen voelt.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 557,
+    "total_tokens": 811,
+    "completion_tokens": 254,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 557,
+    "prompt_ms": 1210.619,
+    "prompt_per_token_ms": 2.173463532,
+    "prompt_per_second": 460.095136289,
+    "predicted_n": 254,
+    "predicted_ms": 10895.573,
+    "predicted_per_token_ms": 42.895955457,
+    "predicted_per_second": 23.312221148
+  }
+}

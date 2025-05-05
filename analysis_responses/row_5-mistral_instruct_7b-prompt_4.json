@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-1b36875dab9c45c780fc91c9911474c9",
+  "object": "text_completion",
+  "created": 1746089910,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nLucas had een actieve en genietende dag. Bij aankomst kwam hij wat verlegen binnen, maar na een knuffel van papa ging hij direct op zoek naar zijn favoriete auto's. Hij speelde een tijdje alleen, maar sloot zich daarna aan bij Sam om een \"racetrack\" te bouwen met de blokken. Ze werkten samen en lachten veel. Tijdens de kringactiviteit vond Lucas het moeilijk om stil te zitten. Hij wilde liever rondlopen, maar toen we begonnen met het zingen van liedjes, deed hij enthousiast mee en zwaaide hij met zijn armen. Buitenspelen was duidelijk het hoogtepunt van zijn dag. Hij rende achter de bal aan, speelde tikkertje en klom in de glijbaan. Bij de lunch at Lucas zijn boterham op, maar het duurde even voordat hij aan zijn fruit begon. Met een beetje aansporing at hij alsnog zijn appel. In de middag koos Lucas voor de knutseltafel, waar hij een pietje kleurde. Hij was trots op zijn tekening en liet hem aan iedereen zien. Aan het einde van de dag was Lucas wat moe, maar bleef hij opgewekt en enthousiast. Hij verliet het lokaal met een vrolijke \u201cDoei, tot morgen!\u201d\n\nLucas had een actieve en genietende dag. Hij was betrokken en had veel momenten van plezier en samenspel. Hij was actief en betrokken, met veel momenten van plezier en samenspel.\n\nLucas had een actieve en genietende dag. Hij was betrokken en had veel momenten van plezier en samenspel.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 613,
+    "total_tokens": 1062,
+    "completion_tokens": 449,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 613,
+    "prompt_ms": 2107.044,
+    "prompt_per_token_ms": 3.437266031,
+    "prompt_per_second": 290.92889262,
+    "predicted_n": 449,
+    "predicted_ms": 18963.397,
+    "predicted_per_token_ms": 42.234736508,
+    "predicted_per_second": 23.67719282
+  }
+}

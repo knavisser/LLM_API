@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a50431f4fe324f52805993d51625f7a4",
+  "object": "text_completion",
+  "created": 1746109160,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jamal arriveerde op maandag 28 april om 09:15 uur met koptelefoon. Hij ging direct naar de houtafdeling en begon aan zijn houten duwwagentje-project. Hij was rustig, maakte oogcontact en werkte zelfstandig, behalve bij het vervangen van een accuboormachine. Hij genoot van het werk en maakte grapjes met Kevin. Om 12:00 uur werd er een formulier overhandigd door zijn ambulant ondersteuner, waardoor Jamal geschrokken retraiteerde naar de chillruimte. Na ongeveer tien minuten keerde hij terug en vroeg om waarschuwing voordat er iemand komt. Na de lunch vertelde hij dat hij een puzzel van duizend stukjes had gemaakt met zijn broer, wat hij fijn vond. Hij liet een foto zien. Aan het einde van de dag bleef hij bij de werktafel hangen en wilde het project afmaken voordat de vakantie begint. Hij stemde in met werken in de kleine werkruimte op donderdag voor meer rust.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 904,
+    "total_tokens": 1179,
+    "completion_tokens": 275,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 904,
+    "prompt_ms": 988.784,
+    "prompt_per_token_ms": 1.093787271,
+    "prompt_per_second": 914.254559529,
+    "predicted_n": 275,
+    "predicted_ms": 8899.053,
+    "predicted_per_token_ms": 32.360193599,
+    "predicted_per_second": 30.902163701
+  }
+}

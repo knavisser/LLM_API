@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-36e7399386d44c09b7ebde891ce1b099",
+  "object": "text_completion",
+  "created": 1746090918,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nMeneer Van Rooijen werd op zaterdag 20 april om 10:15 's ochtends bezoekt voor een reguliere medicatiecontrole en ADL-ondersteuning. De pati\u00ebnt maakte een heldere indruk en had twijfel over het nemen van zijn ochtendmedicatie, omdat hij het doosje met de tabletten onaangeroerd had gelaten. We controleerden dit samen en vaststelden dat hij het nog niet had ingenomen. De pati\u00ebnt gaf aan dat hij in de afgelopen tijd wat in de war raakte met de tijden, wat hem ook frustreren gaf. Hij uitte dat het hem verdriet doet dat zijn dochter deze week niet langs kon komen. We hebben samen een rustige wandeling gemaakt in de tuin. Meneer vertelde onderweg over vroeger, wat hem gaf zichtbaar plezier. Aan het eind van het bezoek heb ik in zijn agenda genoteerd wanneer hij welke medicijnen moet nemen en op welke momenten ik weer langskom. Voor de volgende week zal ik een voorbeeld-weekplanning mee en bespreken of hij baat heeft bij een doorverwijzing naar de POH-GGZ.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 720,
+    "total_tokens": 1042,
+    "completion_tokens": 322,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 720,
+    "prompt_ms": 1540.122,
+    "prompt_per_token_ms": 2.139058312,
+    "prompt_per_second": 467.495436891,
+    "predicted_n": 322,
+    "predicted_ms": 13861.098,
+    "predicted_per_token_ms": 43.046887765,
+    "predicted_per_second": 23.230483129
+  }
+}

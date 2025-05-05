@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-e359dcad71f64354bf88fc725ad839ee",
+  "object": "text_completion",
+  "created": 1746090476,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nHuisbezoek bij moeder en Milan gehouden. Aanleiding was aanhoudende zorgen vanuit school over Milan's gedrag in de klas. De moeder herkent dit gedrag thuis, met name in de ochtendspits. Ze ervaart stress rond op tijd komen en noemt dat Milan op dat soort momenten \u2018ontploft\u2019 bij kleine tegenvallers. De moeder geeft aan het lastig te vinden hoe hiermee om te gaan. Psycho-educatie gegeven over prikkelverwerking en het belang van voorspelbaarheid. Samen met moeder een visueel ochtendplan opgesteld met pictogrammen, bedoeld om structuur te bieden en escalatie te voorkomen. School intern ondersteuning gaat inzetten via de gedragsspecialist. Afgesproken dat de ondersteuning over twee weken opnieuw langskom om te evalueren hoe het ochtendplan werkt en hoe het op school verloopt.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 512,
+    "total_tokens": 770,
+    "completion_tokens": 258,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 512,
+    "prompt_ms": 1230.29,
+    "prompt_per_token_ms": 2.402909845,
+    "prompt_per_second": 416.162096981,
+    "predicted_n": 258,
+    "predicted_ms": 11072.609,
+    "predicted_per_token_ms": 42.917087466,
+    "predicted_per_second": 23.300742409
+  }
+}

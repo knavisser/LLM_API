@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-e6a7e82cea964902be03811dfce7ceb5",
+  "object": "text_completion",
+  "created": 1746089863,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nDeze rapportage beschrijft een dag met Mila, waarbij de observator Mila's moeite bij het begrijpen van complexe instructies opmerkte. Ook werd Mila's creativiteit opgemerkt, waarbij ze tekeningen gebruikte om haar gedachten en idee\u00ebn te uiten. In een rekenspel bleek Mila vooral baat te hebben bij visuele ondersteuning en herhaling, wat haar zelfvertrouwen vergrootte. Na de dag sprak de observator met Mila's leerkracht en bespraken ze hoe Mila beter kunnen worden ondersteund door meer visuele en praktische opdrachten in te zetten.\n\nAan het einde van de dag sprak de observator met Mila's leerkracht, en we bespraken hoe we Mila beter kunnen worden ondersteund door meer visuele en praktische opdrachten in te zetten. Deze actie is gebaseerd op de observatie dat Mila vooral baat had bij visuele ondersteuning en herhaling, wat haar zelfvertrouwen vergrootte.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 431,
+    "total_tokens": 720,
+    "completion_tokens": 289,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 431,
+    "prompt_ms": 1377.099,
+    "prompt_per_token_ms": 3.195124712,
+    "prompt_per_second": 312.976828761,
+    "predicted_n": 289,
+    "predicted_ms": 12393.889,
+    "predicted_per_token_ms": 42.885428234,
+    "predicted_per_second": 23.317943674
+  }
+}

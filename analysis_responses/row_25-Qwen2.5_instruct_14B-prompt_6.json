@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-52d18c392aa44f778398b1a7f6fdec6d",
+  "object": "text_completion",
+  "created": 1746108753,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Sam arriveerde vrolijk en begroette zijn vrienden enthousiast. Hij werkte geduldig met een klasgenoot aan een \"robot\" en legde zijn idee\u00ebn uit. Tijdens de ochtendpauze koos hij bewust voor een lactosevrije yoghurt, waar hij genoot van. Later speelde hij actief voetbal en zorgde ervoor dat iedereen betrokken bleef. Tijdens een creatieve opdracht maakte hij een originele poster, waarvoor hij af en toe feedback vroeg. Hij werkte rustig en geconcentreerd door. Aan het einde van de dag voelde hij zich goed en was hij enthousiast over zijn werk. Sam maakte voedingskeuzes die aansluiten bij zijn behoeften en had een actieve en creatieve dag.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 561,
+    "total_tokens": 766,
+    "completion_tokens": 205,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 561,
+    "prompt_ms": 791.896,
+    "prompt_per_token_ms": 1.411579722,
+    "prompt_per_second": 708.426158608,
+    "predicted_n": 205,
+    "predicted_ms": 7127.066,
+    "predicted_per_token_ms": 34.766175689,
+    "predicted_per_second": 28.763589328
+  }
+}

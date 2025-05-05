@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-9bb876cfe7774392be31878b5f90aa1a",
+  "object": "text_completion",
+  "created": 1746107526,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Linda had een rustige en zelfstandige dag. Ze begon meteen aan haar wiskundeopdracht en werkte geconcentreerd, vragend om hulp bij lastige sommen. Ze leek tevreden met haar voortgang. Bij de pauze controleerde Linda zelfstandig haar bloedsuikerwaarden, die iets aan de lage kant waren, en koos voor een sapje en een banaan. Ze voelde zich snel beter en deed mee aan een ontspannen gesprek met klasgenoten. In de middag werkte ze verder aan een biologiapresentatie, liet zien dat ze goed voorbereid was en wisselde idee\u00ebn uit met haar groepje. Tussendoor hield ze haar bloedsuikers goed in de gaten en gaf aan dat alles in orde was. Aan het eind van de dag gaf Linda aan dat ze zich prima voelde, maar een beetje moe was. Ze pakte haar spullen rustig in en ging met een glimlach naar huis. Algemeen: Linda had een productieve dag, hield haar diabetes zelfstandig onder controle en was sociaal en betrokken bij haar activiteiten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 582,
+    "total_tokens": 867,
+    "completion_tokens": 285,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 582,
+    "prompt_ms": 533.596,
+    "prompt_per_token_ms": 0.916832337,
+    "prompt_per_second": 1090.711964832,
+    "predicted_n": 285,
+    "predicted_ms": 4802.368,
+    "predicted_per_token_ms": 16.850413272,
+    "predicted_per_second": 59.345725463
+  }
+}

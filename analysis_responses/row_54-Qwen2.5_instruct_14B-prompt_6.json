@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-fb9a8a918eb44b918ae4e96b7a6112ee",
+  "object": "text_completion",
+  "created": 1746108990,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mark arriveerde zonder jas in de winter. Hij verklaarde dat hij dacht het zou warmer zijn vanwege het zonlicht. Hij begroette de groep op tijd en ging direct aan het werk aan zijn houtproject, waarbij hij alleen hulp vroeg bij nieuw gereedschap. Tijdens de koffiepauze zat hij aan dezelfde tafel als vorige week, inclusief een nieuwe deelnemer, en leek hij een gezellig gesprek te voeren. Bij de dagafsluiting was hij blij en trots op zijn werk en complimenteerde hij de begeleider met het gebruik van een boor. Hij werd gevraagd om de rest van de week zijn jas mee te nemen. \n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 650,
+    "total_tokens": 828,
+    "completion_tokens": 178,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 650,
+    "prompt_ms": 647.159,
+    "prompt_per_token_ms": 0.995629934,
+    "prompt_per_second": 1004.389247135,
+    "predicted_n": 178,
+    "predicted_ms": 5824.435,
+    "predicted_per_token_ms": 32.721545589,
+    "predicted_per_second": 30.560903588
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-0748cacaeafc47fbb890cb20ff440800",
+  "object": "text_completion",
+  "created": 1746108917,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Brian had een gesprek in zijn woonkamer waarin hij aangaf dat hij de afgelopen week redelijk structuur aanbracht in zijn dag door drie keer boodschappen te doen en \u00e9\u00e9n keer te koken, wat hem trots maakte. Hij merkte echter op dat het moeilijk is om deze structuur te handhaven als hij zich 'leeg' voelt. Er bleef ongeopende post liggen, waardoor hij schuldgevoelens en uitstelgedrag ervoer. Een brief bleek een betalingsherinnering te zijn van de zorgverzekeraar; ze hebben afgesproken dat hij vrijdag contact opneemt om een betalingsregeling te bespreken. Brian voelde zich gespannen over een komende ontmoeting met zijn broer, met wie hij conflicten heeft gehad, en wilde weten hoe hij grenzen kon stellen tijdens het gesprek. Ze hebben besproken hoe hij vooraf afspraken kan maken om het gesprek op zijn voorwaarden te laten verlopen. Brian en de begeleider hebben afgesproken dat hij een planning op papier bijhoudt met maximaal drie taken per dag, inclusief \u00e9\u00e9n moment van rust. Volgende week bespreken ze hoe dit bevalt en of hij opnieuw heeft kunnen koken.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 743,
+    "total_tokens": 1058,
+    "completion_tokens": 315,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 743,
+    "prompt_ms": 1120.01,
+    "prompt_per_token_ms": 1.507416035,
+    "prompt_per_second": 663.386866691,
+    "predicted_n": 315,
+    "predicted_ms": 10080.091,
+    "predicted_per_token_ms": 32.000288963,
+    "predicted_per_second": 31.249717812
+  }
+}

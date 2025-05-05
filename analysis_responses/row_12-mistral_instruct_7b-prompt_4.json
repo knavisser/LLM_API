@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-cff4ef541ab648bf85caaeff60af845c",
+  "object": "text_completion",
+  "created": 1746090015,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nGerda's dag begon met een gevoel van verwarring en een herhaalde vraag naar de dagse agenda. Na een rustige ochtendroutine, waarbij ze met begeleiding haar kleding uitkoos en haar gezicht waste, leek ze iets rustiger te worden. Tijdens het ontbijt genoot ze van haar kopje thee en een licht gesprek, al moest ze af en toe worden herinnerd aan het eten. In de ochtend werkte Gerda mee aan het vouwen van wasgoed, wat ze leuk leek te vinden. Ze stelde enkele vragen over de taak, maar volgde goed aanwijzingen en werkte geconcentreerd. Tijdens de lunch gaf Gerda aan zich prettig te voelen, al vroeg ze opnieuw naar de namen van de mensen om haar heen. Ze leek op te bloeien toen er over vroeger werd gesproken, waarbij ze enkele herinneringen deelde. In de middag luisterde ze naar rustige muziek, wat haar zichtbaan ontspande. Ze neuri\u00ebde mee en glimlachte af en toe. Tegen het einde van de dag was ze wat vermoeid en lichtjes in de war over het verloop van de dag, maar bleef kalm met wat extra geruststelling.\n\nGerda's dag was gekenmerkt door een gevoel van verwarring en een herhaalde vraag naar de dagse agenda. Ze leek iets rustiger te worden na een rustige ochtendroutine, waarbij ze met begeleiding haar kleding uitkoos en haar gezicht waste. Tijdens het ontbijt genoot ze van haar kopje thee en een licht gesprek, al moest ze af en toe worden herinnerd aan het eten. In de ochtend werkte Gerda mee aan het vouwen van wasgoed, wat ze leuk leek te vinden. Ze stelde enkele vragen over de taak, maar volgde goed aan",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 603,
+    "total_tokens": 1115,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 603,
+    "prompt_ms": 2408.201,
+    "prompt_per_token_ms": 3.993699483,
+    "prompt_per_second": 250.394403523,
+    "predicted_n": 512,
+    "predicted_ms": 21673.807,
+    "predicted_per_token_ms": 42.331654485,
+    "predicted_per_second": 23.62298408
+  }
+}

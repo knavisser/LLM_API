@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-18f799c430e947eab7a76b66513864ff",
+  "object": "text_completion",
+  "created": 1746090313,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKevin begon de dag onrustig en toonde weinig interesse in de geplande activiteiten. Hij reageerde ge\u00efrriteerd op een opmerking van een medebewoner, wat leidde tot een kort conflict. De situatie werd rustig opgelost door hem even apart te nemen en de-escalerend te praten. In de ochtend werd geprobeerd Kevin te betrekken bij sportieve activiteiten. Hij deed kort mee, maar staakte dit toen hij vond dat hij oneerlijk werd behandeld. Hij uitte dit verbaal op een boze toon, maar bleef fysiek rustig. Na een kort gesprek gaf Kevin aan dat hij zich \"te veel prikkels\" voelde en hij werd begeleid naar een rustige plek. In de middag werkte Kevin zelfstandig aan een taak en was zichtbaar meer ontspannen. Geen verdere incidenten opgemerkt. Bijzonderheden: Kevin blijft snel escaleren bij spanningen, maar met een rustige benadering lijkt hij makkelijker te kalmeren.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 510,
+    "total_tokens": 789,
+    "completion_tokens": 279,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 510,
+    "prompt_ms": 1344.164,
+    "prompt_per_token_ms": 2.635614965,
+    "prompt_per_second": 379.418091451,
+    "predicted_n": 279,
+    "predicted_ms": 12097.473,
+    "predicted_per_token_ms": 43.360117174,
+    "predicted_per_second": 23.062668304
+  }
+}

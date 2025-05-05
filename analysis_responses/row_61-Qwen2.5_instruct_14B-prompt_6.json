@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-b643446b3679402a8bff925b8b936fd1",
+  "object": "text_completion",
+  "created": 1746109052,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Lianne, 29 jaar, had een derde sessie over grenzen stellen. Ze vertelde dat ze 'nee' tegen extra klusjes op haar werk heeft gezegd, wat spannend was maar goed voelde. Haar hart ging sneller kloppen en ze begon te twijfelen, maar bleef bij haar beslissing. Ze erkende ook haar neiging tot perfectionisme en hoe dat haar stressniveau verhoogt. Ze liet een presentatie aan een collega over, wat onwennig was maar rust gaf. Er werd psycho-educatie gegeven over het stresssysteem en vermoeidheid als signaal. Ze gaat komende week minstens twee korte pauzes per dag plannen en elke dag \u00e9\u00e9n situatie noteren waarin ze haar grens bewaart. Volgende sessie bespreekt ze hoe dat is gegaan.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 630,
+    "total_tokens": 843,
+    "completion_tokens": 213,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 630,
+    "prompt_ms": 875.988,
+    "prompt_per_token_ms": 1.390456434,
+    "prompt_per_second": 719.18830058,
+    "predicted_n": 213,
+    "predicted_ms": 7883.888,
+    "predicted_per_token_ms": 37.013558603,
+    "predicted_per_second": 27.017126636
+  }
+}

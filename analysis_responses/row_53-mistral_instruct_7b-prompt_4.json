@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-f6a61e6e7eba4330ba918822a52f403a",
+  "object": "text_completion",
+  "created": 1746090722,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nPatient Appie is een 62-jaar-oude man met een beperkte mobiliteit aan de rechterflank. Hij heeft het voor elkaar gekregen om zelfstandig de ochtendroutine uit te voeren. Toen de begeleiding aankwam, had hij al zijn favoriete muziek aangezet en had een pyjama aan waar vlekken op zaten. In de middag was Appie gespannen en had sociaal contact gemaakt met medebewoner Samuel. Hij gaf aan dat het goed voelde dat zijn broer langskwam, maar dat de gesprekken soms \u2018te snel gaan\u2019. Appie nam deel aan een creatieve activiteit in de avond, waarbij een ontspannen sfeer werd gemaakt.\n\nIn de ochtend had Appie een pyjama aan waar vlekken op zaten. Hij had het voor elkaar gekregen om zelfstandig de ochtendroutine uit te voeren. Deze actie was niet zonder problemen, omdat hij een beperkte mobiliteit aan de rechterflank had. Hij moest hier en daar nog een handje geholpen.\n\nIn de middag was Appie gespannen. Hij had sociaal contact gemaakt met medebewoner Samuel. Toen de begeleiding aankwam, had hij al zijn favoriete muziek aangezet. Hij gaf aan dat het goed voelde dat zijn broer langskwam, maar dat de gesprekken soms \u2018te snel gaan\u2019. Ook vond Appie verveling dat zijn broer zijn schoenen niet had uitgedaan. Deze problemen moeten worden besproken met de broer.\n\nIn de avond nam Appie deel aan een creatieve activiteit. Hierbij werd een ontspannen sfeer gemaakt. Appie maakte een mood board van tijdschriftuitknipsels. De stemming was neutraal-positief.\n\nIn de ochtend had Appie een pyjama aan waar vlekken",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 685,
+    "total_tokens": 1197,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 685,
+    "prompt_ms": 2397.906,
+    "prompt_per_token_ms": 3.500592413,
+    "prompt_per_second": 285.665933675,
+    "predicted_n": 512,
+    "predicted_ms": 21581.152,
+    "predicted_per_token_ms": 42.150687939,
+    "predicted_per_second": 23.724405197
+  }
+}

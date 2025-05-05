@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-187374d2f3b2406ca2ebbefa3a627326",
+  "object": "text_completion",
+  "created": 1746090124,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nBep is een vrouw met MS die moeite heeft met de vermoeidheid die haar aandoet. Ze koos om de ochtend rustig door te brengen met muziekluisteren en gaf aan dat dit haar een moment van ontspanning en rust gaf. In de middag probeerde ze een puzzel te maken, hoewel dit soms lastig vond door haar beperkte motoriek. Ze gaf aan dat het fijn was om zichzelf bezig te houden en dat structurele activiteiten in haar eigen tempo haar helpen om een positieve invulling aan de dag te geven. Aan het eind van de dag was ze vermoeid maar tevreden.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 503,
+    "total_tokens": 672,
+    "completion_tokens": 169,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 503,
+    "prompt_ms": 798.294,
+    "prompt_per_token_ms": 1.587066404,
+    "prompt_per_second": 630.093358119,
+    "predicted_n": 169,
+    "predicted_ms": 7184.65,
+    "predicted_per_token_ms": 42.512719589,
+    "predicted_per_second": 23.522371885
+  }
+}

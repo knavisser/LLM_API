@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-c5a91c6f17fd4deca1057f12e4a589f0",
+  "object": "text_completion",
+  "created": 1746109007,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Begeleidingsmoment bij El Yousfi van 14:00 tot 15:00 uur. Cli\u00ebnt werd ontvangen met een bakje gewassen druiven. Notitieboekje, pen en water stonden klaar. Besproken zijn ervaringen als vrijwilliger in de kringloopwinkel: 40 minuten te vroeg aangekomen, boeken gesorteerd, spullen opgeruimd, soms opgelaten door onzekerheid, licht overprikkeld door vragen van klanten, maar zich telkens herpakt. Kringloopwinkel geeft aan positief te zijn. Cli\u00ebnt gevraagd om reflectieformulier online in te vullen. Samen het reflectieformulier ingevuld, waarbij cli\u00ebnt 'in het moment blijven' noemde als lastig. Gesproken over copingstrategie\u00ebn zoals ademoefeningen en interne zelfspraak. Vervolgens voorbereiding voor schuldhulpverlening traject, waarbij cli\u00ebnt werd aangeraden om papieren beter op te bergen. Cli\u00ebnt heeft moeite met telefoneren vanwege auditieve gevoeligheid en ongemak bij stiltes. Aangeboden om voor volgende afspraak gespreksvoorbereiding te maken. Cli\u00ebnt overweegt kickboksen, maar wil dit niet te fysiek hebben. Stemming overwegend positief, geen wijzigingen in medicatie of andere bijzondere benoemingswaarden.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 849,
+    "total_tokens": 1208,
+    "completion_tokens": 359,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 849,
+    "prompt_ms": 1275.154,
+    "prompt_per_token_ms": 1.501948084,
+    "prompt_per_second": 665.801974698,
+    "predicted_n": 359,
+    "predicted_ms": 11476.385,
+    "predicted_per_token_ms": 31.967647096,
+    "predicted_per_second": 31.281626609
+  }
+}

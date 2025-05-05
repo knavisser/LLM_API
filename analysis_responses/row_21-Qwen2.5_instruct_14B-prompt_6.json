@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-da02c746639a4ca5975a687c3c312182",
+  "object": "text_completion",
+  "created": 1746108726,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Truus begon de dag met benauwdheid door haar COPD. Na rust en ochtendmedicatie voelde ze zich beter. Ze dronk thee en luisterde naar rustige muziek. Tijdens de lunch at ze langzaam en dronk voldoende water; haar ademhaling was redelijk stabiel. Ze waardeerde het rustige tempo. In de middag maakte ze een korte wandeling in huis met begeleiding. Tegen het einde van de dag voelde ze zich moe, maar genoot van de rustige indeling van de dag. Truus heeft baat bij een kalme omgeving en lichte activiteiten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 550,
+    "total_tokens": 717,
+    "completion_tokens": 167,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 550,
+    "prompt_ms": 1846.084,
+    "prompt_per_token_ms": 3.356515841,
+    "prompt_per_second": 297.927984659,
+    "predicted_n": 167,
+    "predicted_ms": 16614.753,
+    "predicted_per_token_ms": 99.489541396,
+    "predicted_per_second": 10.051307765
+  }
+}

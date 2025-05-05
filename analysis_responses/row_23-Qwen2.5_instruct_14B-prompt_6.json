@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-eefd6f3894f049c4b121c18468605eb9",
+  "object": "text_completion",
+  "created": 1746108739,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Linda arriveerde op tijd en begon direct aan haar wiskundeopdracht, waarbij ze gericht om hulp vroeg bij moeilijke sommen. Tijdens de pauze controleerde ze zelfstandig haar bloedsuikerwaarden, die lager waren dan gewenst, en koos ze voor een sapje en een banaan. Na deze maatregelen voelde ze zich snel beter en nam ze deel aan een gesprek met klasgenoten. In de middag werkte ze aan een presentatie voor biologie, waarbij ze haar bloedsuikers goed in de gaten hield en aangaf dat alles in orde was. Aan het einde van de dag gaf ze aan zich prima te voelen, hoewel ze wat moe was. Ze pakte haar spullen rustig in en vertrok met een glimlach.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 582,
+    "total_tokens": 787,
+    "completion_tokens": 205,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 582,
+    "prompt_ms": 734.925,
+    "prompt_per_token_ms": 1.26275709,
+    "prompt_per_second": 791.917945232,
+    "predicted_n": 205,
+    "predicted_ms": 6614.322,
+    "predicted_per_token_ms": 32.264983596,
+    "predicted_per_second": 30.99335219
+  }
+}

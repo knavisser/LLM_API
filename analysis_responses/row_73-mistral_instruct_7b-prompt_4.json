@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-0c4accdb2f3e44fdba6cd4744bad4b98",
+  "object": "text_completion",
+  "created": 1746091084,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nJamal, een werknemer in de houtafdeling, kwam op maandag 28 april rond kwart over negen en ging direct naar de houtafdeling. Hij was rustig en maakte oogcontact met de ondersteuner. Jamal werkte aan het houten duwwagentje dat hij al drie weken aan werkte. Jamal was langere tijd achter elkaar zelfstandig bezig, en hij vroeg geen enkele keer hulp behalve bij het vervangen van een accuboormachine. Jamal volgde de veiligheidsovereenkomst die vooraf was gemaakt. Jamal leek er plezier in te hebben en maakte af en toe een grapje richting mededeelnemer Kevin. Jamal kwam rond half twaalf in een chillruimte terecht en schrok zichtbaar van het plotselinge bezoek. Jamal vertelde dat hij volgende keer graag eerst zeggen wilde als iemand komt. Na de lunch bespraken Jamal en de ondersteuner wat Jamal thuis deed. Jamal vertelde dat hij een puzzel van duizend stukjes had gemaakt met zijn broer. Jamal liet een foto zien van de puzzel, wat een mooi moment was. Jamal bleef iets langer hangen bij de werktafel, alsof hij zijn werkstuk niet los wilde laten. Jamal gaf aan dat hij het fijn vond om het project af te ronden v\u00f3\u00f3r de vakantie. Jamal vond het helpt om het project af te ronden v\u00f3\u00f3r de vakantie. Jamal werd gevraagd of hij het prettig zou vinden om donderdag in de kleine werkruimte te werken, zonder groep, zodat hij meer rust had. Jamal knikte instemmend. Het is besloten dat Jamal donderdag in de kleine werkruimte zal werken, zonder groep, zodat hij meer rust heeft.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 929,
+    "total_tokens": 1428,
+    "completion_tokens": 499,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 929,
+    "prompt_ms": 2378.118,
+    "prompt_per_token_ms": 2.55986864,
+    "prompt_per_second": 390.645044959,
+    "predicted_n": 499,
+    "predicted_ms": 21403.062,
+    "predicted_per_token_ms": 42.891907214,
+    "predicted_per_second": 23.314421413
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-19bbb066a050427c9314a945cd5dc8eb",
+  "object": "text_completion",
+  "created": 1746089931,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nDeze rapportage beschrijft een dag met Mila, waarin de observatie werd gemaakt dat zij moeite had om complexe instructies te volgen. Ook werd opgemerkt dat Mila een creatieve manier had om haar gedachten en idee\u00ebn te uiten, wat haar een duidelijke manier gaf om te communiceren. In een rekenspel werd geconstateerd dat Mila vooral baat had bij visuele ondersteuning en herhaling, wat haar zichtbaar meer zelfvertrouwen gaf. Uiteindelijk werd gespraken met de leerkracht over hoe Mila beter kunnen worden ondersteund door meer visuele en praktische opdrachten in te zetten.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 431,
+    "total_tokens": 616,
+    "completion_tokens": 185,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 431,
+    "prompt_ms": 904.405,
+    "prompt_per_token_ms": 2.098388406,
+    "prompt_per_second": 476.556197591,
+    "predicted_n": 185,
+    "predicted_ms": 8139.649,
+    "predicted_per_token_ms": 43.998100693,
+    "predicted_per_second": 22.728253817
+  }
+}

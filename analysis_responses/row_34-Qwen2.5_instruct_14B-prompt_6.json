@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-208b9a83bdbf49d590d834e483fd1446",
+  "object": "text_completion",
+  "created": 1746108823,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Meneer D. heeft een wisselende week gehad. Hij heeft drie dagen achter elkaar zijn dagstructuur behouden en zelfstandig gekookt. Hij heeft ook een sollicitatiebrief verstuurd, wat hij als succes ervaart. Donderdag en vrijdag voelde hij zich somber en heeft hij geen contact gezocht met zijn netwerk. Hij geeft aan snel overweldigd te raken bij meerdere geplande taken per dag. Samen hebben we het weekschema ge\u00ebvalueerd en besloten het aantal geplande activiteiten per dag te beperken tot maximaal twee. Afgesproken dat hij op woensdag contact opneemt met zijn broer. Begeleiding blijft voorlopig bestaan uit twee huisbezoeken per week.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 496,
+    "total_tokens": 682,
+    "completion_tokens": 186,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 496,
+    "prompt_ms": 703.266,
+    "prompt_per_token_ms": 1.417875434,
+    "prompt_per_second": 705.280573973,
+    "predicted_n": 186,
+    "predicted_ms": 6329.396,
+    "predicted_per_token_ms": 34.029010419,
+    "predicted_per_second": 29.386690582
+  }
+}

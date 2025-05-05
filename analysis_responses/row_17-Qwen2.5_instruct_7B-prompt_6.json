@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a5bf08d0207d4f68b8f88eaeb8fd3b75",
+  "object": "text_completion",
+  "created": 1746107496,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Henk kreeg ondersteuning bij zijn ochtendroutine wegens de gevolgen van een CVA, waardoor hij moeite had met fijne motoriek en co\u00f6rdinatie. Na een rustig ontbijt, waarbij hij licht geholpen werd, voelde hij zich ontspannen. Hij keek naar een fotoboek, wat hem plezier gaf en zijn stemming verbeterde. Tijdens de lunch voelde hij zich moe, maar was blij met de rustige opstart van zijn dag. Hij at langzaam met hulp en vond het prettig om de tijd te krijgen. In de middag deed hij een lichte activiteit, zoals het sorteren van spullen, waarbij hij met aanmoediging gefocust bleef. Hoewel hij af en toe gefrustreerd raakte, vond hij het fijn om bezig te zijn. Aan het eind van de dag voelde hij zich moe maar tevreden, trots op wat hij had kunnen doen ondanks zijn beperkingen. Henk heeft baat bij een gestructureerde dag met lichte begeleiding, waarbij hij de ruimte krijgt om activiteiten in zijn eigen tempo te doen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 640,
+    "total_tokens": 931,
+    "completion_tokens": 291,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 640,
+    "prompt_ms": 544.6,
+    "prompt_per_token_ms": 0.850937888,
+    "prompt_per_second": 1175.173904078,
+    "predicted_n": 291,
+    "predicted_ms": 4901.402,
+    "predicted_per_token_ms": 16.84330665,
+    "predicted_per_second": 59.370764946
+  }
+}

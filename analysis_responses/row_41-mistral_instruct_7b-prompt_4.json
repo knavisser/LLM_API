@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-7a37370336dd42149e06e08c08ccd7cf",
+  "object": "text_completion",
+  "created": 1746090506,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nMeneer Van Rooijen thuiszorgbezoek ontving bij zijn hulp bij wondverzorging en medicatiecontrole. Hij was bij binnenkomst alert en rustig. De wond aan het linkeronderbeen toont lichte verbetering ten opzichte van de vorige week. De randen zijn iets droger en minder rood, maar er zijn geen tekenen van infectie. De wondverwisseling volgens protocol is gedaan. Meneer gaf aan dat het wondgebied de afgelopen dagen iets jeukte, maar niet pijnlijk was. Hij voelde zich soms \"vergeten\" en dit raakte hem zichtbaar. In overleg is afgesproken dat de zorgbezoeker contact opneemt met de welzijnsmedewerker van het buurtcentrum om alternatieven te informeren. Daarnaast bleek dat Meneer Van Rooijen gisteren twee medicatiemomenten vergeten is. Hij wil proberen een medicijndoos met dagdelen te gebruiken. Een weekmodel is meegenomen en samen met hem ingesteld. Het is afgesproken dat bij het volgende bezoek de medicatiestructuur en of er contact is gelegd met een nieuwe sociale activiteit worden ge\u00ebvalueerd.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 633,
+    "total_tokens": 957,
+    "completion_tokens": 324,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 633,
+    "prompt_ms": 1533.712,
+    "prompt_per_token_ms": 2.422926437,
+    "prompt_per_second": 412.724045036,
+    "predicted_n": 324,
+    "predicted_ms": 13803.412,
+    "predicted_per_token_ms": 42.603123188,
+    "predicted_per_second": 23.472457538
+  }
+}

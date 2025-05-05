@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-73e8f6f7b4cc4cecb5a323d11ec03c1e",
+  "object": "text_completion",
+  "created": 1746107692,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Moeder van Noor, die opnieuw onrustige weken heeft doorgemaakt, vertelde dat Noor meerdere keren driftbuien heeft gehad, vooral in de ochtenden voor school. Deze driftbuien werden veroorzaakt door kleine frustraties, waarna Noor begon te schreeuwen en spullen te gooien. Moeder voelt zich daarin te falen en soms mee gaat schreeuwen vanwege de machteloosheid. Psycho-educatie werd gegeven over prikkelgevoeligheid en executieve functies, waarbij ADHD bij Noor wordt vermoed. Het gesprek besprak schakeling en overgangen, vooral bij tijdsdruk, en een visueel stappenplan voor de ochtend werd opgesteld met pictogrammen voor elke handeling. Noor krijgt \u00e9\u00e9n keuze per ochtend, zodat ze meer regie ervaart zonder overprikkeld te raken. Moeder voelt zich beoordeeld en twijfelt aan haar eigen handelen, wat ge\u00ebmotioneerd werd besproken. Afgesproken is een kort moment met Noor zelf volgende week om haar perspectief te horen. Daarnaast wordt contact gelegd met een oudergroep voor alleenstaande ouders met jonge kinderen. Moeder is bereid om open te praten en toont zich vertrouwelijk. ",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 820,
+    "total_tokens": 1151,
+    "completion_tokens": 331,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 820,
+    "prompt_ms": 673.062,
+    "prompt_per_token_ms": 0.820807713,
+    "prompt_per_second": 1218.312138597,
+    "predicted_n": 331,
+    "predicted_ms": 6057.561,
+    "predicted_per_token_ms": 18.30078828,
+    "predicted_per_second": 54.642454997
+  }
+}

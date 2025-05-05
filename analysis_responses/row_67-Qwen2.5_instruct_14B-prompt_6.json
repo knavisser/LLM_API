@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-4c85454c8da8462a9993d081db2f7ca9",
+  "object": "text_completion",
+  "created": 1746109107,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Rico arriveerde op tijd en presenteerde zich met goede energie. Hij meldde zich 'wel goed in z'n vel' maar moe van het weekend door logeren bij zijn broer. Hij koos voor schilderen in het atelier, waarbij hij een schilderij met veel blauw en geel begon, dat hij 'een beetje zee-achtig' noemde. Hij werkte er anderhalf uur aan met focus en zelfstandigheid. Om elf uur werd hij onrustig en vroeg naar zijn telefoon, bang voor gemiste berichten van zijn begeleidster over een middagafspraak. Na controleerde bleek dit losse alarm, waardoor hij opluchting toonde. Tijdens lunch vertelde hij trots over zijn werk, wat hem goed deed. Hij vroeg vrijwillig om volgende week op woensdag te komen, omdat zijn broer jarig is. Afgesproken dat hij donderdag terugkomt om zijn schilderij af te maken. ",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 809,
+    "total_tokens": 1046,
+    "completion_tokens": 237,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 809,
+    "prompt_ms": 893.452,
+    "prompt_per_token_ms": 1.104391078,
+    "prompt_per_second": 905.47634795,
+    "predicted_n": 237,
+    "predicted_ms": 8041.071,
+    "predicted_per_token_ms": 33.928571472,
+    "predicted_per_second": 29.473684173
+  }
+}

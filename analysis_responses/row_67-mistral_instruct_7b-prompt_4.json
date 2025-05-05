@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-5c0cdea80151417a80b7a279b8fabfce",
+  "object": "text_completion",
+  "created": 1746090948,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nRico was vandaag op tijd en kwam binnen met goede energie. Hij vertelde dat hij zich 'wel goed in z'n vel voelde', maar ook wat moe was van het weekend, omdat hij bij zijn broer had gelogeerd. Hij koos zelf een leeg doek uit en begon zonder hulp aan een schilderij met veel blauw en geel, wat hij zelf 'een beetje zee-achtig' noemde. Hij werkte daar zeker anderhalf uur aan met focus, zonder veel te praten. Af en toe checkte hij even of het goed ging, maar verder werkte hij heel zelfstandig. Tegen elf uur merkte ik dat Rico iets onrustiger werd. Hij liep een paar keer heen en weer tussen tafels en vroeg naar zijn telefoon, terwijl we die normaal in het kluisje laten tot de lunchpauze. Hij zei dat hij bang was dat hij een appje van zijn begeleidster had gemist over een afspraak vanmiddag. We hebben samen gekeken en het bleek loos alarm, wat hem zichtbaar opluchtte. Tijdens de lunch zat Rico met een paar vaste deelnemers aan tafel. Hij vertelde trots over zijn schilderij en kreeg daar complimenten op van de groep. Dat deed hem goed \u2014 je zag hem letterlijk een beetje groeien. Aan het eind van de dag vroeg hij uit zichzelf of hij volgende week een keer op woensdag mag komen in plaats van donderdag, omdat zijn broer dan jarig is. We gaan dat even kortsluiten met de co\u00f6rdinator. Afgesproken dat hij donderdag weer komt en dan zijn schilderij afmaakt. Al met al een stabiele en positieve dag.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 813,
+    "total_tokens": 1278,
+    "completion_tokens": 465,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 813,
+    "prompt_ms": 2196.725,
+    "prompt_per_token_ms": 2.701998695,
+    "prompt_per_second": 370.096403714,
+    "predicted_n": 465,
+    "predicted_ms": 19770.524,
+    "predicted_per_token_ms": 42.517256891,
+    "predicted_per_second": 23.519861655
+  }
+}

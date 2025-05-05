@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-ac230dfff085476480dd7d71cb7ec055",
+  "object": "text_completion",
+  "created": 1746091131,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nKlinische abstractie:\n\nHet huisbezoek bij het gezin van Noor, woensdagmiddag 30 april, verliep zoals volgt. De moeder vertelde dat de schoolweek redelijk is verlopen, maar dat Noor afgelopen zondag een heftige uitbarsting had thuis. De moeder wilde niet mee naar de supermarkt en begon te gillen toen haar tablet werd afgepakt. Noor was boos en gilste ongeveer een uur. De moeder gaf aan dat deze momenten haar veel energie kosten. De moeder vertelde dat ze snel geneigd is om dingen toe te geven, om escalatie te voorkomen. De moeder en ik bespraken samen dat dit op de korte termijn rust lijkt te geven, maar dat het op lange termijn de voorspelbaarheid en grenzen ondermijnt. Noor wilde na enige aarzeling wel even met mij praten. Ze gaf aan dat ze \u201cniet altijd boos wil zijn, maar soms voelt het gewoon alsof alles stom is.\u201d Ze gaf aan dat ze het moeilijk vindt als dingen opeens veranderen, zoals plannen die worden aangepast. We hebben samen een korte oefening gedaan met een weerkaart (zon \u2013 wolk \u2013 regen \u2013 bliksem), waarin Noor kon aangeven hoe haar dag voelde. Ze koos uiteindelijk voor \u2018regen met een beetje zon\u2019. Noor vertelde uit zichzelf dat ze het leuk vond om vorige week samen met haar moeder koekjes te bakken. De moeder twijfelt nog of ze het aandurft, maar gaf aan dat het misschien fijn is om andere ouders te spreken die ook worstelen. We hebben samen besloten dat ik komende maand ook een kort schoolbezoek plan om met de intern begeleider te spreken over Noors gedrag in de klas. We willen zicht krijgen op hoe haar gedrag th",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 946,
+    "total_tokens": 1458,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 946,
+    "prompt_ms": 2422.079,
+    "prompt_per_token_ms": 2.5603372,
+    "prompt_per_second": 390.573554182,
+    "predicted_n": 512,
+    "predicted_ms": 21798.711,
+    "predicted_per_token_ms": 42.575607263,
+    "predicted_per_second": 23.487627407
+  }
+}

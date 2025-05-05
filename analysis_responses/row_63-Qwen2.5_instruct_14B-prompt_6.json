@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-70d3aad1b7844914b9964444f5c8b810",
+  "object": "text_completion",
+  "created": 1746109067,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jordi, 33 jaar, vertelt dat hij de afgelopen week rustiger voelt dankzij een meer structurele dagindeling. Hij staat elke ochtend om half negen op, doet een korte wandeling en vervolgt met een huishoudelijke taak. Dit helpt hem om zijn hoofd rustig te houden. Hij toont trots op deze zelfstandigheid. Stress ontstaat echter bij het zien van ongeopende post van instanties met schulden. Hij opent de brieven met hulp en stuurt direct een verzoek tot betalingsregeling aan \u00e9\u00e9n instantie. Zijn ouders onverwacht op bezoek, veroorzaakt schrik en overrompelde gevoelens, waardoor hij de rest van de dag op zijn kamer blijft. We bespreken hoe hij in dergelijke situaties zijn grenzen kan stellen. Afgesproken is dat hij vanaf nu een eenvoudige dagplanning bijhoudt en dat we volgende week kijken naar een kennismakingsgesprek bij schuldhulpverlening via het wijkteam.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 812,
+    "total_tokens": 1079,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 812,
+    "prompt_ms": 955.37,
+    "prompt_per_token_ms": 1.176563654,
+    "prompt_per_second": 849.932765275,
+    "predicted_n": 267,
+    "predicted_ms": 8598.327,
+    "predicted_per_token_ms": 32.203472598,
+    "predicted_per_second": 31.052551769
+  }
+}

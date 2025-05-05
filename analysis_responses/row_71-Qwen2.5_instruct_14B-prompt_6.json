@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-bfe16404441241199b5057d9761e7cdd",
+  "object": "text_completion",
+  "created": 1746109145,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mevrouw Brouwer, 86 jaar, had een goede nachtrust en voelde zich uitgerust. Ze las de krant, wat ze eerder niet meer deed vanwege concentratieproblemen. De jeuk aan haar linkerbeen is verminderd en de wond zag rustiger uit met een drogere rand en geen zwelling. Het verband werd opnieuw aangebracht en een foto genomen voor het digitale dossier. Ze voelt zich veilig bij de vaste routine en waardeert het dagelijkse telefoongesprek met haar dochter, dat haar 'dag houvast' geeft. Sinds vorige week schrijft ze korte stukjes over haar jeugd om herinneringen levend te houden. Ze overweegt deze te delen met haar kleindochter. Ze wil zichzelf ertoe zetten om een korte wandeling te maken met de rollator, mogelijk ondersteund door de begeleider, en dit zal worden overlegd met haar dochter. Volgende afspraak is dinsdag.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 942,
+    "total_tokens": 1188,
+    "completion_tokens": 246,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 942,
+    "prompt_ms": 927.403,
+    "prompt_per_token_ms": 0.984503914,
+    "prompt_per_second": 1015.739994213,
+    "predicted_n": 246,
+    "predicted_ms": 8346.624,
+    "predicted_per_token_ms": 33.9293666,
+    "predicted_per_second": 29.472993463
+  }
+}

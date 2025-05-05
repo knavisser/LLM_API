@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-316f60e83f8a4aeeb6275b57b6defd2f",
+  "object": "text_completion",
+  "created": 1746107632,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Rico kwam vandaag rond 09:45 binnen, nadat hij zijn excuses aanbood voor de vertraging veroorzaakt door een OV-vertraging. Hij leek licht gespannen, maar herpakte zich snel. Bij het ochtendrondje deelde hij dat hij zich \"een beetje druk in z'n hoofd\" voelde. Hij begon met zijn moza\u00efekproject in de rustige werkhoek en concentreerde zich steeds meer terwijl hij bijna twee uur aan zijn patroon werkte. Hij was zichtbaar tevreden met het resultaat. Tijdens het werk ontstond kortstondige irritatie met een andere deelnemer over het gebruik van een schaar, waarop Rico luidruchtig reageerde, maar niet agressief. Begeleiding hielp hem naar een korte pauze, waarna hij rustig terugkeerde naar de groep. Na afloop van de sessie was Rico trots op hoe hij het conflict had opgelost. Rico heeft aangegeven dat hij volgende week ook op vrijdag wilde proberen te komen in plaats van alleen dinsdag en donderdag. We gaan samen met de co\u00f6rdinator na of dit organisatorisch mogelijk is.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 616,
+    "total_tokens": 912,
+    "completion_tokens": 296,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 616,
+    "prompt_ms": 554.66,
+    "prompt_per_token_ms": 0.900422791,
+    "prompt_per_second": 1110.589391529,
+    "predicted_n": 296,
+    "predicted_ms": 4991.944,
+    "predicted_per_token_ms": 16.864675525,
+    "predicted_per_second": 59.295537499
+  }
+}

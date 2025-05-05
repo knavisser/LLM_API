@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a537ecff979c4a239972329876412599",
+  "object": "text_completion",
+  "created": 1746107746,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Lianne, 29 jaar, heeft tijdens de derde sessie klachten over burn-out besproken. Het thema 'grenzen stellen' werd verder uitgebreid. Ze heeft afgelopen week een paar keer 'nee' gezegd tegen extra klusjes op haar werk, ervaringen die haar zenuwachtig maakten, maar waar ze toch bij bleef. Ze vond dit achteraf wel goed. De neiging tot perfectionisme werd besproken, wat haar stressniveau verhoogt; ze gaf een voorbeeld van een presentatie overlaten aan een collega, wat ze normaal nooit zou doen, maar dat haar wel rust gaf. Psycho-educatie werd gegeven over het stresssysteem en vermoeidheid als een signaal. Ze heeft afgesproken dagelijks minstens twee korte pauzes in te plannen (vijf tot tien minuten) en elke dag een situatie op te schrijven waarin ze bewust haar grens bewaakt. Volgende keer zal de progressie hiervan besproken worden.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 630,
+    "total_tokens": 889,
+    "completion_tokens": 259,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 630,
+    "prompt_ms": 499.967,
+    "prompt_per_token_ms": 0.793597887,
+    "prompt_per_second": 1260.083999511,
+    "predicted_n": 259,
+    "predicted_ms": 4499.7,
+    "predicted_per_token_ms": 17.373359157,
+    "predicted_per_second": 57.55939257
+  }
+}

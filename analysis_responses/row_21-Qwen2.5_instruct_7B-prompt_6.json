@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-12e32b955cf04e9083ee48d0f02b22f7",
+  "object": "text_completion",
+  "created": 1746107516,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Truus begon de dag langzaam vanwege benauwdheid veroorzaakt door haar COPD. Na rust en haar ochtendmedicatie voelde ze zich iets comfortabeler. Ze startte haar ochtend met een kopje thee en luisterde naar rustige muziek, wat haar hielp om op een ontspannen manier aan de dag te beginnen. Tijdens de lunch at Truus langzaam en dronk ze voldoende, terwijl ze aangaf dat haar ademhaling redelijk stabiel bleef. Ze waardeerde het rustige tempo en de ruimte om op haar gemak te eten. In de middag koos ze ervoor om een korte wandeling in huis te maken. Met begeleiding kon ze rustig bewegen, wat haar goed leek te doen. Tegen het einde van de dag voelde ze zich moe, maar gaf ze aan dat de rustige indeling van de dag haar hielp om zich prettig te voelen. Truus heeft baat bij een kalme omgeving en activiteiten die haar ademhaling niet te veel belasten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 550,
+    "total_tokens": 822,
+    "completion_tokens": 272,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 550,
+    "prompt_ms": 509.655,
+    "prompt_per_token_ms": 0.926645712,
+    "prompt_per_second": 1079.161093175,
+    "predicted_n": 272,
+    "predicted_ms": 4586.896,
+    "predicted_per_token_ms": 16.863589252,
+    "predicted_per_second": 59.299357039
+  }
+}

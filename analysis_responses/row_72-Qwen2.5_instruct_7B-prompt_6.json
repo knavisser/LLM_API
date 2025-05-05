@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-f3aed096c12d428ba2ad98f935d1b5db",
+  "object": "text_completion",
+  "created": 1746107820,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kimberly had getwijfeld over de groepsmomenten en het gevoel dat ze zichzelf vaak buiten de groep voelt staan. Ze vertelde dat ze zich op dinsdag tijdens de lunch verdrietig voelde omdat ze het gevoel had dat niemand naar haar luisterde, wat haar tot de rest van de dag teruggetrokken deed. Naar het zien van haar interpretatie en de situatie, bleek ze erg gevoelig voor bevestiging te zijn. Kimberly nam zelf de beslissing om na dat moment een wandeling te maken in plaats van zich op haar kamer te terugtrekken, wat een belangrijke stap in haar patroon vormde. Ze vertelde dat ze afgelopen woensdag een schilderij heeft gemaakt in de creatieve ruimte, wat haar rustgevend ervoer en ze wilde dat dit een vaste activiteit zou worden. Ze vroeg of het mogelijk was om hiervoor een vast dagdeel te reserveren, en ik heb aangegeven dit intern te bespreken. Kimberly sprak ook over haar woede-uitbarsting van twee weken geleden, waar ze zich voor schaamde, maar wilde graag een korte terugkoppeling geven aan het team om haar herstel aan te geven. Afgesproken dat ze een paar zinnen opschrijft die ze dinsdag tijdens het werkoverleg met de begeleiders kan voorlezen. De volgende afspraak staat gepland op vrijdag, waarbij haar lijstje met triggers en haar wens om vaker in de creatieve ruimte te werken zal besproken worden.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 988,
+    "total_tokens": 1379,
+    "completion_tokens": 391,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 988,
+    "prompt_ms": 729.915,
+    "prompt_per_token_ms": 0.738780388,
+    "prompt_per_second": 1353.582224054,
+    "predicted_n": 391,
+    "predicted_ms": 6569.235,
+    "predicted_per_token_ms": 16.801113058,
+    "predicted_per_second": 59.519866127
+  }
+}

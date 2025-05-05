@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-510225442aae46eeb218a10a385b69ca",
+  "object": "text_completion",
+  "created": 1746108746,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Anna arriveerde vrolijk en begroette de groep met een glimlach. Tijdens de taalactiviteit maakte ze gebruik van haar gebarentaalwoordenboek om nieuwe woorden te leren en voltooide ze haar opdracht zelfstandig. Tijdens de pauze speelde ze enthousiast met haar vriendinnen op het schoolplein. In de middag werkte ze creatief aan een knutselopdracht en vroeg om hulp via gebaren en geschreven briefjes. Ze bleef de hele dag goed in haar ritme en was zichtbaar tevreden. Aan het einde van de dag zwaaide ze vrolijk gedag.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 606,
+    "total_tokens": 772,
+    "completion_tokens": 166,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 606,
+    "prompt_ms": 600.573,
+    "prompt_per_token_ms": 0.991045248,
+    "prompt_per_second": 1009.035663734,
+    "predicted_n": 166,
+    "predicted_ms": 5405.161,
+    "predicted_per_token_ms": 32.561209547,
+    "predicted_per_second": 30.711389839
+  }
+}

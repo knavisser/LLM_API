@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-3aac25f659f34c36a2581c088c82fe2f",
+  "object": "text_completion",
+  "created": 1746107702,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Appie had zijn favoriete muziek al aangezet toen ik hem om 07:45 uur bijwoon. Hij droeg een pyjama met vlekken. Appie had zelfstandig zijn ochtendroutine uitgevoerd, hoewel er af en toe nog een handje geholpen werd wegens beperkte mobiliteit aan de rechterflank. Samen met mij heeft hij zijn kledingkeuze afgestemd, waarbij ik hem moest wijzen op nette kleding omdat zijn broer zou bezoeken in de middag. Appie ging daarna ontbijten in de gezamenlijke ruimte, waar hij een broodje baba ganoush en za'atar met jus d'orange koos. Hij maakte sociaal contact met medebewoner Samuel. In de middag leek Appie zeer gespannen. Hij vond het goed dat zijn broer langskwam, maar vond de gesprekken soms 'te snel'. Hij vond ook vervelend dat zijn broer zijn schoenen niet had uitgedaan. Dit 'te snel concept' moet worden besproken met de broer. In de avond nam Appie deel aan een creatieve activiteit waarbij een ontspannen sfeer heerste. Hij maakte een mood board van tijdschriftuitknipsels. De stemming was neutraal-positief. Er werden geen bijzondere details genoemd.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 687,
+    "total_tokens": 1021,
+    "completion_tokens": 334,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 687,
+    "prompt_ms": 650.288,
+    "prompt_per_token_ms": 0.946562224,
+    "prompt_per_second": 1056.454583098,
+    "predicted_n": 334,
+    "predicted_ms": 5852.594,
+    "predicted_per_token_ms": 17.522737223,
+    "predicted_per_second": 57.068709486
+  }
+}

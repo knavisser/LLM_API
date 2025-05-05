@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-94248d8dd8d941fd8909b66cace655ba",
+  "object": "text_completion",
+  "created": 1746109036,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kevin ontmoette de begeleider pas om elf uur 's ochtends. Hij had de hele nacht niet geslapen vanwege zorgen over een komende afspraak bij de tandarts, waarbij hij zich zorgen maakte over de verdoving en pijn. Zijn ademhaling was hoog en hij zat in zichzelf gekeerd. De begeleider stelde voor om een ademhalingsoefening te doen, waardoor Kevin merkbaar rustiger werd. Hij at daarna ook wat. Tijdens het middagmaal nam hij actief deel aan een overleg over de lunchschema's en stelde voor om het tijdstip te veranderen. Hij voelde zich gezien en dit deed hem goed. Ten slotte bespraken ze dat de begeleider de volgende dag mee zou gaan naar de tandarts, wat Kevin opgelucht stemde.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 574,
+    "total_tokens": 785,
+    "completion_tokens": 211,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 574,
+    "prompt_ms": 754.327,
+    "prompt_per_token_ms": 1.314157767,
+    "prompt_per_second": 760.943644137,
+    "predicted_n": 211,
+    "predicted_ms": 6788.939,
+    "predicted_per_token_ms": 32.17506646,
+    "predicted_per_second": 31.079966882
+  }
+}

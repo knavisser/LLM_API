@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-96c13a5e5c384bbfb2485d2e46b229bc",
+  "object": "text_completion",
+  "created": 1746107587,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Meneer D. heeft een wisselende week beleefd. Positieve aspecten zijn dat hij drie dagen achter elkaar zijn dagstructuur heeft gehandhaafd en zelfstandig heeft gekookt, en dat hij een sollicitatiebrief heeft verstuurd. Negatieve aspecten zijn dat hij op donderdag en vrijdag geen contact heeft gezocht met zijn netwerk en zich somber heeft gevoeld. Hij voelt zich snel overweldigd als hij meerdere taken op een dag plannet. Het weekschema is ge\u00ebvalueerd en het aantal geplande activiteiten is beperkt tot maximaal twee per dag. Afgesproken is dat hij op woensdag contact opneemt met zijn broer. De begeleiding blijft voorlopig op twee huisbezoeken per week.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 496,
+    "total_tokens": 686,
+    "completion_tokens": 190,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 496,
+    "prompt_ms": 390.359,
+    "prompt_per_token_ms": 0.787013192,
+    "prompt_per_second": 1270.626731222,
+    "predicted_n": 190,
+    "predicted_ms": 3513.227,
+    "predicted_per_token_ms": 18.490667845,
+    "predicted_per_second": 54.081334886
+  }
+}

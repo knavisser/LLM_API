@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-c9907df2fd0c40c4bd69f21bc896d94c",
+  "object": "text_completion",
+  "created": 1746107628,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Anne voelde zich sinds het weekend lichter en had voor het eerst een korte wandeling gemaakt in de buurt, samen met medebewoonster J. Ze ervoer dit als spannend, maar achteraf prettig. Ze voelde angst voorafgaand aan de wandeling, maar was trots dat ze toch meegegaan was. Het hielp dat J. een rustige houding had. Sinds vorige week slaapt Anne beter door minder op haar telefoon te kijken 's avonds. Ze heeft haar weekschema ge\u00ebvalueerd en gaf aan dat de ochtenden lastig blijven, vooral het opstarten voor 09:00. Afgesproken dat ze probeert om dagelijks om 08:30 op te staan met hulp van een wake-up light, wat ze komende week zal uitproberen. Tot slot is ze openstaand voor een gezamenlijke activiteit in de groep volgende vrijdag (filmavond), als ze zich op de dag zelf goed voelt.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 654,
+    "total_tokens": 902,
+    "completion_tokens": 248,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 654,
+    "prompt_ms": 509.253,
+    "prompt_per_token_ms": 0.778674897,
+    "prompt_per_second": 1284.233001173,
+    "predicted_n": 248,
+    "predicted_ms": 4583.28,
+    "predicted_per_token_ms": 18.480969533,
+    "predicted_per_second": 54.109715306
+  }
+}

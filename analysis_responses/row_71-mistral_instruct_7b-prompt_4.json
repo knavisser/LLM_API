@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-72185d0f4cc949f685c0c7668ec1217d",
+  "object": "text_completion",
+  "created": 1746091035,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nOp zaterdagochtend 26 april werd een bezoek gemaakt aan mevrouw Brouwer, 86 jaar, in haar woonkamer. Deze bezoek werd positief ontvangen, omdat zij al klaar was en de krant aan het doornemen was. Deze actie toonde aan dat zij de concentratieproblemen die zij eerder had, minder hebben. Deze vond ook positief op, omdat zij een \u2018goede nacht\u2019 had gehad, wat bij haar zeldzaam is. Deze klacht werd opgedragen dat zij vaker in de afgelopen weken onrustig slapte en piekte over \u2018kleine dingen die groot werden in haar hoofd\u2019. Deze klacht werd opgedragen dat zij vaker in de afgelopen weken onrustig slapte en piekte over \u2018kleine dingen die groot werden in haar hoofd\u2019. Deze klacht werd opgedragen dat zij vaker in de afgelopen weken onrustig slapte en piekte over \u2018kleine dingen die groot werden in haar hoofd\u2019. Deze klacht werd opgedragen dat zij vaker in de afgelopen weken onrustig slapte en piekte over \u2018kleine dingen die groot werden in haar hoofd\u2019. Deze klacht werd opgedragen dat zij vaker in de afgelopen weken onrustig slapte en piekte over \u2018kleine dingen die groot werden in haar hoofd\u2019. Deze klacht werd opgedragen dat zij vaker in de afgelopen weken onrustig slapte en piekte over \u2018kleine dingen die groot werden in haar hoofd\u2019. Deze klacht werd opgedragen dat zij vaker in de afgelopen weken onrustig slapte en piekte over \u2018kleine dingen die groot werden in haar hoofd\u2019. Deze klacht werd opgedragen dat zij vaker in de afgelopen weken onrustig slapte en piekte over \u2018kleine dingen die groot werden in haar hoofd\u2019. Deze klacht werd opgedragen dat zij vaker",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 952,
+    "total_tokens": 1464,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 952,
+    "prompt_ms": 2421.528,
+    "prompt_per_token_ms": 2.54362208,
+    "prompt_per_second": 393.140163335,
+    "predicted_n": 512,
+    "predicted_ms": 21793.754,
+    "predicted_per_token_ms": 42.565925745,
+    "predicted_per_second": 23.492969611
+  }
+}

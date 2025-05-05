@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-1f4e655cf0a245b5b21385187b91020b",
+  "object": "text_completion",
+  "created": 1746108816,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kim begon de dag vermoeid en stil, na een slechte nacht. Ze piekerde veel en had moeite om tot rust te komen, ondanks fysieke moeheid. Tijdens een rustige activiteit in de ochtend tekende haar concentratie af. Na een wandeling om haar hoofd leeg te maken, voelde ze zich wat ontspannener, hoewel haar energieniveau laag bleef. In de middag koos ze voor een creatieve activiteit, waar ze genoot van, maar bleef ze zich zorgen maken over het aankomende slapen en vreesde ze een slechte nacht. Ze heeft behoefte aan ondersteuning bij het cre\u00ebren van een slaaproutine en het leren omgaan met piekergedachten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 542,
+    "total_tokens": 731,
+    "completion_tokens": 189,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 542,
+    "prompt_ms": 677.697,
+    "prompt_per_token_ms": 1.250362572,
+    "prompt_per_second": 799.768021083,
+    "predicted_n": 189,
+    "predicted_ms": 6099.269,
+    "predicted_per_token_ms": 32.271262578,
+    "predicted_per_second": 30.98732185
+  }
+}

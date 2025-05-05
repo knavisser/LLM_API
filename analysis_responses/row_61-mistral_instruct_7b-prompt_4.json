@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-e368956dff75484d8eb73fe87b42aecb",
+  "object": "text_completion",
+  "created": 1746090844,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nLianne, 29 jaar oud, werd door haar huisarts verwezen wegens burn-outklachten. In de derde sessie vandaag hebben we het thema 'grenzen stellen' verder uitgediept. Lianne vertelde dat ze in de afgelopen week enkele keer 'nee' heeft gezegd tegen extra klusjes. Ze merkte dat dit spannend was en dat haar hart sneller ging kloppen en dat ze ging twijfelen, maar ze bleef bij haar beslissing. Lianne vond dat dit goed voelde achteraf. We hebben ook stilgestaan bij haar neiging tot perfectionisme en hoe dit haar stressniveau verhoogt. Lianne deelde een voorbeeld waarbij ze een presentatie overliet aan een collega, wat ze normaal nooit zou doen. Ze vond het onwennig, maar het gaf haar wel rust.\n\nIn deze sessie heb ik psycho-educatie gegeven over het stresssysteem: wat het doet in je lijf, hoe vermoeidheid ook een signaal kan zijn, dat soort dingen. Lianne zei dat ze zich daar wel in herkende. We hebben samen afgesproken dat Lianne komende week dagelijks minstens twee korte pauzes gaat inplannen \u2014 vijf tot tien minuutjes \u2014 en dat ze elke dag \u00e9\u00e9n situatie opschrijft waarin ze bewust haar grens bewaakt.\n\nDeze sessie is gericht op het houden van de grenzen die Lianne wilt stellen. In de afgelopen week heeft Lianne een paar keer 'nee' gezegd tegen extra klusjes, wat ze vond spannend. Ze merkte dat haar hart sneller ging kloppen en dat ze ging twijfelen, maar ze bleef bij haar beslissing. Lianne vond dat dit goed voelde achteraf.\n\nIn deze sessie hebben we ook stilgestaan bij Lianne's neiging tot perfection",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 610,
+    "total_tokens": 1122,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 610,
+    "prompt_ms": 2420.524,
+    "prompt_per_token_ms": 3.968072094,
+    "prompt_per_second": 252.011550278,
+    "predicted_n": 512,
+    "predicted_ms": 21784.716,
+    "predicted_per_token_ms": 42.548273038,
+    "predicted_per_second": 23.502716529
+  }
+}

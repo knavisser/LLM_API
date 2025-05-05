@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-32b81141450a40fa8020c2df8b7d764b",
+  "object": "text_completion",
+  "created": 1746090521,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nVandaag is een begeleiding gehouden met Anne in de gezamenlijke huiskamer van de woonvoorziening. Anne kwam op eigen initiatief naar het gesprek en benoemde dat ze zich sinds het weekend wat lichter voelt. Ze gaf aan dat ze voor het eerst weer een korte wandeling gemaakt heeft in de buurt, samen met medebewoonster J. Anne ervoer dit als spannend, maar achteraf prettig. We bespraken de spanning die ze voelde voorafgaand aan de wandeling. Anne noemde angst om anderen tegen te komen, maar was trots dat ze desondanks is meegegaan. Ze merkte op dat het hielp dat J. een rustige houding had. Daarnaast benoemde Anne dat ze sinds vorige week beter slaapt doordat ze \u2019s avonds minder op haar telefoon kijkt. Ze zegt dat dit haar helpt om rustiger de nacht in te gaan. We hebben samen haar weekschema ge\u00ebvalueerd. Anne gaf aan dat de ochtenden lastig blijken, vooral het opstarten voor 09:00. Afgesproken dat ze probeert dagelijks om 08:30 op te staan met hulp van een wake-up light. Ze wil dit komende week uitproberen. Tot slot gevraagd of ze openstaat voor een gezamenlijke activiteit in de groep volgende vrijdag (filmavond). Anne gaf aan dat ze dit wil proberen als ze zich op de dag zelf goed voelt.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 629,
+    "total_tokens": 1035,
+    "completion_tokens": 406,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 629,
+    "prompt_ms": 1909.481,
+    "prompt_per_token_ms": 3.035740064,
+    "prompt_per_second": 329.408967479,
+    "predicted_n": 406,
+    "predicted_ms": 17185.325,
+    "predicted_per_token_ms": 42.328385473,
+    "predicted_per_second": 23.624808478
+  }
+}

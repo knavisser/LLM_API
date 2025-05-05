@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-2f519027a11c4fbfb581d6b071c415dd",
+  "object": "text_completion",
+  "created": 1746090400,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nMeneer D. heeft een individuele begeleiding in het kader van zijn dagstructuur en netwerkbeheer. Hij geeft aan dat de week wisselend was verlopen. Positief is dat hij drie dagen achter elkaar zijn dagstructuur weten te behouden en zelfstandig gekookt. Ook heeft hij \u00e9\u00e9n sollicitatiebrief verstuurd, wat hij als een succes ervaart. Minder positief is dat hij op donderdag en vrijdag geen contact gezocht heeft met zijn netwerk en zich somber gevoeld. Hij geeft aan zich snel overweldigd te voelen als hij meerdere taken op een dag plant.\n\nWe hebben samen het weekschema ge\u00ebvalueerd en besloten het aantal geplande activiteiten te beperken tot max. twee per dag. Meneer D. heeft afgesproken dat hij op woensdag weer contact opneemt met zijn broer. Begeleiding blijft voorlopig op twee huisbezoeken per week.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 473,
+    "total_tokens": 730,
+    "completion_tokens": 257,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 473,
+    "prompt_ms": 1200.181,
+    "prompt_per_token_ms": 2.537380767,
+    "prompt_per_second": 394.107188419,
+    "predicted_n": 257,
+    "predicted_ms": 10801.63,
+    "predicted_per_token_ms": 42.029688423,
+    "predicted_per_second": 23.792705526
+  }
+}

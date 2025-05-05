@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-ad34731f3df24367baa0d3f2150d1643",
+  "object": "text_completion",
+  "created": 1746108705,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Theo begon de dag onrustig en stelde herhaaldelijk vragen over zijn locatie en de planning. Na een rustig ontbijt en duidelijke uitleg werd hij wat meer op zijn gemak. Hij hielp met het sorteren van kaarten, waardoor hij zich betrokken voelde en afgeleid raakte van zijn verwarring. Tijdens de lunch bleef hij vragen stellen, maar bleef rustig door geduldige herhaling. Hij at langzaam en had af en toe hulp nodig om door te eten. In de middag keek hij naar oude familiefoto's, wat hem herkenning en plezier gaf. Hij vertelde verhalen uit het verleden, waardoor hij zichtbaar ontspande. Aan het einde van de dag was hij moe, maar leek tevreden en rustig. Vertrouwde activiteiten en rustige begeleiding deden hem goed.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 536,
+    "total_tokens": 767,
+    "completion_tokens": 231,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 536,
+    "prompt_ms": 866.811,
+    "prompt_per_token_ms": 1.617185349,
+    "prompt_per_second": 618.358310433,
+    "predicted_n": 231,
+    "predicted_ms": 7801.302,
+    "predicted_per_token_ms": 33.771870663,
+    "predicted_per_second": 29.610441482
+  }
+}

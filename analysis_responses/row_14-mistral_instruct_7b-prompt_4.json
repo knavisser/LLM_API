@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-59427311445b4039b4d1fd9f2bd1a40d",
+  "object": "text_completion",
+  "created": 1746090058,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nPeter begon de dag met moeite en voelde zich somber. Hij had moeilijk om te staan en voelde zich niet op zijn gemak. In de ochtend werkte hij aan een eenvoudige taak, maar bleef stil. Hij waardeerde de rustige sfeer en de ruimte om op zijn eigen tempo te eten. In de middag koos hij voor een korte wandeling, waarbij hij aangaf dat het buiten hem goed deed, ondanks dat hij zich moe voelde. Hij liep rustig en maakte af en toe een korte opmerking over zijn omgeving. Aan het eind van de dag was hij vermoeid, maar tevreden dat hij iets had ondernomen. Peter heeft baat bij een kalme, gestructureerde aanpak en activiteiten die hem afleiden van zijn sombere gedachten.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 524,
+    "total_tokens": 738,
+    "completion_tokens": 214,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 524,
+    "prompt_ms": 1060.07,
+    "prompt_per_token_ms": 2.023033559,
+    "prompt_per_second": 494.307173312,
+    "predicted_n": 214,
+    "predicted_ms": 9540.626,
+    "predicted_per_token_ms": 44.582365718,
+    "predicted_per_second": 22.430393361
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-8f0aa2219c91463ea00dec921c88289b",
+  "object": "text_completion",
+  "created": 1746109097,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Anne, 24 jaar, vertelde dat ze sinds gisteren weer begonnen is met tekenen, wat ze maanden niet deed. Ze toonde trots haar werk, bestaande uit abstracte vormen met felle kleuren, en verklaarde dat het haar helpt om zich uit te drukken zonder te hoeven praten. Ze voelt zich rustiger door tekenen. Anne aanschuift vaker bij de lunch in de groepsruimte, hoewel dit spannend is vanwege onverwachte vragen. Ze merkt dat het haar helpt om op vaste momenten onder mensen te zijn. Ze is zenuwachtig voor de komende evaluatie met haar behandelaar en ouders, omdat ze bang is dat anderen meer van haar verwachten dan ze aankan. Ik heb haar gerustgesteld dat we samen de agenda voorbereiden en haar stem erin laten tellen. We hebben afgesproken dat ik haar dinsdag help met de voorbereiding en dat ze doorgaat met tekenen wanneer ze dat nodig heeft. Ze blijft proberen minimaal \u00e9\u00e9n eetmoment per dag met de groep mee te doen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 685,
+    "total_tokens": 959,
+    "completion_tokens": 274,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 685,
+    "prompt_ms": 972.669,
+    "prompt_per_token_ms": 1.419954683,
+    "prompt_per_second": 704.247827146,
+    "predicted_n": 274,
+    "predicted_ms": 8754.021,
+    "predicted_per_token_ms": 31.948980363,
+    "predicted_per_second": 31.299903429
+  }
+}

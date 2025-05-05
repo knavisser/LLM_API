@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-1370935674ea4544a15a99b522e24c1d",
+  "object": "text_completion",
+  "created": 1746108577,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Tijdens de ochtendobservatie had Mila moeite om complexe instructies in de klas bij te houden, maar toonde ze grote creativiteit door tekeningen te gebruiken om haar gedachten en idee\u00ebn te uiten. Tijdens een rekenspel bleek dat Mila vooral profijt had van visuele ondersteuning en herhaling, wat haar zichtbaar meer zelfvertrouwen gaf. Aan het einde van de dag werd besproken met haar leerkracht dat er meer visuele en praktische opdrachten ingezet zullen worden om Mila beter te ondersteunen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 467,
+    "total_tokens": 619,
+    "completion_tokens": 152,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 467,
+    "prompt_ms": 570.917,
+    "prompt_per_token_ms": 1.222520416,
+    "prompt_per_second": 817.982249726,
+    "predicted_n": 152,
+    "predicted_ms": 5138.253,
+    "predicted_per_token_ms": 33.804298075,
+    "predicted_per_second": 29.582037106
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-7659ea854ba44f36a944fb6467e10179",
+  "object": "text_completion",
+  "created": 1746090426,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKevin toonde vandaag verhoogde spanning bij het opstarten van de dag. Hij kwam pas rond 11:00 uit zijn kamer en gaf aan slecht geslapen te hebben vanwege piekergedachten over zijn afspraak bij de tandarts morgen. Bij navraag bleek hij bang te zijn voor de verdoving en voor pijn. We hebben samen een ontspanningsoefening gedaan, wat hem zichtbaar hielp te kalmeren. Tijdens het middagoverleg heeft Kevin actief meegedacht over de planning van de gezamenlijke lunchmomenten, wat positief werd ontvangen door medebewoners. Hij gaf aan het fijn te vinden dat hij daar invloed op mocht uitoefnen. In overleg is besloten dat ik morgen meega naar de tandartsafspraak ter ondersteuning. Kevin gaf aan zich hierdoor minder gespannen te voelen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 462,
+    "total_tokens": 701,
+    "completion_tokens": 239,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 462,
+    "prompt_ms": 1118.228,
+    "prompt_per_token_ms": 2.420407559,
+    "prompt_per_second": 413.153560067,
+    "predicted_n": 239,
+    "predicted_ms": 10064.055,
+    "predicted_per_token_ms": 42.109015197,
+    "predicted_per_second": 23.747883804
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-07cc0480b53b41f7926299c373b93d4c",
+  "object": "text_completion",
+  "created": 1746089827,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nDavid had een rustige dag met enkele momenten van betrokkenheid. Hij leek goed geconcentreerd en vroeg om hulp bij een paar sommen, wat hij daarna zelfstandig verder oppakte. Tijdens een pauze at David zijn eigen lunch, waarbij hij zoals altijd goed lette op zijn notenallergie. Hij zat alleen, maar reageerde vriendelijk toen een klasgenoot even bij hem kwam zitten. In de middag deden we een groepsactiviteit rond geschiedenis. David had in eerste instantie moeite om mee te doen, maar met wat aanmoediging deelde hij een paar interessante inzichten over het onderwerp. Zijn groepsleden waardeerden zijn bijdrage, wat hem zichtbaar goed deed. Aan het einde van de dag gaf David aan dat hij zich een beetje moe voelde, maar verder in orde was. Hij verliet het lokaal met een beleefde groet.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 586,
+    "total_tokens": 838,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 586,
+    "prompt_ms": 1199.131,
+    "prompt_per_token_ms": 2.046299143,
+    "prompt_per_second": 488.68710286,
+    "predicted_n": 252,
+    "predicted_ms": 10792.182,
+    "predicted_per_token_ms": 42.826117788,
+    "predicted_per_second": 23.350236997
+  }
+}

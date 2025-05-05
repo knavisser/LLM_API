@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-110f92c1aecb47a18e3f33f9420b8ebb",
+  "object": "text_completion",
+  "created": 1746107675,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jamal kwam vanochtend rond 09:20 binnen, iets later dan gebruikelijk, maar zonder zichtbare spanning. Hij begroette de begeleiding en andere deelnemers met een kort knikje en ging meteen naar zijn vaste plek aan de houttafel. Hij sprak kort over zijn weekend, waarin zijn broer een legpuzzel van 1000 stukjes met hem heeft begonnen. Jamal klonk tevreden en zei dat hij het prettig vond dat \"het niet te druk was thuis.\" Hij koos ervoor om zijn houten treinbaan verder af te maken, een project waar hij al meerdere weken aan werkt. Hij werkte geconcentreerd en zonder hulp, behalve dat hij vroeg of hij de boormachine mocht gebruiken, wat verliep goed met heldere veiligheidsinstructies. Rond 11:30 ontstond een kort incident met deelnemer Erik, die zonder aankondiging een plank van Jamal's werktafel pakte. Jamal reageerde verbaal scherp en stond direct op. Begeleiding intervenieerde direct en sprak Jamal rustig aan in de aparte werkruimte. Jamal gaf aan dat hij schrok en zich \"aangevallen\" voelde, omdat niemand iets tegen hem zei. Na een korte pauze keerde hij zelf weer terug naar de groep. Later op de dag bood Erik excuses aan, wat Jamal accepteerde met een knik. Tijdens de lunch at Jamal aan de lange tafel en nam hij zelf deel aan het opruimen, wat positief was omdat dit soms een punt van weerstand is. Jamal benoemde zelf aan het eind van de dag dat hij \"rustig had gewerkt\" en dat hij zijn project graag wilde afmaken v\u00f3\u00f3r de meivakantie. Afgesproken dat we hem komende week \u00e9\u00e9n-op-\u00e9\u00e9n tijd geven voor zijn project in de rustige werkruimte.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 792,
+    "total_tokens": 1269,
+    "completion_tokens": 477,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 792,
+    "prompt_ms": 877.201,
+    "prompt_per_token_ms": 1.107577242,
+    "prompt_per_second": 902.871566921,
+    "predicted_n": 477,
+    "predicted_ms": 7894.811,
+    "predicted_per_token_ms": 16.550965579,
+    "predicted_per_second": 60.419435665
+  }
+}

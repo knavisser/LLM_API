@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-1046ee920978444fa51945fef2afe4fa",
+  "object": "text_completion",
+  "created": 1746108955,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Sophie arriveerde op tijd en oogde gespannen, maar had ademhalingsoefeningen gedaan. Ze vertelde over een teamoverleg waarin ze haar mening niet durfde te geven vanwege angst voor afwijzing en faalangst. Een collega kreeg positieve reacties op vergelijkbare opmerkingen, wat Sophie hielp relativeren. Met een G-schema werden gedachten, gevoelens en gedrag uitgewerkt. Sophie vond een imaginaire exposure-oefening spannend, maar ook opluchttend. Ze erkende schuldgevoelens over onproductieve tijd en bespraken het verschil tussen actieve ontspanning en vermijden. Afgesproken dat Sophie deze week \u00e9\u00e9n uur vrij neemt van nuttige activiteiten. Volgende sessie zal deze opdracht evalueren en de exposuretechniek herhalen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 815,
+    "total_tokens": 1030,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 815,
+    "prompt_ms": 775.329,
+    "prompt_per_token_ms": 0.951323334,
+    "prompt_per_second": 1051.167320912,
+    "predicted_n": 215,
+    "predicted_ms": 6977.957,
+    "predicted_per_token_ms": 32.455612338,
+    "predicted_per_second": 30.811312065
+  }
+}

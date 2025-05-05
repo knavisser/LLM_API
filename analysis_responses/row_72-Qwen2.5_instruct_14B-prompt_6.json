@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-2461f723762a48d28bf67b8e3e5432a6",
+  "object": "text_completion",
+  "created": 1746109154,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Kimberly, op zondagochtend 27 april, voelde zich onzeker over haar deelname aan groepsactiviteiten en werd verdrietig door een stilzwijgen tijdens de lunch op dinsdag. Ze ging echter wandelen in plaats van zich te isoleren. Woensdag schilderde ze rustgevend in de creatieve ruimte en wil een vaste activiteit daarvan maken. Ze wilde feedback over een recente woede-uitbarsting en besloten om een kort statement te schrijven voor het team. Volgende afspraak op vrijdag om triggers te bespreken en meer tijd in de creatieve ruimte te regelen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 988,
+    "total_tokens": 1150,
+    "completion_tokens": 162,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 988,
+    "prompt_ms": 630.34,
+    "prompt_per_token_ms": 0.637995642,
+    "prompt_per_second": 1567.408826333,
+    "predicted_n": 162,
+    "predicted_ms": 5673.057,
+    "predicted_per_token_ms": 35.01887189,
+    "predicted_per_second": 28.556031249
+  }
+}

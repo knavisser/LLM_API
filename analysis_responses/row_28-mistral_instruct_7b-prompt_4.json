@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-cf1c8e03ae7b4e9f9475e47af50fdec6",
+  "object": "text_completion",
+  "created": 1746090289,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nLara's ochtend was gekarakteriseerd door een afwijkende gedrag dat moeilijk te begrijpen was. Ze liet zich afzijdig en had moeite om contact te maken, wat zou kunnen wijzen op een afwijzing van haar omgeving of een onzekerheid over haar eigen gevoelens. Later in de ochtend toonde ze initiatief door zelf aan te geven dat ze zich onrustig voelde, wat zou kunnen wijzen op een behoefte aan nabijheid. Bij de geplande creatieve activiteit werkte Lara eerst zelfstandig, maar vroeg na enige tijd om hulp. Ze liet merken dat ze de aandacht prettig vond, hoewel ze bleef testen door kritische opmerkingen te maken. In de middag was Lara terughoudend tijdens een groepsactiviteit en trok zich na een korte tijd terug op haar kamer. Dit zou kunnen wijzen op een onzekerheid over haar eigen gedrag of een angst voor afwijzing.\n\nLara's gedrag werd ook bepaald door een behoefte aan nabijheid, die zij echter ook afwijst. Ze zoekt bevestiging, maar toont ook een angst voor afwijzing. Deze onzekerheid kan worden vertaald als een onzekerheid over haar eigen identiteit of een onzekerheid over de aandacht die ze krijgt. Deze onzekerheid kan worden vertaald als een onzekerheid over haar eigen identiteit of een onzekerheid over de aandacht die ze krijgt.\n\nOm Lara's gedrag te begrijpen, werd extra aandacht besteed aan een rustige benadering en het bevestigen van haar gevoelens. Deze acties zouden kunnen helpen Lara te ontdekken hoe ze voelt en te ontdekken waarom ze zich zo onzeker voelt. Deze acties zouden kunnen helpen Lara te ontdekken hoe ze voelt en te ontdekken waarom",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 497,
+    "total_tokens": 1009,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 497,
+    "prompt_ms": 2402.917,
+    "prompt_per_token_ms": 4.834843353,
+    "prompt_per_second": 206.831933713,
+    "predicted_n": 512,
+    "predicted_ms": 21626.254,
+    "predicted_per_token_ms": 42.238777969,
+    "predicted_per_second": 23.674927355
+  }
+}

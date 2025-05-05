@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-cd70cf212c0e428d902b2aa8daaa7adf",
+  "object": "text_completion",
+  "created": 1746090575,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nJesse, een 10-jarige jonge kind, is een schooldruk kind die regelmatig conflicten heeft met klasgenoten. Vader en moeder hebben hierin zoekend te zijn en voelen zich soms machteloos. Zij geven aan dat Jesse thuis vaak anders is dan aan school: rustig, introvert en aanhankelijk. Moeder benoemde dat hij de laatste weken sneller boos wordt, vooral bij het afbreken van activiteiten zoals tabletgebruik. Ouders bleken hier veel behoefte aan te hebben en stelden veel vragen.\n\nDuring the home visit, psych-education was provided on emotion regulation in young children. The importance of predictability and clear boundaries in language and behavior was discussed. The parents showed a great need for this and asked many questions. Together, a rewards system was set up where Jesse would earn a sticker for each situation in which he stopped an activity without getting angry. With five stickers, he could choose a self-selected reward. Additionally, it was agreed that the father would schedule a weekly 1-on-1 moment with Jesse, such as baking something together or playing a game, to strengthen their bond and approach Jesse positively without correction. The next follow-up appointment is scheduled for two weeks, again at home.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 650,
+    "total_tokens": 959,
+    "completion_tokens": 309,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 650,
+    "prompt_ms": 1466.612,
+    "prompt_per_token_ms": 2.256326089,
+    "prompt_per_second": 443.198350221,
+    "predicted_n": 309,
+    "predicted_ms": 13199.508,
+    "predicted_per_token_ms": 42.716853133,
+    "predicted_per_second": 23.40996414
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-26950e16b9594633bab91be8ffd751fc",
+  "object": "text_completion",
+  "created": 1746090540,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nRico was vandaag iets later dan gebruikelijk, maar kwam uiteindelijk rond 09:45 binnen. Hij bood direct zijn excuses aan voor de vertraging en gaf aan dat het OV vertraagd was. Rico leek licht gespannen, maar herpakte zich snel. Bij het ochtendrondje deelde hij dat hij zich \u201ceen beetje druk in z\u2019n hoofd\u201d voelde. Op voorstel van de begeleiding is hij gestart in de rustige werkhoek met zijn moza\u00efekproject. Tijdens het werken merkte ik dat hij zich steeds meer begon te concentreren. Hij werkte bijna twee uur onafgebroken aan zijn patroon en was zichtbaar tevreden met het resultaat. Rond het middaguur ontstond kortstondige irritatie tussen Rico en een andere deelnemer over het gebruik van een schaar. Rico uitte zich luidruchtig, maar reageerde niet agressief. Begeleiding greep in en begeleidde hem naar een korte pauze. Daarna keerde hij rustig terug naar de groep. Na afloop sprak hij uit dat hij trots was dat hij het rustig had opgelost. Rico heeft zelf aangegeven dat hij volgende week wil proberen ook op vrijdag te komen in plaats van alleen dinsdag en donderdag. We gaan samen met de co\u00f6rdinator bekijken of dit organisatorisch mogelijk is.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 592,
+    "total_tokens": 963,
+    "completion_tokens": 371,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 592,
+    "prompt_ms": 1747.472,
+    "prompt_per_token_ms": 2.951811455,
+    "prompt_per_second": 338.775025137,
+    "predicted_n": 371,
+    "predicted_ms": 15727.251,
+    "predicted_per_token_ms": 42.3915133,
+    "predicted_per_second": 23.589627313
+  }
+}

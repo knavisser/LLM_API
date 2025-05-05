@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-b598a808d75b4e80b33e7f63187f686f",
+  "object": "text_completion",
+  "created": 1746090746,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nMark is vandaag weer geweest, zonder jas terwijl het winter was. Hij gaf aan dat hij dacht dat het warmer zou zijn omdat hij zonlicht zag. Hij werkte gefocust aan zijn houten vogelhuis en vroeg alleen hulp bij nieuw gereedschap. Mark leek een gezellig gesprek te voeren en was goed om te zien. Bij de dagafsluiting gaf hij aan dat hij blij was en trots op wat hij gemaakt had. Complimenten werden gegeven voor zijn inzet en initiatief. Het lijkt erop alsof de behandelingen van de afgelopen tijd een positieve invloed hebben gehad op het handelen van Mark.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 643,
+    "total_tokens": 829,
+    "completion_tokens": 186,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 643,
+    "prompt_ms": 922.12,
+    "prompt_per_token_ms": 1.434089978,
+    "prompt_per_second": 697.306316418,
+    "predicted_n": 186,
+    "predicted_ms": 8299.079,
+    "predicted_per_token_ms": 44.618702704,
+    "predicted_per_second": 22.412126292
+  }
+}

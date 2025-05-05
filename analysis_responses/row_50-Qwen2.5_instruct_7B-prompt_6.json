@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-45b13623a40740238894dd1884782cc7",
+  "object": "text_completion",
+  "created": 1746107684,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Sophie kwam op tijd bij de zesde sessie in de praktijkruimte en vertelde dat ze voorafgaand aan het gesprek ademhalingsoefeningen had ge\u00fcitvoerd. Ze had deze regelmatig gebruikt in stressvolle situaties op het werk. Tijdens een teamoverleg had ze haar mening willen geven, maar dit niet gedaan vanwege angst voor afwijzing en faalangst. We werkten dit moment samen uit met behulp van een G-schema, waarbij we haar gedachten, gevoelens en gedrag in kaart brachten. Sophie merkte op dat een collega iets vergelijkbaars had gezegd, wat positieve reacties kreeg, wat haar hielp relativeren. In de tweede helft van het gesprek deed Sophie een imaginaire exposure-oefening waarbij ze zich voorstelde hoe het zou zijn om wel haar mening uit te spreken tijdens het overleg. Ze vond dit spannend, maar ook een soort opluchting. We bespraken verder haar neiging om haar vrije tijd te vullen met \u2018nuttige\u2019 activiteiten en dat ze zich schuldig voelt als ze niets \u2018productiefs\u2019 doet. Samen keken we naar het verschil tussen actieve ontspanning en functionele vermijding. Afgesproken dat Sophie deze week bewust \u00e9\u00e9n moment inplant waarin ze niets hoeft te \u2018presteren\u2019, bijvoorbeeld een uur lezen zonder doel. Volgende keer evalueren we deze opdracht en herhalen we de exposuretechniek.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 815,
+    "total_tokens": 1190,
+    "completion_tokens": 375,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 815,
+    "prompt_ms": 738.847,
+    "prompt_per_token_ms": 0.906560436,
+    "prompt_per_second": 1103.07041948,
+    "predicted_n": 375,
+    "predicted_ms": 6649.621,
+    "predicted_per_token_ms": 17.732322121,
+    "predicted_per_second": 56.394193225
+  }
+}

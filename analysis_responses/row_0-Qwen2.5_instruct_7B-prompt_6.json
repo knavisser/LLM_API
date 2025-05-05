@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-01013678135d4c28973f58ca7a769824",
+  "object": "text_completion",
+  "created": 1746107402,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "David had vandaag een rustige dag met enkele momenten van betrokkenheid. Hij begon met zijn wiskundeopdracht en leek goed geconcentreerd, vroeg om hulp bij enkele sommen en werkte zelfstandig verder. Tijdens de pauze at hij zijn eigen lunch, waarbij hij zijn notenallergie aandachtig controleerde. Hij zat alleen, maar reageerde vriendelijk op een klasgenoot die even bij hem kwam zitten. In de middag deelde hij interessante inzichten in een groepsactiviteit over geschiedenis, wat zijn groepsleden waardeerde. Aan het einde van de dag gaf hij aan zich een beetje moe te voelen, maar in orde te zijn. Hij verliet het lokaal beleefd. Algemeen toonde hij rustige en geconcentreerde gedrag, met momenten van betrokkenheid en een gevoel van welzijn.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 611,
+    "total_tokens": 843,
+    "completion_tokens": 232,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 611,
+    "prompt_ms": 488.979,
+    "prompt_per_token_ms": 0.800293596,
+    "prompt_per_second": 1249.54142422,
+    "predicted_n": 232,
+    "predicted_ms": 4400.814,
+    "predicted_per_token_ms": 18.969027955,
+    "predicted_per_second": 52.71751417
+  }
+}

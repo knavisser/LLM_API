@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-c42376c2f43349bc908bdbdfd7daf0ee",
+  "object": "text_completion",
+  "created": 1746108877,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Thuiszorgbezoek bij meneer Van Rooijen voor wondverzorging en medicatiecontrole. Meneer was alert en rustig. Wond aan linkeronderbeen toonde lichte verbetering: randen droger en minder rood, geen infecties. Meneer meldde jeuk, geen pijn. Voelde zich somber vanwege afwezigheid van wekelijkse kaartmiddag; mist sociale contacten en voelt zich \"vergeten\". Overlegd contact met welzijnsmedewerker voor alternatieve activiteiten. Gisteren vergeten twee medicatiemomenten. Samen besloten meer structuur nodig bij medicatie-inname; meneer wil medicijndoos met dagdelen proberen. Weekmodel meegenomen en ingesteld. Afgesproken volgende bezoek evalueren medicatiestructuur en nieuwe sociale activiteit.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 654,
+    "total_tokens": 870,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 654,
+    "prompt_ms": 816.862,
+    "prompt_per_token_ms": 1.24902481,
+    "prompt_per_second": 800.624609093,
+    "predicted_n": 216,
+    "predicted_ms": 7351.76,
+    "predicted_per_token_ms": 34.035926064,
+    "predicted_per_second": 29.3807196
+  }
+}

@@ -1,3 +1,5 @@
-export function buildPrompt(text) {
-    return `Vat dit Nederlandse verslag samen in een korte alinea:\n\n${text}\n\nSamenvatting:`;
+export function buildPrompt(text, client) {
+    return `### INSTRUCTION Vat dit Nederlandse verslag samen in een korte alinea:\n\n${text}\n\n### Samenvatting:`;
 }
+
+

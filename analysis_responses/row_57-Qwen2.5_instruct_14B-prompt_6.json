@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-ce0c68b2487a4b568afd6f334d17ebf5",
+  "object": "text_completion",
+  "created": 1746109020,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Meneer D. vertelde dat hij de afgelopen week begon met goede prestaties, inclusief drie dagen op tijd opstaan, ontbijten en zelf koken. Donderdag en vrijdag daarentegen bleef hij voornamelijk in bed liggen, Netflix kijken en voelde zich 'waardeloos', zonder contact te zoeken met zijn broer of vrienden zoals afgesproken. Tijdens het gesprek trok hij zich terug, keek naar de grond en was minder spraakzaam dan normaal. Ze bespraken dat te veel activiteiten tegelijkertijd leiden tot overbelasting. Ze besloten om maximaal twee taken per dag te plannen, met woensdag als 'broer-dag'. Meneer D. stemde in met twee wekelijkse bezoeken zolang zijn situatie niet stabiel is, wat hij zelf ook prettig vindt.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 623,
+    "total_tokens": 844,
+    "completion_tokens": 221,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 623,
+    "prompt_ms": 831.562,
+    "prompt_per_token_ms": 1.334770954,
+    "prompt_per_second": 749.192209208,
+    "predicted_n": 221,
+    "predicted_ms": 7484.061,
+    "predicted_per_token_ms": 33.864528237,
+    "predicted_per_second": 29.52942362
+  }
+}

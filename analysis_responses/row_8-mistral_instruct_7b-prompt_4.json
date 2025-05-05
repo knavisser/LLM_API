@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-2dbdf182865948f3b6a2252124dd3065",
+  "object": "text_completion",
+  "created": 1746089955,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nDiana's dag begon onrustig en zij had moeite om haar gedachten te ordenen. Ze leek afgeleid en benoemde dat ze zich niet helemaal op haar gemak voelde. Deze observatie werd gemaakt tijdens de ochtend. Diana's emotie was onrustig en haar klacht was dat ze moeite had met het onderscheiden van wat echt is en wat niet. Ze gaf aan dat ze waardeerde de duidelijke uitleg en rustige omgeving. Deze klacht werd ook gemaakt tijdens de ochtend.\n\nIn de middag kozen we voor een creatieve activiteit waarbij Diana zich meer ontspannen leek. Ze gaf aan dat het fijn was om even afleiding te hebben van haar gedachten. Deze observatie werd gemaakt tijdens de middag. Diana's emotie was ontspannen en haar klacht was dat ze moeite had met het onderscheiden van wat echt is en wat niet. Ze gaf aan dat ze waardeerde de duidelijke uitleg en rustige omgeving. Deze klacht werd ook gemaakt tijdens de middag.\n\nDiana's emotie was vermoeid aan het eind van de dag, maar ze gaf aan tevreden te zijn met hoe de dag was verlopen. Deze observatie werd gemaakt tijdens de ochtend. Diana's emotie was vermoeid en haar klacht was dat ze moeite had met het onderscheiden van wat echt is en wat niet. Ze gaf aan dat ze waardeerde de duidelijke uitleg en rustige omgeving. Deze klacht werd ook gemaakt tijdens de ochtend.\n\nDiana's dag werd gestructureerd met een rustige omgeving en begeleiding. Deze actie werd uitgevoerd tijdens de ochtend. Diana's emotie was ontspannen en haar klacht was dat ze moeite had met het onderscheiden van wat echt is en wat niet. Ze gaf aan dat ze waardeerde de duidelijke uitleg en rustige om",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 1105,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 593,
+    "prompt_ms": 2388.879,
+    "prompt_per_token_ms": 4.028463404,
+    "prompt_per_second": 248.233606651,
+    "predicted_n": 512,
+    "predicted_ms": 21499.909,
+    "predicted_per_token_ms": 41.99201013,
+    "predicted_per_second": 23.814054076
+  }
+}

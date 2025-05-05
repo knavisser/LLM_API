@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-cf8a84bc364748f190275a60ef2c8fa0",
+  "object": "text_completion",
+  "created": 1746089979,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nAafke, 61, heeft een chronische incontinentieprobleem. Ze gaf aan de dag te beginnen rustig te hebben geslapen, maar voelde zich onzekur over haar problemen. Na haar ochtendroutine, waarbij ze tijdig werd ondersteund met de benodigde hulpmiddelen, voelde ze zich meer op haar gemak. Ze werkte mee aan lichte huishoudelijke taken en vond dit fijn, omdat het haar afleiding bood en haar een gevoel van betrokkenheid gaf. In de middag koos ze voor een rustige activiteit, wat haar zichtbaan ontspande. Ze merkte op dat ze trots was dat ze zich de hele dag goed had gevoeld. Aafke gaf aan tevreden te zijn, maar ook wat vermoeid. Ze viel op dat Aafke baat heeft bij een dagindeling met duidelijke structuur en een discrete, proactieve benadering van haar zorgbehoeften, wat haar vertrouwen en rust geeft.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 587,
+    "total_tokens": 848,
+    "completion_tokens": 261,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 587,
+    "prompt_ms": 1242.075,
+    "prompt_per_token_ms": 2.115971469,
+    "prompt_per_second": 472.596164204,
+    "predicted_n": 261,
+    "predicted_ms": 11178.677,
+    "predicted_per_token_ms": 42.830181122,
+    "predicted_per_second": 23.348021741
+  }
+}

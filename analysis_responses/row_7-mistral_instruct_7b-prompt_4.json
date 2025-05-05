@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-08c280dd5f544b2bb3e5fe929a34d745",
+  "object": "text_completion",
+  "created": 1746089940,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nJan, een man van 65 jaar, heeft een doofheid aan het linker oor. Hij heeft een moeilijkheid met het verstaan van gesprekken, vooral wanneer er achtergrondgeluid is. Hij heeft een rustig en goed geslapen dag gehad. Hij heeft een moeilijkheid met het verstaan van gesprekken, vooral wanneer er achtergrondgeluid is, vanwege zijn doofheid aan het linker oor. Hij heeft een moeilijkheid met het verstaan van gesprekken, vooral wanneer er achtergrondgeluid is, vanwege zijn doofheid aan het linker oor.\n\nDuring the breakfast, Jan actively participated in the conversation and asked for repetition when needed, which he did without any problems. In the morning, he worked on some light household tasks and enjoyed being busy. During lunch, Jan mentioned that he felt good but found it difficult to understand people when they were talking loudly. He appreciated it when people spoke clearly and calmly to him, so he could follow along. In the afternoon, Jan chose to do a gardening activity in the garden, where he mentioned that he enjoyed the fresh air and the peacefulness. He was actively involved in maintaining the plants and seemed to enjoy it. At the end of the day, Jan was satisfied with how the day had gone. It was noted that Jan enjoys a quiet environment and clear communication, so he feels comfortable and can participate in activities.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 929,
+    "completion_tokens": 336,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 593,
+    "prompt_ms": 1552.99,
+    "prompt_per_token_ms": 2.618870727,
+    "prompt_per_second": 381.843971771,
+    "predicted_n": 336,
+    "predicted_ms": 13976.913,
+    "predicted_per_token_ms": 41.597955567,
+    "predicted_per_second": 24.039642967
+  }
+}

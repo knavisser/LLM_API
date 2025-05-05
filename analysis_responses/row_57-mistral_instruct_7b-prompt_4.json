@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-70aa32639a704df08ed1d40799a4d435",
+  "object": "text_completion",
+  "created": 1746090794,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nMeneer D. vanmiddag komt regelmatig in een klinische setting voor om zijn problemen aan te spreken. Hij vertelt dat het begin van de week goed ging, maar dat hij op donderdag en vrijdag niets deed. Hij voelde zich op die dagen 'waardeloos', en had geen contact met vrienden of familie. Meneer D. vertelde dat hij zich terugtrok tijdens het gesprek en minder spraakzaam was dan anders.\n\nDuring the conversation, it was noted that Meneer D. found it overwhelming and too fast. He stated that if there were three things on his day, he would close them immediately. It was decided to plan a maximum of two things per day, and Wednesday was designated as his \"brother-day,\" which he committed to. It was also agreed that the therapist would visit him twice a week, as long as things did not stabilize. Meneer D. found this arrangement pleasant, although he was not yet stable.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 614,
+    "total_tokens": 855,
+    "completion_tokens": 241,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 614,
+    "prompt_ms": 1165.44,
+    "prompt_per_token_ms": 1.898110767,
+    "prompt_per_second": 526.839643561,
+    "predicted_n": 241,
+    "predicted_ms": 10488.96,
+    "predicted_per_token_ms": 43.522656013,
+    "predicted_per_second": 22.976538925
+  }
+}

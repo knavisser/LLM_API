@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-fe03374c242e4c3e9cb9b38005dbea2c",
+  "object": "text_completion",
+  "created": 1746109123,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Moeder van Jesse, zeven jaar, sprak over Jesse's gedrag de laatste dagen. Op maandag had Jesse een driftbui toen zijn schermtijd afliep, waarna hij de tablet gooide en hard schreeuwde. Moeder zette hem toen op zijn kamer, wat haar later ongemakkelijk maakte. Moeder vertelde dat Jesse zich snel overspoeld voelt bij bezoek en vaak zelf ook gespannen is. We bespraken het verschil tussen begrenzen en afwijzen en hoe een overgangsritueel eruit zou kunnen zien: eerst aankondigen dat schermtijd bijna afloopt, gevolgd door een korte overgangsactiviteit. Jesse meldt ook vaker buikpijn voor school, waar geen medische oorzaak voor gevonden werd. Afgesproken dat moeder deze signalen bijhoudt in een weekoverzicht. Nieuwe afspraak gepland voor over anderhalve week, dit keer met vader erbij.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 841,
+    "total_tokens": 1083,
+    "completion_tokens": 242,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 841,
+    "prompt_ms": 900.288,
+    "prompt_per_token_ms": 1.07049684,
+    "prompt_per_second": 934.145681042,
+    "predicted_n": 242,
+    "predicted_ms": 8102.591,
+    "predicted_per_token_ms": 33.481779276,
+    "predicted_per_second": 29.866990991
+  }
+}

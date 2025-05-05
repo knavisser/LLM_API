@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-f0e6fcf2860346dea94fad2c1f23a064",
+  "object": "text_completion",
+  "created": 1746107435,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jan begon de dag rustig en gaf aan goed geslapen te hebben. Hij had af en toe moeite met het verstaan van gesprekken, vooral wanneer er achtergrondgeluid was, vanwege zijn doofheid aan het linker oor. Tijdens het ontbijt hield hij zich actief bezig met het gesprek en vroeg soms om herhaling, wat hij zonder problemen deed. In de ochtend werkte hij mee aan enkele lichte huishoudelijke taken en gaf aan het fijn te vinden om bezig te zijn. Tijdens de lunch gaf Jan aan dat hij zich goed voelde, maar dat hij het lastig vond om iedereen te verstaan als mensen tegelijk praatten. Hij waardeerde het wanneer er duidelijk en rustig tegen hem gesproken werd, zodat hij kon volgen. In de middag koos hij voor een buitenactiviteit in de tuin, waarbij hij aangaf dat hij genoot van de frisse lucht en de rust. Hij was actief in het onderhouden van planten en leek daar zichtbaar plezier in te hebben. Aan het eind van de dag gaf hij aan tevreden te zijn over hoe de dag was verlopen. Tot slot viel op dat Jan baat heeft bij een rustige omgeving en duidelijke communicatie, zodat hij zich comfortabel voelt en goed kan deelnemen aan activiteiten.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 619,
+    "total_tokens": 962,
+    "completion_tokens": 343,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 619,
+    "prompt_ms": 677.674,
+    "prompt_per_token_ms": 1.094788727,
+    "prompt_per_second": 913.418247163,
+    "predicted_n": 343,
+    "predicted_ms": 6099.068,
+    "predicted_per_token_ms": 17.781539353,
+    "predicted_per_second": 56.23810066
+  }
+}

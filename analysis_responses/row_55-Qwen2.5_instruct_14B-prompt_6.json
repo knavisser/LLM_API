@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-722595d09acd4ff1b9cb4a11736e00a7",
+  "object": "text_completion",
+  "created": 1746109000,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Ochtendzorg bij meneer van den Berg van 08:15 tot 08:45. Woonachtig, alert en goed waarnemend. Huidtoestand zonder decubitus of irritaties. Ondersteund bij het wassen van het bovenlichaam; perineale zone zelfstandig verzorgd. Compressiekousen zelfstandig aangetrokken. Medicatie (simvastatine, metformine, amlodipine) zonder problemen ingenomen, geen bijwerkingen gemeld. Vervolgafspraak met POH-somatiek op donderdag gepland. Weekplanning besproken, mogelijk naar de markt op vrijdag met dochter. Overleg met mantelzorg volgt.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 601,
+    "total_tokens": 785,
+    "completion_tokens": 184,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 601,
+    "prompt_ms": 1095.64,
+    "prompt_per_token_ms": 1.823027558,
+    "prompt_per_second": 548.53805988,
+    "predicted_n": 184,
+    "predicted_ms": 9860.756,
+    "predicted_per_token_ms": 53.591065562,
+    "predicted_per_second": 18.659826774
+  }
+}

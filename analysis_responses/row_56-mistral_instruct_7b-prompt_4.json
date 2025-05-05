@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-44eacadba83744008b1642b0f910ad98",
+  "object": "text_completion",
+  "created": 1746090770,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nEl Yousfi werd begeleid door de begeleider van 14:00 tot 15:00 uur. Bij zijn aankomst bood hij een bakje gewassen druiven aan. Op het eettafel zat een notitieboekje, pen en een kan met water klaar. De begeleider en El Yousfi bespraken zijn ervaringen als eerste dag vrijwilliger in de kringloopwinkel. El Yousfi was 40 minuten te vroeg, wat hij zelf niet gek vond. Hij had boeken gesorteerd en veel spullen opgeruimd. Hij voelde zich soms onzeker over wat hij moest doen en voelde zich opgelaten bij. Ook vond hij sommige vragen van klanten wat zwaar was en gaf zelfs aan licht overprikkeld te zijn geweest. Wel wist hij zich telkens te herpakken. Hij weet niet wat zijn collega van de winkel van hem vind, maar dat laat het koud. De begeleider had al contact gehad met de kringloopwinkel en zij geven aan positief te zijn. El Yousfi werd gevraagd om het reflectieformulier te voltooien. Bij vraag \u2018Wat vond je lastig?\u2019 schreef hij: \u201cin het moment blijven.\u201d Gesproken werd over copingstrategie\u00ebn, o.a. ademoefeningen en interne zelfspraak. Daarna werkte men aan de voorbereiding voor het schuldhulpverlening traject. Het papierwerk hiervoor lag onzichtbaar tussen andere mappen. Geadviseerd werd dat hij dit op een betere plek moet leggen. Verder werd genoteerd dat de begeleider en El Yousfi voor de volgende afspraak samen aan gespreksvoorbereiding gaan werken. Bij vraag naar zijn doelen voor sociaal contact, overweegt El Yousfi kickboksen, maar vindt het wel belangrijk dat dit \u2018n",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 862,
+    "total_tokens": 1374,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 862,
+    "prompt_ms": 2418.283,
+    "prompt_per_token_ms": 2.805432836,
+    "prompt_per_second": 356.451235281,
+    "predicted_n": 512,
+    "predicted_ms": 21764.548,
+    "predicted_per_token_ms": 42.508882703,
+    "predicted_per_second": 23.524495033
+  }
+}

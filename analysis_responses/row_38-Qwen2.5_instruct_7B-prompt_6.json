@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-290bc45dbe0144c2966313c7d92458d4",
+  "object": "text_completion",
+  "created": 1746107606,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Lianne gaf aan dat ze de afgelopen week meerdere keren \u2018nee\u2019 heeft gezegd op werkverzoeken, wat ze als spannend maar bevrijdend ervaarde. Ze merkte lichamelijke spanning op, waaronder een verhoogde hartslag, maar kon deze verdragen zonder direct toe te geven. Verder bespraken we het spanningsveld tussen haar perfectionisme en het loslaten van controle. Ze reflecteerde op een situatie waarin ze bewust een presentatie aan een collega heeft overgelaten, hoewel dit onwennig voelde, en merkte achteraf dat het haar rust gaf. Er is psycho-educatie gegeven over het stresssysteem en de functie van signalen als vermoeidheid. Lianne gaf aan zich hierin herkend te voelen en wilde komende week bewust pauzes inplannen. Afspraken: Lianne gaat dagelijks ten minste twee korte pauzes van 5-10 minuten inplannen, en noteert per dag \u00e9\u00e9n situatie waarin ze actief haar grenzen bewaakt.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 561,
+    "total_tokens": 833,
+    "completion_tokens": 272,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 561,
+    "prompt_ms": 564.403,
+    "prompt_per_token_ms": 1.006065928,
+    "prompt_per_second": 993.970645691,
+    "predicted_n": 272,
+    "predicted_ms": 5079.627,
+    "predicted_per_token_ms": 18.675098787,
+    "predicted_per_second": 53.547240172
+  }
+}

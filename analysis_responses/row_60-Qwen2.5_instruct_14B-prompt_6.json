@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-3b93468e211b4dceb438ea92a0b124d6",
+  "object": "text_completion",
+  "created": 1746109044,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Fatima arriveerde op tijd en vertelde dat ze er zin in had. Ze had de dag ervoor met haar zus gewandeld, wat ze fijn vond. Ze koos voor het atelier om met textiel te werken, specifiek het project van lapjes naaien. Ze werkte zelfstandig, behalve wanneer ze hulp nodig had bij het instellen van de naaimachine. Ze toonde haar werk trots aan de anderen. Tijdens de lunch raakte ze van slag door een onbedoelde onderbreking, reageerde harder en werd gespannen. Na een rustig gesprekje met de begeleider, keerde ze zelf terug naar de lunchgroep. Er werd besloten om volgende week te kijken naar een vaste werkplek voor Fatima in het atelier.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 612,
+    "total_tokens": 806,
+    "completion_tokens": 194,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 612,
+    "prompt_ms": 737.061,
+    "prompt_per_token_ms": 1.204347533,
+    "prompt_per_second": 830.325112117,
+    "predicted_n": 194,
+    "predicted_ms": 6633.546,
+    "predicted_per_token_ms": 34.193537162,
+    "predicted_per_second": 29.24529262
+  }
+}

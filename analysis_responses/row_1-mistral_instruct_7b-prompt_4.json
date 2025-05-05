@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-8420fee4f0a044ba9543a89502350396",
+  "object": "text_completion",
+  "created": 1746089839,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nKlinische abstractie:\n\nIn dit verslag wordt de opvoedondersteuning voor Asmae beschreven, die gericht is op verbeteren van de opvoedsituatie en cre\u00ebren van een positieve omgeving voor Asmae's ontwikkeling. De moeder van Asmae heeft aangegeven dat ze veel heeft geleerd van de gesprekken met de opvoedondersteuner en contact met Ineke. De ondersteuning heeft geleid tot meer inzicht in de situatie en behoeften van Asmae. Recentelijk zijn de schoolresultaten van Asmae binnengekomen, en de moeder heeft nu de gelegenheid om deze te bekijken en samen met de opvoedondersteuner door te nemen. De moeder heeft besloten om Asmae's bureau naar een rustiger kamer te verplaatsen, en heeft dagritmekaarten ge\u00efntroduceerd, die Asmae helpt om haar dagelijkse activiteiten te structureren. Asmae geniet van activiteiten met haar moeder en zussen en heeft een sterke band met haar familie. De dagritmekaarten zijn een waardevol hulpmiddel voor Asmae, en de moeder heeft bevestigd dat Asmae deze structuur miste en dat het gebruik van de kaarten haar helpt om beter te functioneren in haar dagelijkse leven. De opvoedondersteuning heeft bijgedragen aan een positieve ontwikkeling in de situatie van Asmae en haar moeder, en het is aan te raden om de komende tijd regelmatig de voortgang te evalueren en te blijven werken aan de structuur en ondersteuning die Asmae nodig heeft. De moeder heeft aangegeven dat zij de ondersteuning waardeert en dat het haar helpt om meer rust en overzicht te cre\u00ebren in het gezin. De opvoedondersteuner waardeert de moeder van Asmae en geeft ook aan dat haar bijdrage bij de opvoedondersteuner ook waardevol is omdat de moeder van Asmae haar openhartig",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1448,
+    "total_tokens": 1960,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 1448,
+    "prompt_ms": 2400.733,
+    "prompt_per_token_ms": 1.657964956,
+    "prompt_per_second": 603.149057137,
+    "predicted_n": 512,
+    "predicted_ms": 21606.599,
+    "predicted_per_token_ms": 42.200389272,
+    "predicted_per_second": 23.696463878
+  }
+}

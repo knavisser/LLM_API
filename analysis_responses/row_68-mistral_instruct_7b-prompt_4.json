@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-00c8aee4f50c4ba186f0bfa901dfd8c0",
+  "object": "text_completion",
+  "created": 1746090970,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie:\n\nDaan, elf jaar oud, en zijn moeder kwamen vandaag voor een sessie vijf in de spelkamer van de praktijk. Daan was iets stiller dan anders, en vertelde aanvankelijk over hoofdpijn en slechte slap. Hij voelde zich verantwoordelijk voor het welzijn van het gezin, en gaf aan dat hij zichzelf een grote verantwoordelijkheid toeschrijft. Moeder schrok van deze uitspraak en gaf aan dat ze zich soms machteloos voelt en haar geduld verliest, vooral als Daan druk is na school.\n\nWe hebben samen een 'stoplichtkaart' ge\u00efntroduceerd: rood betekent 'ik voel me overspoeld', oranje is 'ik heb hulp nodig\u2019 en groen is 'het gaat goed'. Daan mag deze kaart inzetten als hij signalen van spanning voelt. Moeder ondersteunt dit en gaat proberen op de kleur te reageren met passende ondersteuning of ruimte.\n\nDaan wilde graag een creatieve oefening doen. Hij koos zelf een werkblad waarop hij kon tekenen wat hem boos maakte. Dit leidde tot een gestructureerd gesprek waarin hij vertelde over onduidelijke regels thuis.\n\nWe sloten af met een korte ademhalingsoefening, die Daan goed kon volgen. Afgesproken dat we de kaart komende week gaan gebruiken en evalueren hoe dat gaat.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 794,
+    "total_tokens": 1183,
+    "completion_tokens": 389,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 794,
+    "prompt_ms": 1849.29,
+    "prompt_per_token_ms": 2.329080831,
+    "prompt_per_second": 429.353926441,
+    "predicted_n": 389,
+    "predicted_ms": 16643.612,
+    "predicted_per_token_ms": 42.785633989,
+    "predicted_per_second": 23.372331008
+  }
+}

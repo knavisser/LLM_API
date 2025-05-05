@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-36216e1433ed46439ca134e1e71516ae",
+  "object": "text_completion",
+  "created": 1746107591,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mevrouw Jansen kreeg wondzorg aan haar rechteronderbeen (decubitusgraad 2). De wond zag er licht verbeterd uit, met minder roodheid aan de randen en geen tekenen van infectie. Het verband werd volgens protocol verwisseld. Mevrouw gaf aan de laatste dagen beter op haar voeding te letten, met name meer eiwit door yoghurt en eieren te eten, zoals eerder besproken. Tijdens het gesprek kwam naar voren dat mevrouw zich de laatste tijd onzeker voelt over het alleen douchen. Ze is vorige week licht uitgegleden in de badkamer, zonder letsel, maar het heeft haar angstig gemaakt. Ze overweegt nu om tijdelijk hulp bij het douchen te accepteren, hoewel ze zich daar wat bezwaard over voelt. Afgesproken dat er voor komende week twee extra momenten van ADL-ondersteuning worden gepland, gericht op veiligheid tijdens het douchen. We evalueren dit bij het volgende huisbezoek.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 548,
+    "total_tokens": 820,
+    "completion_tokens": 272,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 548,
+    "prompt_ms": 524.784,
+    "prompt_per_token_ms": 0.957634545,
+    "prompt_per_second": 1044.239689883,
+    "predicted_n": 272,
+    "predicted_ms": 4723.054,
+    "predicted_per_token_ms": 17.364167554,
+    "predicted_per_second": 57.589861243
+  }
+}

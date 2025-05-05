@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-11999c5bcc7a44c2a02ed3004af26dad",
+  "object": "text_completion",
+  "created": 1746090412,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nMevrouw Jansen heeft een decubitusgraad 2 aan haar rechteronderbeen. De wond zag er bij controle licht verbeterd uit, met minder roodheid aan de randen en geen tekenen van infectie. Deze wond is volgens protocol verband verwisseld. De cli\u00ebnte heeft de afgelopen dagen beter op haar voeding letten, met name eiwitrijker te eten zoals met yoghurt en eieren, zoals eerder besproken. Bij het gesprek kwam naar voren dat mevrouw zich de laatste tijd wat onzekur voelt over het alleen douchen. Ze is in de afgelopen week licht uitgegleden in de badkamer, zonder letsel, maar het heeft haar angstig gemaakt. Ze overweegt nu om tijdelijk hulp bij het douchen te accepteren, hoewel ze zich daar wat bezwaard over voelt. Het is afgesproken dat we voor de komende week twee extra momenten van ADL-ondersteuning plannen, gericht op veiligheid tijdens het douchen. Deze ondersteuning zal bij het volgende huisbezoek worden ge\u00ebvalueerd.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 520,
+    "total_tokens": 821,
+    "completion_tokens": 301,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 520,
+    "prompt_ms": 1444.885,
+    "prompt_per_token_ms": 2.778625259,
+    "prompt_per_second": 359.890199929,
+    "predicted_n": 301,
+    "predicted_ms": 13003.966,
+    "predicted_per_token_ms": 43.202545556,
+    "predicted_per_second": 23.146784226
+  }
+}

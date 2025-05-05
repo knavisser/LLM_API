@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-b65993a98b8140ea9631dea70112bffa",
+  "object": "text_completion",
+  "created": 1746108981,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Appie arriveerde om 07:45 in een pyjama met vlekken. Hij speelde zijn favoriete muziek en voltooide de ochtendroutine met enige hulp bij de rechterflank. Hij koos zelf zijn kleding, met richtlijnen van mij over netheid voor een bezoek van zijn broer. Tijdens het ontbijt in de gezamenlijke ruimte, at hij een broodje baba ganoush en za\u2019atar met jus d\u2019orange en sprak hij sociaal met Samuel. In de middag vertoonde Appie spanning over het bezoek van zijn broer, omdat de gesprekken 'te snel' verliepen en omdat zijn broer zijn schoenen niet had uitgetrokken. Na de bezoeker was er een nabespreking. In de avond nam Appie deel aan een creatieve activiteit waarbij hij een mood board maakte van tijdschriftuitknipsels in een ontspannen sfeer.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 687,
+    "total_tokens": 921,
+    "completion_tokens": 234,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 687,
+    "prompt_ms": 880.443,
+    "prompt_per_token_ms": 1.281576629,
+    "prompt_per_second": 780.288886117,
+    "predicted_n": 234,
+    "predicted_ms": 7923.988,
+    "predicted_per_token_ms": 33.86319784,
+    "predicted_per_second": 29.530583754
+  }
+}

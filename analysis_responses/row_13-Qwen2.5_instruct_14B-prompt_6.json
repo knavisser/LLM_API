@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a8fec9895821483e936cc016ab5d5317",
+  "object": "text_completion",
+  "created": 1746108637,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jannie begon de dag rustig en voelde zich erg vermoeid vanwege haar longontsteking. Haar ademhaling was oppervlakkig, maar verbeterde na haar ochtendmedicatie. Ze at een licht ontbijt en genoot van een boek luisteren, aangezien ze weinig energie had en een kalme omgeving nodig had. Tijdens de lunch voelde ze zich iets beter, hoewel haar eetlust beperkt bleef. Ze dronk voldoende en genoot van de rustige aanpak. In de middag deed ze een ademhalingsoefening, waardoor ze zich wat beter kon ontspannen. Ze koos vervolgens opnieuw voor rust en gaf aan dat ze daar veel behoefte aan had. Aan het eind van de dag voelde ze zich nog steeds vermoeid, maar was tevreden over de ondersteuning die ze kreeg. Jannie heeft behoefte aan een rustige, prikkelarme omgeving met voldoende momenten van rust en lichte begeleiding bij activiteiten die haar ademhaling ondersteunen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 635,
+    "total_tokens": 922,
+    "completion_tokens": 287,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 635,
+    "prompt_ms": 1061.134,
+    "prompt_per_token_ms": 1.671077135,
+    "prompt_per_second": 598.416421978,
+    "predicted_n": 287,
+    "predicted_ms": 9550.206,
+    "predicted_per_token_ms": 33.27597849,
+    "predicted_per_second": 30.05170833
+  }
+}

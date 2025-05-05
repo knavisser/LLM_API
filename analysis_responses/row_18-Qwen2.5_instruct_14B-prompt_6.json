@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-863f2dbf3a0b441d9a31e279b88a94b2",
+  "object": "text_completion",
+  "created": 1746108691,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Bep begon haar ochtend moe vanwege haar MS. Na rust en medicatie voelde ze zich stabieler. Ze luisterde naar haar favoriete muziek voor ontspanning. Tijdens het middaguur at ze een lichte maaltijd en genoot van de rustige sfeer. Ze probeerde een eenvoudige puzzel te maken, waarvan ze het fijn vond om bezig te zijn, ondanks de beperkingen van haar motoriek. Aan het einde van de dag was ze vermoeid maar tevreden, omdat structuur en activiteiten in haar eigen tempo haar een positieve dag gaven.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 542,
+    "total_tokens": 700,
+    "completion_tokens": 158,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 542,
+    "prompt_ms": 613.903,
+    "prompt_per_token_ms": 1.13266183,
+    "prompt_per_second": 882.87604782,
+    "predicted_n": 158,
+    "predicted_ms": 5525.124,
+    "predicted_per_token_ms": 34.969141815,
+    "predicted_per_second": 28.596641155
+  }
+}

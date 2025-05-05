@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-c21d8384b22848f48574d7331a1eba0b",
+  "object": "text_completion",
+  "created": 1746107777,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Anne, 24 jaar, had een gesprek in de tuin van de woonvorm. Het weer was zonnig en Anne stelde zelf voor om buiten te zitten, wat opvallend is omdat ze normaal de rust van haar kamer zoekt. Sinds gisteren heeft ze weer begonnen met tekenen, een hobby die ze maandenlang niet ge\u00fcit heeft. Ze toonde trots wat ze had gemaakt, abstracte vormen met felle kleuren, waardoor ze zich kon uiten zonder te hoeven praten, wat haar rust gaf. Over haar eetmomenten vertelde Anne dat ze de afgelopen dagen vaker aanschuift bij de lunch in de groepsruimte, hoewel dit nog spannend is voor haar. Ze vindt het lastig als mensen onverwachte vragen stellen, maar merkt dat het haar helpt om op vaste momenten onder mensen te zijn. Anne is zenuwachtig over de komende evaluatie met haar behandelaar en ouders volgende week, waarbij ze bang is dat anderen meer van haar verwachten dan ze aankan. Ze heeft geruststellend gereageerd op Anne en samen hebben ze besloten dat Anne dinsdag geholpen zal worden met de voorbereiding op de evaluatie en dat ze doorgaat met tekenen wanneer ze de behoefte voelt. Ook blijft Anne proberen minimaal \u00e9\u00e9n eetmoment per dag met de groep mee te doen. ",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 685,
+    "total_tokens": 1029,
+    "completion_tokens": 344,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 685,
+    "prompt_ms": 686.084,
+    "prompt_per_token_ms": 1.001582389,
+    "prompt_per_second": 998.42011067,
+    "predicted_n": 344,
+    "predicted_ms": 6174.755,
+    "predicted_per_token_ms": 17.949870437,
+    "predicted_per_second": 55.710708527
+  }
+}

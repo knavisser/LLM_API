@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-82da411a08c04d23b9c09c43420bb41e",
+  "object": "text_completion",
+  "created": 1746107571,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Tom begon de dag stil en teruggetrokken. Hij at weinig tijdens het ontbijt en gaf aan zich moe te voelen. Hij vertelde dat hij slecht had geslapen vanwege piekergedachten over school en zijn toekomst. Tijdens de ochtendactiviteit, een creatieve opdracht, werkte Tom in zijn eigen tempo. Hij leek gefrustreerd toen iets niet lukte en zei herhaaldelijk dat hij \"nergens goed in is.\" Na aanmoediging lukte het hem door te gaan, en hij toonde trots op het resultaat, hoewel hij dit zelf bagatelliseerde. In de middag deed Tom mee aan een ontspanningsoefening. Na afloop gaf hij aan dat het hem wat rust had gebracht, maar dat hij moeite heeft om die rust vast te houden. Tom toont tekenen van overbelasting en blijft negatief over zichzelf praten. Extra aandacht nodig voor stressmanagement en positieve bevestiging.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 530,
+    "total_tokens": 776,
+    "completion_tokens": 246,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 530,
+    "prompt_ms": 464.05,
+    "prompt_per_token_ms": 0.875566096,
+    "prompt_per_second": 1142.118230638,
+    "predicted_n": 246,
+    "predicted_ms": 4176.45,
+    "predicted_per_token_ms": 16.977440148,
+    "predicted_per_second": 58.901694913
+  }
+}

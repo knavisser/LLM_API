@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-edd3d51e2d014620b83248eed48d3fb6",
+  "object": "text_completion",
+  "created": 1746108852,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Tijdens de derde sessie focuste men op het stellen van grenzen. Lianne vertelde dat ze de afgelopen week meerdere keren 'nee' heeft gezegd op werkverzoeken, ervarend als spannend maar bevrijdend. Ze meldde lichamelijke spanning (verhoogde hartslag) tijdens deze situaties, maar kon deze verdragen zonder toe te geven. Ze besprak ook het conflict tussen haar perfectionisme en het loslaten van controle, waardoor ze een presentatie bewust aan een collega heeft overgedragen. Dit was onwennig, maar gaf haar rust. Er werd psycho-educatie gegeven over het stresssysteem en de betekenis van vermoeidheid. Lianne wilde de komende week bewust pauzes plannen. Afspraken: Dagelijks ten minste twee korte pauzes van 5-10 minuten inplannen en noteren van \u00e9\u00e9n situatie per dag waarin ze haar grenzen bewaart.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 561,
+    "total_tokens": 807,
+    "completion_tokens": 246,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 561,
+    "prompt_ms": 917.727,
+    "prompt_per_token_ms": 1.635876229,
+    "prompt_per_second": 611.293190976,
+    "predicted_n": 246,
+    "predicted_ms": 8259.539,
+    "predicted_per_token_ms": 33.575362112,
+    "predicted_per_second": 29.783744302
+  }
+}

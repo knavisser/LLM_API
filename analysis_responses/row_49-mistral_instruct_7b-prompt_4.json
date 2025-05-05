@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-bb2bd37520e74cf2b517b7bb71fe0e9e",
+  "object": "text_completion",
+  "created": 1746090639,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nJamal kwam vanochtend rond 09:20 binnen, iets later dan gebruikelijk, maar zonder zichtbare spanning. Hij begroette de begeleiding en andere deelnemers met een kort knikje en ging meteen richting zijn vaste plek aan de houttafel. Jamal vertelde dat zijn broer was langs geweest en dat ze samen een legpuzzel van 1000 stukjes zijn begonnen. Hij klonk tevreden en benoemde dat hij het prettig vond dat \u201chet niet te druk was thuis.\u201d Jamal koos ervoor om zijn houten treinbaan verder af te maken, een project waar hij al meerdere weken aan werkt. Gedurende de ochtend werkte hij geconcentreerd en zonder hulp. Jamal vroeg op een gegeven moment wel of hij de boormachine mocht gebruiken \u2014 dit verliep goed, met heldere uitleg vooraf over veiligheid. Zijn zelfvertrouwen lijkt toegenomen in het gebruik van gereedschap. Rond 11:30 ontstond een kort incident met deelnemer Erik, die zonder aankondiging een plank van Jamal zijn werktafel pakte. Jamal reageerde verbaal scherp en stond direct op. Begeleiding intervenieerde direct en sprak Jamal rustig aan in de aparte werkruimte. Hij gaf aan dat hij schrok en zich \u201caangevallen\u201d voelde, omdat niemand iets tegen hem zei. Na een korte pauze keerde hij zelf weer terug naar de groep. Later op de dag bood Erik excuses aan, wat Jamal accepteerde met een knik. Jamal nam zelf deel aan het opruimen, wat positief was omdat dit soms een punt van weerstand is. Hij benoemde zelf aan het eind van de dag dat hij \u201crustig had gewerkt\u201d en dat hij zijn project graag wil afmaken v\u00f3\u00f3r de me",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 796,
+    "total_tokens": 1308,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 796,
+    "prompt_ms": 2427.809,
+    "prompt_per_token_ms": 3.050010977,
+    "prompt_per_second": 327.867672449,
+    "predicted_n": 512,
+    "predicted_ms": 21850.279,
+    "predicted_per_token_ms": 42.676325468,
+    "predicted_per_second": 23.432195463
+  }
+}

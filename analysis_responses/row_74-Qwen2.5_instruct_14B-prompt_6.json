@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-382170689e6b4aab987ce2dc9ccdbeca",
+  "object": "text_completion",
+  "created": 1746109170,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Sophie, 31 jaar, arriveerde op tijd voor sessie zeven. Ze had de opdracht uit de vorige sessie uitgevoerd, namelijk een uur lezen zonder doelen of aantekeningen maken, maar voelde zich ongemakkelijk en nutteloos. Ze besefte dat deze gevoelens terugkeren door haar jeugdervaringen met waardering voor prestaties. Sophie vertelde dat ze zich constant aan het rennen voelt, zowel fysiek als mentaal, en heeft last van een drukkend gevoel op haar borst en hoofdpijn aan het einde van de dag. Tijdens de sessie maakte ze een visuele weergave van haar activiteiten en merkte op dat er weinig herstelactiviteiten in haar planning zitten. Ze deed een korte ontspanningsoefening gericht op lichaamsbewustzijn, die haar hielp om 'uit haar hoofd te komen'. Sophie voelde zich kwetsbaar maar gehoord. Ze vroeg om oefeningen met assertief communiceren in werksituaties, specifiek hoe ze een grens kan stellen zonder zich schuldig te voelen. Volgende sessie over een week.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 915,
+    "total_tokens": 1210,
+    "completion_tokens": 295,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 915,
+    "prompt_ms": 1082.709,
+    "prompt_per_token_ms": 1.183288918,
+    "prompt_per_second": 845.102142551,
+    "predicted_n": 295,
+    "predicted_ms": 9744.384,
+    "predicted_per_token_ms": 33.031810987,
+    "predicted_per_second": 30.273847244
+  }
+}

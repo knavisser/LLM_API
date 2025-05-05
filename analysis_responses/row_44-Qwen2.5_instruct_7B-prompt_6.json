@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-f4d3a281c94c4edaa091870bee784f43",
+  "object": "text_completion",
+  "created": 1746107638,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Daan kwam energiek binnen en had behoefte om te praten. Hij tekende zijn week en vertelde dat hij veel plezier had beleefd aan een voetbaltoernooi op school, waar hij voor het eerst in lange tijd niet uit de groep stapte bij drukte. Dit werd als positief benoemd door zowel Daan als zijn moeder. Daarna bespraken ze het onderwerp huiswerk. Moeder gaf aan dat er nog veel strijd is rondom het maken ervan. Daan zei dat hij het gevoel heeft dat \"het toch nooit goed genoeg is\", waarop moeder schrok en aangaf dat dit niet haar bedoeling is. We deden een gezamenlijke oefening over helpende gedachten en bespraken hoe Daan succeservaringen kan opbouwen met kleine taken. Afgesproken dat hij komende week werkt met een visueel schema waarin hij na elk taakje een sticker mag plakken. Als hij vijf stickers verzamelt, verdient hij schermtijd. Daan vroeg zelf of hij volgende keer een oefening mag doen met rollenspel, om \"beter te leren rustig blijven als mama boos is\".\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 628,
+    "total_tokens": 919,
+    "completion_tokens": 291,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 628,
+    "prompt_ms": 585.265,
+    "prompt_per_token_ms": 0.931950056,
+    "prompt_per_second": 1073.018874458,
+    "predicted_n": 291,
+    "predicted_ms": 5267.382,
+    "predicted_per_token_ms": 18.100968095,
+    "predicted_per_second": 55.245663918
+  }
+}

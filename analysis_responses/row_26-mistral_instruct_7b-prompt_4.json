@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-6ac1fbe2bc1c493b91db6bd97f99e11d",
+  "object": "text_completion",
+  "created": 1746090247,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nTessa had een rustige en zelfstandige dag. Ze kwam vriendelijk binnen en ging direct aan de slag met haar Engelsopdracht. Ze werkte geconcentreerd en maakte goede aantekeningen. Haar planning verliep soepel, en ze leverde haar werk op tijd in. Tessa gaf aan dat alles prima ging en ze nergens last van had. Ze bracht de rest van de pauze door met haar vriendinnen, waarmee ze gezellig kletste. In de middag werkte Tessa in een groepje aan een project voor aardrijkskunde. Ze nam het initiatief om taken te verdelen en bleef rustig en gefocust, zelfs toen het wat chaotisch werd in de klas. Ze deelde haar idee\u00ebn duidelijk en werd door haar groepsleden gewaardeerd om haar inzet. Tessa gaf aan dat ze zich aan het eind van de dag goed voelde en geen problemen had ondervonden. Ze ging met een glimlach naar huis.\n\nIn dit klinische abstractie wordt beschreven hoe Tessa een rustige en zelfstandige dag had. Ze werkte geconcentreerd en maakte goede aantekeningen. Haar planning verliep soepel, en ze leverde haar werk op tijd in. Tessa gaf aan dat alles prima ging en ze nergens last van had. Ze bracht de rest van de pauze door met haar vriendinnen, waarmee ze gezellig kletste. In de middag werkte Tessa in een groepje aan een project voor aardrijkskunde. Ze nam het initiatief om taken te verdelen en bleef rustig en gefocust, zelfs toen het wat chaotisch werd in de klas. Ze deelde haar idee\u00ebn duidelijk en werd door haar groepsleden gewaardeerd om haar inzet. Tessa gaf aan dat ze zich aan het eind van de dag goed voelde en geen problemen had ondervonden. Ze ging met een glimlach naar huis.\n\nIn deze klinische abstractie wordt geen nie",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 557,
+    "total_tokens": 1069,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 557,
+    "prompt_ms": 2417.93,
+    "prompt_per_token_ms": 4.340987531,
+    "prompt_per_second": 230.362329516,
+    "predicted_n": 512,
+    "predicted_ms": 21761.37,
+    "predicted_per_token_ms": 42.502676742,
+    "predicted_per_second": 23.527929925
+  }
+}

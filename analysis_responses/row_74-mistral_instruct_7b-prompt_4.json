@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-82dfe33c02724566944be327cfdb0c74",
+  "object": "text_completion",
+  "created": 1746091108,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\n\nIn deze klinische abstractie wordt beschreven hoe de 31-jarige Sophie in een gesprek met haar therapeute in de praktijk deelnam. Ze vertelde dat ze de opdracht uit de vorige sessie had uitgevoerd, maar dat dit ongemakkelijk voelde. Ze koos ervoor om een uur te lezen zonder doelen of aantekeningen te maken. Ze voelde zich nutteloos en realiseerde zich dat deze overtuiging nog steeds diep zit. De therapeute onderzocht waar dit vandaan komt en werkte met Sophie aan een oefening waarin ze de activiteiten van haar week visueel in kaart bracht. Ze schrok van de balans en gaf aan dat er niets van herstel in haar planning was. Vervolgens werd gekeken naar hoe ze spanning lichamelijk ervaart. Sophie gaf aan dat ze sinds kort meer last had van een drukkend gevoel op haar borst en hoofdpijn aan het eind van de dag. Ze dacht eerst aan iets medisch, maar haar huisarts had niets gevonden. Dit bracht ons op psycho-educatie over de fysieke signalen van chronische spanning. Daarna deden we samen een korte ontspanningsoefening gericht op lichaamsbewustzijn, waarbij ze stil moest staan bij wat ze voelde in haar lijf, zonder iets te veranderen. Ze vond dit lastig, maar na afloop zei ze dat het haar hielp om \u2018uit haar hoofd te komen\u2019. Aan het eind van de sessie benoemde Sophie dat ze zich kwetsbaar maar gehoord voelde. Ze vroeg of we volgende keer konden oefnen met assertief communiceren in werksituaties, specifiek hoe ze een grens kan aangeven zonder zich schuldig te voelen. Dit wordt voorbereid. De volgende sessie over een week.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 909,
+    "total_tokens": 1397,
+    "completion_tokens": 488,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 909,
+    "prompt_ms": 2311.07,
+    "prompt_per_token_ms": 2.542430838,
+    "prompt_per_second": 393.324367029,
+    "predicted_n": 488,
+    "predicted_ms": 20799.627,
+    "predicted_per_token_ms": 42.622185828,
+    "predicted_per_second": 23.461959554
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-1d0fa44a67734ab3a98546be0c08d43f",
+  "object": "text_completion",
+  "created": 1746090833,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nKlinische abstractie van Fatima's verslagje van vandaag, donderdag. Fatima was op tijd en koos voor haar favoriete activiteit, het werken met textiel. Ze werkte zelfstandig en vroeg alleen hulp met het instellen van de naaimachine. Ze liet haar werk zien aan de anderen en was trots op haar resultaten. Echter, tijdens de lunch ging het mis wanneer iemand haar onbedoeld onderbrak. Daar raakte ze best van slag en begon wat harder te praten. Ik hield haar apart en voerde een rustig gesprekje met haar. Na het gesprek wilde ze terug naar de lunchgroep, dat ging goed. Ook werd besproken dat ze volgende week samen zou gaan kijken of ze misschien een vaste werkplek in het atelier kan krijgen.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 599,
+    "total_tokens": 818,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 599,
+    "prompt_ms": 1023.787,
+    "prompt_per_token_ms": 1.709159706,
+    "prompt_per_second": 585.082831275,
+    "predicted_n": 219,
+    "predicted_ms": 9214.08,
+    "predicted_per_token_ms": 42.073424548,
+    "predicted_per_second": 23.767972556
+  }
+}

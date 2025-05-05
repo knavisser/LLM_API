@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-cc5b625c42004e1d8da454b3c3e8fa87",
+  "object": "text_completion",
+  "created": 1746107708,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mark kwam aan zonder jas in winter, waarmee hij uitlegt dat hij dacht dat het warmer zou zijn vanwege zonlicht. Hij was op tijd, begroette de groep en ging direct aan de slag met zijn houtproject. Hij antwoordde kort en bondig dat het prima ging en concentreerde zich volledig op zijn houten vogelhuis, vragend alleen even naar hulp bij nieuw gereedschap. Tijdens de koffiepauze schoof hij uit zichzelf aan bij dezelfde tafel als vorige week, waar hij een gezellig gesprek voerde. Bij de dagafsluiting was hij blij en trots op wat hij gemaakt had, vond het cool om een keer een boor te gebruiken, en kreeg complimenten voor zijn inzet en initiatief. Afspraak gemaakt dat hij zijn jas moet dragen voor de rest van de week. Het lijkt erop dat de behandelingen van de afgelopen tijd een positieve invloed hebben gehad op het handelen van Mark.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 650,
+    "total_tokens": 902,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 650,
+    "prompt_ms": 520.464,
+    "prompt_per_token_ms": 0.800713612,
+    "prompt_per_second": 1248.885974224,
+    "predicted_n": 252,
+    "predicted_ms": 4684.175,
+    "predicted_per_token_ms": 18.587994576,
+    "predicted_per_second": 53.798165043
+  }
+}

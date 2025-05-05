@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-48afba2ab7ae43f1a265f725b68d5491",
+  "object": "text_completion",
+  "created": 1746107714,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Meneer van den Berg was wakker in bed aangetroffen en oogde alert. Er waren geen tekenen van decubitus of huidirritatie. ADL-ondersteuning werd geboden bij het wassen van het bovenlichaam, terwijl de perineale zone zelfstandig werd verzorgd. Hij heeft vandaag voor het eerst zelf zijn compressiekousen aangetrokken, wat een positieve stap in zijn zelfredzaamheid is. Medicatie-inname werd geholpen bij, waaronder simvastatine, metformine en amlodipine, zonder bijwerkingen of slikproblemen. De vervolgafspraak met de POH-somatiek voor controle van bloeddruk en glucosewaarden staat gepland voor donderdag, met een herinnering hiervoor in het zorgdossier. De weekplanning werd doorgenomen, waarbij meneer wilde dat hij vrijdag mogelijk naar de markt zou gaan met zijn dochter, en overleg met mantelzorg volgde. \n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 601,
+    "total_tokens": 851,
+    "completion_tokens": 250,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 601,
+    "prompt_ms": 512.736,
+    "prompt_per_token_ms": 0.853138874,
+    "prompt_per_second": 1172.142109501,
+    "predicted_n": 250,
+    "predicted_ms": 4614.628,
+    "predicted_per_token_ms": 18.458512688,
+    "predicted_per_second": 54.175545826
+  }
+}

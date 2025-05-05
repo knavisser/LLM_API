@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-3fcfc29fd4ad46d09002627e13880b8a",
+  "object": "text_completion",
+  "created": 1746108656,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Albert ervoer 's ochtends stijfheid en trillingen vanwege zijn Parkinson, waardoor hij extra tijd nodig had om op te starten. Na medicatie en ontbijt verbeterde zijn stemming. Hij luisterde naar muziek om zijn gedachten te verzetten. Halverwege de ochtend ging hij naar buiten om op een bankje in de tuin te zitten, waar hij genoot van de natuurlijke geluiden, wat hem kalmeerde. Tijdens de middag sorteerde hij persoonlijke spullen, wat hem focus en voldoening gaf, hoewel hij snel moe werd. Hij was tevreden over de balans tussen activiteit en rust en waardeerde een flexibele aanpak die rekening houdt met zijn energieniveau.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 598,
+    "total_tokens": 790,
+    "completion_tokens": 192,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 598,
+    "prompt_ms": 691.713,
+    "prompt_per_token_ms": 1.156710821,
+    "prompt_per_second": 864.520312228,
+    "predicted_n": 192,
+    "predicted_ms": 6225.418,
+    "predicted_per_token_ms": 32.424050197,
+    "predicted_per_second": 30.841304338
+  }
+}

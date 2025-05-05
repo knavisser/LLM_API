@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-89cb7fb040624365866194f1dbcac01b",
+  "object": "text_completion",
+  "created": 1746108697,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Hennie vertoonde lichte onrust en moeite met ori\u00ebntatie in de ochtend. Ze stelde vragen over de dag en had ondersteuning bij het ontbijt. Samen met de begeleiding keek ze naar een natuurdocumentaire, waardoor ze zich kalmeerde. Tijdens de lichte lunch had ze aanmoediging nodig om door te eten, maar verklaarde dat het eten lekker was. In de middag maakte ze een wandeling in de tuin met begeleiding, waarbij ze zichtbaar van de frisse lucht en geluiden genoot. Tegen het einde van de dag werd ze meer teruggetrokken, maar bleef ze ontspannen na een rustig gesprek en vertrouwde activiteiten. Gestructureerde ondersteuning en rustige, vertrouwde prikkels bevorderen haar welzijn.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 563,
+    "total_tokens": 781,
+    "completion_tokens": 218,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 563,
+    "prompt_ms": 779.458,
+    "prompt_per_token_ms": 1.384471704,
+    "prompt_per_second": 722.297174731,
+    "predicted_n": 218,
+    "predicted_ms": 7015.118,
+    "predicted_per_token_ms": 32.179440927,
+    "predicted_per_second": 31.075741877
+  }
+}

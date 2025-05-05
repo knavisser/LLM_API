@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-2ed87f0c8260421a9e2e0e5f4223a413",
+  "object": "text_completion",
+  "created": 1746107834,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Sophie, 31 jaar, heeft de opdracht uitgevoerd om een ontspanningsmoment te plannen zonder prestatiedruk, maar vond dit ongemakkelijk. Ze leed onder het gevoel van nutteloosheid. Sophie besefte dat ze in haar jeugd vooral waardering kreeg voor prestaties, niet voor aanwezigheid of rust, en dat deze overtuiging nog steeds diep zit. Ze voelt zich \u2018constante aan het rennen\u2019 en heeft een gebrek aan herstelactiviteiten in haar planning. Sophie heeft last van een drukkend gevoel op haar borst en hoofdpijn aan het eind van de dag, wat geassocieerd is met chronische spanning. Ze heeft een korte ontspanningsoefening gedaan gericht op lichaamsbewustzijn, wat haar hielp om \u2018uit haar hoofd te komen\u2019. Sophie voelt zich kwetsbaar maar gehoord en vraagt om oefeningen in assertief communiceren in werksituaties. De volgende sessie is over een week gepland.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 915,
+    "total_tokens": 1177,
+    "completion_tokens": 262,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 915,
+    "prompt_ms": 496.629,
+    "prompt_per_token_ms": 0.542763882,
+    "prompt_per_second": 1842.421784446,
+    "predicted_n": 262,
+    "predicted_ms": 4469.661,
+    "predicted_per_token_ms": 17.059773161,
+    "predicted_per_second": 58.617426536
+  }
+}

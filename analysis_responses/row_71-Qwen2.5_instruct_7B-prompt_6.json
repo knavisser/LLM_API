@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-d38e22dcb73c476e867e4c3f6667ac50",
+  "object": "text_completion",
+  "created": 1746107810,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mevrouw Brouwer, 86 jaar, was klaar in de woonkamer met haar leesbril op toen ik rond tien voor tien binnenkwam. Ze was bezig met de krant, een activiteit die ze eerder niet meer uitvoerde vanwege concentratieproblemen. Ze vertelde dat ze een \u2018goede nacht\u2019 had gehad, wat bij haar zeldzaam is. Ze klaagde vaker over onrustig slapen en piekeren over \u2018kleine dingen die groot worden in haar hoofd\u2019, maar vandaag zei ze dat ze zich \u2018uitgerust\u2019 voelde. Tijdens de wondverzorging aan haar linkerbeen gaf ze aan dat de jeuk minder is dan vorige week, en de wond zag er rustiger uit met een drogere rand en geen tekenen van zwelling. Het verband werd opnieuw aangebracht en een foto werd genomen voor haar digitaal dossier. Ze voelde zich \u2018veilig\u2019 bij de vaste routine en zei dat het haar rust geeft als ze weet dat ik op vaste dagen kom. Over haar medicatie vertelde ze dat ze nu standaard haar doosje op tafel laat liggen en dat haar dochter elke ochtend belt om te checken, wat volgens haar goed werkt. Ze was \u00e9\u00e9n keer vergeten haar avondmedicatie te nemen, maar heeft dit de volgende ochtend direct gemeld. Ze sprak over het contact met haar dochter en hoe belangrijk de dagelijkse telefoontjes voor haar zijn, wat haar \u2018dag houvast\u2019 geeft. Sinds vorige week begon ze met het schrijven van korte stukjes over haar jeugd, waarbij ze een A4\u2019tje met een verhaal over \u2018de snoepwinkel van tante Jo\u2019 liet zien. Ze overweegt dit met haar kleindochter te delen. Ze wilde een korte wandeling maken met de rollator komende week, mogelijk met mijn ondersteuning, en we hebben afgesproken dat ik dit even met haar dochter overleg. Volgende afspraak is dinsdag, waarbij ook de verbetering in de wond wordt gecontroleerd.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 942,
+    "total_tokens": 1461,
+    "completion_tokens": 519,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 942,
+    "prompt_ms": 1000.829,
+    "prompt_per_token_ms": 1.062451604,
+    "prompt_per_second": 941.219342744,
+    "predicted_n": 519,
+    "predicted_ms": 9007.465,
+    "predicted_per_token_ms": 17.355423304,
+    "predicted_per_second": 57.618876962
+  }
+}

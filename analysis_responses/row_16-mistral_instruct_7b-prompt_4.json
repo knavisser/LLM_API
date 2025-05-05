@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-9d22a3348b2d48b89a03c57cec1f17ee",
+  "object": "text_completion",
+  "created": 1746090091,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nDewi, 55 jaar oud, heeft een nierfalen die haar vermoeidheid opleverd. Ze voelt zich vermoeid en moet regelmatig pauzeren. Ze koos om rustig in haar stoel te blijven zitten en naar muziek te luisteren. Ze vond het fijn om iets nuttigs te doen en besloot om een lichte taak te doen. Ze gaf aan dat ze zich moe voelde, maar blij was dat ze toch iets had kunnen ondernemen. Dewi genoot van een korte wandeling begeleid en vond de frisse lucht genietelijk. Ze ontspannen zich op de bank. Dewi waardeert een dagritme met flexibiliteit en voldoende rustmomenten.\n\n### Aanmerkingen:\n\n* Deze klinische abstractie is een vertaling van de volgende tekst:\n\n\"Dewi started her day slowly, as she usually does due to the fatigue that her nephrotic syndrome brings with it. She took some time to get up, but felt better after her morning medication and a glass of water. Instead of doing something immediately, she decided to sit quietly in her chair and listen to music, which helped her organize her thoughts. By the end of the morning, Dewi felt well enough to do a light task, such as folding laundry. She noted that she enjoyed doing something useful, although she had to pause regularly. During lunch, Dewi chose a light meal and said that her energy was limited, but that she was satisfied with the peaceful build-up of her morning. In the afternoon, Dewi decided to go for a short walk, accompanied, so that she felt secure. She enjoyed the fresh air, but noted that her energy quickly declined. After the walk, she rested on a bench, where she was visibly relaxed. At the end of the day, Dewi said that she felt tired, but happy that she had been able to do something. She valued a daily routine with flexibility and sufficient rest periods.\"",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 619,
+    "total_tokens": 1091,
+    "completion_tokens": 472,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 619,
+    "prompt_ms": 2243.46,
+    "prompt_per_token_ms": 3.624330237,
+    "prompt_per_second": 275.913047258,
+    "predicted_n": 472,
+    "predicted_ms": 20191.144,
+    "predicted_per_token_ms": 42.77784693,
+    "predicted_per_second": 23.376585587
+  }
+}

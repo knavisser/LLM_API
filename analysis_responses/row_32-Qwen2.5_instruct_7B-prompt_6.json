@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-edca39b32ce145ab810be28cc2a193e1",
+  "object": "text_completion",
+  "created": 1746107576,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Esther begon de dag rustig maar had ergerende pijnklachten dan normaal. Tijdens het ontbijt zat ze stil en at langzaam, terwijl ze weinig sprak. Bij navraag gaf ze aan dat ze slecht had geslapen door de pijn. In de ochtendactiviteit, gericht op lichte beweging, probeerde Esther mee te doen, maar moest halverwege stoppen vanwege de klachten. Ze uitte frustratie over haar beperkte mogelijkheden en gaf aan dat ze zich hierdoor soms nutteloos voelt. Ze werd aangemoedigd door haar inspanning te waarderen en de focus te leggen op wat w\u00e9l haalbaar is. In de middag koos Esther voor een rustige activiteit, lezen in een comfortabele stoel, wat haar enigszins ontspannen leek, hoewel de pijn op de achtergrond bleef. Esther heeft behoefte aan zowel fysieke ondersteuning als erkenning van haar emotionele impact. Aandacht voor balans tussen activiteit en rust.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 558,
+    "total_tokens": 826,
+    "completion_tokens": 268,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 558,
+    "prompt_ms": 534.091,
+    "prompt_per_token_ms": 0.957152621,
+    "prompt_per_second": 1044.765461384,
+    "predicted_n": 268,
+    "predicted_ms": 4806.82,
+    "predicted_per_token_ms": 17.935897254,
+    "predicted_per_second": 55.754110643
+  }
+}

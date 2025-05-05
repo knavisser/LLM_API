@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-13720f8b0e0d447e986a66fba32b2b67",
+  "object": "text_completion",
+  "created": 1746108868,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Jordi voelt zich rustiger sinds het laatste gesprek en is trots op het houden van structuur door elke dag op hetzelfde tijdstip op te staan, te wandelen en een huishoudelijke taak uit te voeren. Hij ervaart nog steeds spanning rondom contact met schuldeisers, heeft brieven ontvangen die hij niet heeft geopend. Tijdens het gesprek zijn de enveloppen geopend, de inhoud besproken en een instantie direct gemaild over een betalingsregeling. Hij vond het lastig toen zijn ouders onverwacht langskwamen en trok zich de rest van de dag terug. Het werd besproken hoe hij zijn grenzen kan aangeven in dergelijke situaties. Afgesproken dat Jordi een eenvoudige planning maakt met vaste dagonderdelen en elke dag \u00e9\u00e9n administratieve taak oppakt. Volgende week wordt er een kennismakingsafspraak met schuldhulpverlening via het wijkteam bekeken.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 664,
+    "total_tokens": 916,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 664,
+    "prompt_ms": 954.439,
+    "prompt_per_token_ms": 1.437407947,
+    "prompt_per_second": 695.696723936,
+    "predicted_n": 252,
+    "predicted_ms": 8589.95,
+    "predicted_per_token_ms": 34.087102754,
+    "predicted_per_second": 29.336608841
+  }
+}

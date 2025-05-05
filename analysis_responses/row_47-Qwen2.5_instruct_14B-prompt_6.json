@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-da4d1bafe850404fb4e56b711f1d781f",
+  "object": "text_completion",
+  "created": 1746108929,
+  "model": "Qwen/Qwen2.5-14B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Mevrouw Brouwer, aangekleed en alert, ontvangt wondzorg en controle van haar ochtendmedicatie. Wond aan het linker onderbeen toont lichte verbetering; rand droger en minder irritatie, maar blijft jeuken. Geen tekenen van infectie. Verband verwisseld en wond gefotografeerd. Medicatie-inname goed verlopen, \u00e9\u00e9n dosis vergeten en direct gemeld. Mevrouw voelt zich rustiger, niet zo alleen, ondanks stilte. Bezoek van nichtje en twee kruiswoordpuzzels als prettige ervaringen. Wilt graag weer naar buiten, maar heeft zorgen over eerdere val en stijfheid door binnenzitten. Afgesproken dat dochter en begeleider contact leggen over mogelijk begeleid wandelen volgende week.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 795,
+    "total_tokens": 1002,
+    "completion_tokens": 207,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 795,
+    "prompt_ms": 778.135,
+    "prompt_per_token_ms": 0.978786331,
+    "prompt_per_second": 1021.673442696,
+    "predicted_n": 207,
+    "predicted_ms": 7003.216,
+    "predicted_per_token_ms": 33.831962295,
+    "predicted_per_second": 29.557848028
+  }
+}

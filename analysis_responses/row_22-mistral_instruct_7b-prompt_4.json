@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-b4f078ef52f84b5bb41835b7d1210ccb",
+  "object": "text_completion",
+  "created": 1746090176,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nJohanna begon haar ochtend met veel energie en enthousiasme. Ze werkte aan een puzzel, wat haar hielp om haar focus te richten. Ze maakte grapjes en leek zichtbaar te genieten van de activiteit, al moest ze af en toe worden herinnerd om niet te snel te willen gaan. Rond lunchtijd voelde Johanna zich nog steeds energetisch, maar ze benoemde dat ze het lastig vond om haar tempo te matigen. Na een korte wandeling in de tuin koos ze in de middag voor een rustige activiteit, zoals het luisteren naar muziek. Dit hielp haar om wat meer in balans te komen. Tegen de avond voelde Johanna zich tevreden en gaf ze aan dat ze blij was met de afwisseling in haar dag. Een duidelijke dagstructuur en begeleiding in het doseren van haar energie zijn essentieel voor haar welzijn.\n\nJohanna's dag begon met veel energie en enthousiasme. Ze werkte aan een puzzel en maakte grapjes, wat haar hielp om haar focus te richten. Ze voelde zich zichtbaar te genieten van de activiteit, maar moest af en toe worden herinnerd om niet te snel te willen gaan. Rond lunchtijd voelde ze nog steeds energetisch, maar benoemde dat ze het lastig vond om haar tempo te matigen. Na een korte wandeling in de tuin koos ze in de middag voor een rustige activiteit, zoals het luisteren naar muziek. Dit hielp haar om wat meer in balans te komen. Tegen de avond voelde ze zich tevreden en gaf ze aan dat ze blij was met de afwisseling in haar dag.\n\nJohanna's dag begon met veel energie en enthousiasme. Ze werkte aan een puzzel en maakte grapjes, wat haar hielp om haar focus te richten. Ze voelde zich zichtbaar te genieten van de activiteit, maar moest",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 503,
+    "total_tokens": 1015,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 503,
+    "prompt_ms": 2364.21,
+    "prompt_per_token_ms": 4.700218091,
+    "prompt_per_second": 212.756085079,
+    "predicted_n": 512,
+    "predicted_ms": 21277.887,
+    "predicted_per_token_ms": 41.558373626,
+    "predicted_per_second": 24.062539333
+  }
+}

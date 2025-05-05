@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-a1442b0efcb848789ce42a40ebdd43a2",
+  "object": "text_completion",
+  "created": 1746107566,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Olivia begon de dag energiek en toonde veel aanwezigheid tijdens het ontbijt. Ze maakte echter meerdere spottende opmerkingen naar een medebewoner, wat zichtbaar ongemak veroorzaakte. Na een rustige interventie werd Olivia aangesproken op haar gedrag. Ze reageerde aanvankelijk ontwijkend en zei dat het \"maar een grapje\" was, maar stopte vervolgens met de opmerkingen. Tijdens de ochtendactiviteit deed Olivia actief mee en nam zelfs de leiding binnen de groep. Ze had moeite met kritiek van anderen en reageerde kortaf, maar herstelde zich snel en bleef betrokken. In de middag ontstond opnieuw spanning toen Olivia opzettelijk een medebewoner imiteerde. Na een individueel gesprek gaf ze aan zich soms \"verveeld\" te voelen en daarom uit te dagen. Er is afgesproken om haar energie te kanaliseren in een taak waarbij ze verantwoordelijkheid krijgt. Olivia zoekt grenzen op en toont dominant gedrag. Vervolgstappen richten zich op bewustwording van haar impact op anderen.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 574,
+    "total_tokens": 872,
+    "completion_tokens": 298,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 574,
+    "prompt_ms": 556.571,
+    "prompt_per_token_ms": 0.96963561,
+    "prompt_per_second": 1031.315259207,
+    "predicted_n": 298,
+    "predicted_ms": 5009.138,
+    "predicted_per_token_ms": 16.809186439,
+    "predicted_per_second": 59.491278986
+  }
+}

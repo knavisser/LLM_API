@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-16ff1214ba5e4d3ab04dddbfca51b3a5",
+  "object": "text_completion",
+  "created": 1746090452,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nIn deze derde sessie stond het thema grenzen stellen centraal. Lianne gaf aan dat ze de afgelopen week meerdere keren \u2018nee\u2019 heeft gezegd op werkverzoeken, wat ze als spannend maar bevrijdend ervaarde. Ze merkte daarbij lichamelijke spanning op (o.a. verhoogde hartslag), maar kon deze verdragen zonder direct toe te geven. Verder bespraken we het spanningsveld tussen haar perfectionisme en het loslaten van controle. Lianne reflecteerde op een situatie waarin ze bewust een presentatie aan een collega heeft overgelaten. Hoewel dit onwennig voelde, merkte ze achteraf dat het haar rust gaf. Er is psycho-educatie gegeven over het stresssysteem en de functie van signalen als vermoeidheid. Lianne gaf aan zich hierin herkend te voelen en wil komende week bewust pauzes inplannen.\n\nIn deze sessie is Lianne's spanning en haar perfectionisme als oorzaak van stress ge\u00efdentificeerd. Deze stress kan zowel fysiek als mentaal worden ervaren. Lianne heeft zich bewust van de spanning en kan deze verdragen zonder direct toe te geven. Deze observatie is in overeenkomst met de psychonieuwen die Lianne heeft gekregen over het stresssysteem.\n\nLianne heeft ook een situatie waarin ze haar grenzen bewaakt opgemerkt. Hierdoor heeft ze zich bewust van de belang van het bewaarden van haar grenzen. Lianne wil in de komende week bewust pauzes inplannen om haar stress te beperken. Deze afspraken zijn in overeenkomst met de psychonieuwen die Lianne heeft gekregen over het stresssysteem.\n\nIn deze sessie is Lianne's spanning en haar perfectionisme als oorzaak van stress ge\u00efdentificeerd. Deze stress kan zowel fysiek",
+      "logprobs": null,
+      "finish_reason": "length",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 533,
+    "total_tokens": 1045,
+    "completion_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 533,
+    "prompt_ms": 2418.998,
+    "prompt_per_token_ms": 4.538457434,
+    "prompt_per_second": 220.339182324,
+    "predicted_n": 512,
+    "predicted_ms": 21770.98,
+    "predicted_per_token_ms": 42.521445919,
+    "predicted_per_second": 23.51754458
+  }
+}

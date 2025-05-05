@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-5649281d02af4966a0f9b844246b91f5",
+  "object": "text_completion",
+  "created": 1746089992,
+  "model": "TheBloke/Mistral-7B-Instruct-v0.1-AWQ",
+  "choices": [
+    {
+      "index": 0,
+      "text": "\nCora is een vrouw die aan een progressieve neurologische ziekte lijdt. Ze gaat de dag aan met een gebruikelijke start en voelt zich vermoeid. Ze krijgt ondersteuning om zich aan te kleden en voelt zich iets meer op haar gemak. Ze werkt mee aan een rustige activiteit en vindt het plezierig om bezig te zijn, maar moet snel moeite maken met fijne motoriek. Ze voelt zich stabiel en vindt het prettig dat er geen haast is. In de middag koos ze voor een ontspannende activiteit en vond de frisse lucht haar goed deed. Ze voelt zich vermoeid aan het eind van de dag, maar tevreden over hoe de dag is verlopen. Cora heeft baat bij een rustige aanpak, duidelijke structuur en ondersteuning op momenten waarop haar energie en motoriek het zwaarst worden belast.",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null,
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 600,
+    "total_tokens": 840,
+    "completion_tokens": 240,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 600,
+    "prompt_ms": 1164.702,
+    "prompt_per_token_ms": 1.941169381,
+    "prompt_per_second": 515.153396563,
+    "predicted_n": 240,
+    "predicted_ms": 10482.315,
+    "predicted_per_token_ms": 43.676311076,
+    "predicted_per_second": 22.895706514
+  }
+}

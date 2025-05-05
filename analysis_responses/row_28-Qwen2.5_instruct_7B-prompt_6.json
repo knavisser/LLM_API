@@ -1,0 +1,32 @@
+{
+  "id": "cmpl-58d097466e8143f487271df90163f47b",
+  "object": "text_completion",
+  "created": 1746107556,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "text": "Lara kwam vanochtend wat gesloten over en had zichtbaar moeite om contact te maken. Tijdens het ontbijt bleef ze afzijdig en reageerde kortaf op vragen. Later in de ochtend toonde ze initiatief door zelf aan te geven dat ze zich onrustig voelde. Bij de geplande creatieve activiteit werkte Lara eerst zelfstandig, maar vroeg na enige tijd om hulp. Ze liet merken dat ze de aandacht prettig vond, hoewel ze bleef testen door kritische opmerkingen te maken. In de middag was Lara terughoudend tijdens een groepsactiviteit en trok zich na een korte tijd terug op haar kamer. Lara lijkt te worstelen met haar behoefte aan nabijheid en het tegelijk afweren hiervan. Ze zoekt bevestiging, maar toont ook een angst voor afwijzing. Er is extra aandacht besteed aan een rustige benadering en het bevestigen van haar gevoelens.\n",
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": "<|END_ABSTRACTIE|>",
+      "prompt_logprobs": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 530,
+    "total_tokens": 785,
+    "completion_tokens": 255,
+    "prompt_tokens_details": null
+  },
+  "timings": {
+    "prompt_n": 530,
+    "prompt_ms": 520.178,
+    "prompt_per_token_ms": 0.981466995,
+    "prompt_per_second": 1018.88296295,
+    "predicted_n": 255,
+    "predicted_ms": 4681.598,
+    "predicted_per_token_ms": 18.359206144,
+    "predicted_per_second": 54.46858607
+  }
+}
