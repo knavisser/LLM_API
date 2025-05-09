@@ -2,6 +2,7 @@ import 'dotenv/config';
 import express from 'express';
 import summarizeRoute from './routes/summarize.js';
 import healthRoute from './routes/health.js';
+import abstractionRoute from './routes/abstraction.js';
 import swaggerUi from 'swagger-ui-express';
 import swaggerJsdoc from 'swagger-jsdoc';
 
@@ -31,6 +32,7 @@ app.use(express.json());
 // ROUTES
 app.use('/summarize', summarizeRoute);
 app.use('/health', healthRoute);
+app.use('/abstraction', abstractionRoute);
 
 // DOCS --> 3000/docs
 app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));

@@ -2,7 +2,7 @@
  * @swagger
  * /summarize:
  *   post:
- *     summary: Get a summary from input text
+ *     summary: Get a summary from input data
  *     security:
  *       - bearerAuth: []
  *     requestBody:
