@@ -18,7 +18,9 @@ export function buildPrompt(text, type = "default", metadata = {}) {
             return systemPrompt + text + startSequence;
 
         case "translation":
-            return `### INSTRUCTIE\nVertaal deze Nederlandse medische tekst naar het Engels:\n\n${text}\n\n### Vertaling:\n`;
+            systemPrompt = `### Instruction: \nVertaal deze Nederlandse medische tekst naar het ${metadata.language}. Verzin hierbij geen nieuwe informatie maar vertaal alleen maar wat er in de input staat. Let op: je mag intern redeneren, maar in je output mag alleen de uiteindelijke abstractie verschijnen — géén tussenstappen, géén uitleg, géén interne gedachten. Zorg dat je alle informatie in de input vertaald en niks weg laat. Check na afloop de tekst op goed en verzorgd taalgebruik. Sluit je output af met exact de volgende woorden: <|END_TRANSLATION|>\n\n### Input:`;
+            startSequence = "\n\n### Output:\n<|TRANSLATION_START|>\n"
+            return systemPrompt + text + startSequence;
 
         case "customWithMetadata":
             const { context = "", keywords = [] } = metadata;
