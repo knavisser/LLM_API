@@ -3,6 +3,7 @@ import express from 'express';
 import summarizeRoute from './routes/summarize.js';
 import healthRoute from './routes/health.js';
 import abstractionRoute from './routes/abstraction.js';
+import translateRoute from './routes/translate.js';
 import swaggerUi from 'swagger-ui-express';
 import swaggerJsdoc from 'swagger-jsdoc';
 
@@ -33,6 +34,7 @@ app.use(express.json());
 app.use('/summarize', summarizeRoute);
 app.use('/health', healthRoute);
 app.use('/abstraction', abstractionRoute);
+app.use('/translate', translateRoute);
 
 // DOCS --> 3000/docs
 app.use('/docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
